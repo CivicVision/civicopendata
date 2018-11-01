@@ -9,4 +9,4 @@ fields:
   label: title
   name: title
 pages:
-- content/test.md
+- content/about.md

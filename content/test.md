@@ -5,3 +5,4 @@ title = "My awesome first CMS blog post"
 undefined = "jiji"
 
 +++
+**Hello, this is my first post.** 

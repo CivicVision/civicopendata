@@ -2,6 +2,11 @@
 label: Blog Post
 hide_body: false
 is_partial: false
-fields: []
+fields:
+- type: textarea
+- type: text
+  default: title
+  label: title
+  name: title
 pages:
 - content/test.md

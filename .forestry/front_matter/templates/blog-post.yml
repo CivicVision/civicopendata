@@ -3,7 +3,6 @@ label: Page
 hide_body: false
 is_partial: false
 fields:
-- type: textarea
 - type: text
   default: title
   label: title

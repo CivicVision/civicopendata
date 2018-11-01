@@ -7,5 +7,3 @@ fields:
   default: title
   label: title
   name: title
-pages:
-- content/about.md

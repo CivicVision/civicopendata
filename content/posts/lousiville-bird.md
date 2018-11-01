@@ -11,7 +11,8 @@ The City of Louisville in Kentucky is the first city to publish Bird Scooter Dat
 
 First let's look at whcih time frame the data is available:
 
-<div id="test" height="400"></div>
-{{% viz data="louisville_bird/days" id="#test" mode="vega" width="700" %}}
+<div id="days" height="400"></div> {{% viz data="louisville_bird/days" id="#days" mode="vega" width="700" %}}
 
-## 
+## People ride in the afternoon
+
+{{% viz data="louisville_bird/days" id="#test" mode="vega" width="700" %}}

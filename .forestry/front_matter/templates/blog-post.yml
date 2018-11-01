@@ -1,5 +1,5 @@
 ---
-label: Page
+label: Blog Post
 hide_body: false
 is_partial: false
 fields:
@@ -7,3 +7,6 @@ fields:
   default: title
   label: title
   name: title
+- type: boolean
+  name: viz
+  label: Has Visualization

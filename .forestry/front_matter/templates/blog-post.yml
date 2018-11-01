@@ -3,3 +3,5 @@ label: Blog Post
 hide_body: false
 is_partial: false
 fields: []
+pages:
+- content/test.md

@@ -1,4 +1,0 @@
-baseURL = "http://civicopendata.com/"
-languageCode = "en-us"
-title = "Civic Open Data"
-theme = "hyde-hyde"

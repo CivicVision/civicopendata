@@ -22,17 +22,5 @@ I searched for a place to share content I create or think about when working wit
 This is the place I want to share it.</description>
     </item>
     
-    <item>
-      <title>Louisville Bird Data published</title>
-      <link>http://civicopendata.com/posts/lousiville-bird/</link>
-      <pubDate>Thu, 01 Nov 2018 06:08:58 +0000</pubDate>
-      
-      <guid>http://civicopendata.com/posts/lousiville-bird/</guid>
-      <description>Bird has finally released it&amp;rsquo;s first Open Data set which we can use to analyze scooter usages.
-The City of Louisville in Kentucky is the first city to publish Bird Scooter Data as CSV in their Open Data Portal. They claim that they will update the data if more comes out. We will take a closer look.
-First let&amp;rsquo;s look at whcih time frame the data is available:
- viz = function() { vizSpec = {&#34;</description>
-    </item>
-    
   </channel>
 </rss>

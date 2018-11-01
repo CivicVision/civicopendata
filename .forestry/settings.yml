@@ -10,7 +10,7 @@ sections:
   create: all
   match: "**/*"
   templates:
-  - blog-post
+  - blog-post-d20357a2-b075-4f5a-a824-ea0d5b27b8a2
 - type: directory
   path: content
   label: Pages

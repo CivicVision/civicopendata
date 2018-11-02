@@ -21,4 +21,4 @@ Which might make sense, since most people that use scooters work downtown (where
 
 Although the data is only available for a month so we need to wait for more data to really see patterns emerge.
 
-<div id="time" height="400"></div>{{% viz data="louisville_bird/trip_distance" id="#time" mode="vega" width="700" %}}
+<div id="time" height="400"></div>{{% viz data="louisville_bird/hour_of__day" id="#time" mode="vega" width="700" %}}

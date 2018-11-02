@@ -15,7 +15,7 @@ First let's look at which time frame the data is available:
 
 ## People ride in the afternoon
 
-<div id="time" height="400"></div>{{% viz data="louisville_bird/days" id="#time" mode="vega" width="700" %}}
+<div id="time" height="400"></div>{{% viz data="louisville_bird/trip_distance" id="#time" mode="vega" width="700" %}}
 
 An interesting winkle in this dataset is the trip time. Most of the trips start after 12pm. People seem to ride scooters to and after lunch but not in their morning (commute). 
 

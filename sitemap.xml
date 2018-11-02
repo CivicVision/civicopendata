@@ -3,23 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://civicopendata.com/about/</loc>
+    <loc>https://civicopendata.com/about/</loc>
     <lastmod>2018-11-01T12:09:56+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://civicopendata.com/categories/</loc>
+    <loc>https://civicopendata.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://civicopendata.com/</loc>
+    <loc>https://civicopendata.com/</loc>
     <lastmod>2018-11-01T12:09:56+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://civicopendata.com/tags/</loc>
+    <loc>https://civicopendata.com/tags/</loc>
     <priority>0</priority>
   </url>
   

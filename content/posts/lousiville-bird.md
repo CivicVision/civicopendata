@@ -15,10 +15,10 @@ First let's look at which time frame the data is available:
 
 ## People ride in the afternoon
 
-An interesting winkle in this dataset is the trip time. Most of the trips start after 12pm. People seem to ride scooters to and after lunch but not in their morning (commute). 
+An interesting winkle in this dataset is the trip time. Most of the trips start after 12pm. People seem to ride scooters to and after lunch but not in their morning (commute).
 
-Which might make sense, since most people that use scooter work downtown (where most scooters are located) but may not life downtown. 
+Which might make sense, since most people that use scooters work downtown (where most scooters are located) but may not live downtown.
 
-Although the data is only available for a month so we need to wait for more data to really see patterns emerge. 
+Although the data is only available for a month so we need to wait for more data to really see patterns emerge.
 
 <div id="time" height="400"></div>{{% viz data="louisville_bird/trip_distance" id="#time" mode="vega" width="700" %}}

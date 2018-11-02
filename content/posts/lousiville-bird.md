@@ -5,9 +5,9 @@ viz: true
 draft: true
 
 ---
-Bird has finally released it's first Open Data set which we can use to analyze scooter usages.
+Bird has finally released it's first [Open Data set](https://data.louisvilleky.gov/dataset/bird-scooter) which we can use to analyze scooter usages.
 
-The City of Louisville in Kentucky is the first city to publish Bird Scooter Data as CSV in their Open Data Portal. They claim that they will update the data if more comes out. We will take a closer look.
+The City of Louisville in Kentucky is the first city to publish Bird Scooter Data as CSV in their [Open Data Portal](https://data.louisvilleky.gov/dataset/bird-scooter). They claim that they will update the data if more comes out. We will take a closer look.
 
 First let's look at which time frame the data is available:
 

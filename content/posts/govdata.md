@@ -1,22 +1,28 @@
 ---
-title: "Gov Data"
-date: 2018-10-30T17:08:58+01:00
-draft: true
+title: Gov Data
+date: 2018-10-30 16:08:58 +0000
 viz: true
----
+draft: true
 
-I was playing around with Vega and CKAN at the same time and came across a nice little way to visualize data right from CKAN or any API with vega.
+---
+While I was developing my government funded prototype „Automated City Open Data Census“ for Germany I was so deep into scrambling with metadata that I decided to take a closer look at the types and formats that get published. 
+
+So I used the CKAN API to get basic data from CKAN about licenses used, data formats and categories. 
+
+A few not so supering facts are that not fully open licenes still dominate the field and PDF is the most published data format in Germany. 
+
+And then I thought I could take a closer look into the US portal run by the federal government (data.gov) which is a CKAN based portal. And they aggregate data from states, counties and cities in the US. 
 
 It is fast and updates automatically because it is using the API rather than a static file.
 
-For Example here are the formats for datasets on gov.data:
+The most used format is a blank format, which means the metadata is not correct. Which is unfortunate. The second most used data format is HTML. Which is weird as well. But I see this often with data portals, they just link to a page and not to a dataset and then CKAN assumes it is just HTML and not the actual data format. 
 
 <div id="govdata-formats"></div>
+
 {{% viz data="govdata/formats" id="#govdata-formats" width="700" %}}
 
-Or let's take a look at the licences used by gov.data:
+Or let's take a look at the licences used by gov.data. The most used license is the us-pd which is the 
 
 <div id="govdata-licenses"></div>
+
 {{% viz data="govdata/licenses" id="#govdata-licenses" width="700" %}}
-
-

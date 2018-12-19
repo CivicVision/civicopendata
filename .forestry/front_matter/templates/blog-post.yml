@@ -16,5 +16,3 @@ fields:
 - type: file
   name: hero
   label: hero image
-pages:
-- content/about.md

@@ -17,9 +17,9 @@
       <pubDate>Thu, 01 Nov 2018 06:08:58 +0000</pubDate>
       
       <guid>https://civicopendata.com/posts/lousiville-bird/</guid>
-      <description>The City of Louisville in Kentucky is the first city to publish Bird Scooter Data as CSV in their Open Data Portal. They claim that they will update the data if more comes out. We will take a closer look.
-First let&amp;rsquo;s look at which time frame the data is available:
- viz = function() { vizSpec = {&#34;$schema&#34;:&#34;https://vega.github.io/schema/vega/v4.json&#34;,&#34;autosize&#34;:{&#34;contains&#34;:&#34;padding&#34;,&#34;type&#34;:&#34;fit&#34;},&#34;axes&#34;:[{&#34;encode&#34;:{&#34;labels&#34;:{&#34;update&#34;:{&#34;text&#34;:{&#34;signal&#34;:&#34;scale(&#39;xname&#39;, datum.value)&#34;}}}},&#34;labelColor&#34;:&#34;#383838&#34;,&#34;labelFont&#34;:&#34;Nunito Sans, Helvetica, sans-serif&#34;,&#34;labelFontSize&#34;:12,&#34;labelFontWeight&#34;:&#34;normal&#34;,&#34;labelPadding&#34;:10,&#34;orient&#34;:&#34;bottom&#34;,&#34;scale&#34;:&#34;xscale&#34;,&#34;tickSize&#34;:0,&#34;title&#34;:&#34;StartTime&#34;,&#34;titleColor&#34;:&#34;#686768&#34;,&#34;titleFont&#34;:&#34;Nunito Sans, Helvetica, sans-serif&#34;,&#34;titleFontSize&#34;:15,&#34;titleFontWeight&#34;:100,&#34;titlePadding&#34;:15},{&#34;labelColor&#34;:&#34;#383838&#34;,&#34;labelFont&#34;:&#34;Nunito Sans, Helvetica, sans-serif&#34;,&#34;labelFontSize&#34;:11,&#34;labelFontWeight&#34;:&#34;normal&#34;,&#34;labelOverlap&#34;:true,&#34;labelPadding&#34;:10,&#34;orient&#34;:&#34;left&#34;,&#34;scale&#34;:&#34;yscale&#34;,&#34;tickSize&#34;:3,&#34;title&#34;:&#34;count&#34;,&#34;titleColor&#34;:&#34;#686768&#34;,&#34;titleFont&#34;:&#34;Nunito Sans, Helvetica, sans-serif&#34;</description>
+      <description>The City of Louisville in Kentucky is the first city to publish Bird Scooter Data as CSV in their Open Data Portal. They updated their data three times already, so we should be in for a treat with monthly updates.
+We have to thank the City of Louisville and Bird for releasing data so that we can finally study how people use scooters in cities.
+This is just a partial analysis since we only have data for one city and only for a limited time frame.</description>
     </item>
     
   </channel>

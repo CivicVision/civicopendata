@@ -22,14 +22,14 @@
 
 <meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="Louisville Bird Data published"/>
-<meta name="twitter:description" content="The City of Louisville in Kentucky is the first city to publish Bird Scooter Data as CSV in their Open Data Portal. They claim that they will update the data if more comes out. We will take a closer look.
-First let&rsquo;s look at which time frame the data is available:
- viz = function() { vizSpec = {&#34;$schema&#34;:&#34;https://vega.github.io/schema/vega/v4.json&#34;,&#34;autosize&#34;:{&#34;contains&#34;:&#34;padding&#34;,&#34;type&#34;:&#34;fit&#34;},&#34;axes&#34;:[{&#34;encode&#34;:{&#34;labels&#34;:{&#34;update&#34;:{&#34;text&#34;:{&#34;signal&#34;:&#34;scale(&#39;xname&#39;, datum.value)&#34;}}}},&#34;labelColor&#34;:&#34;#383838&#34;,&#34;labelFont&#34;:&#34;Nunito Sans, Helvetica, sans-serif&#34;,&#34;labelFontSize&#34;:12,&#34;labelFontWeight&#34;:&#34;normal&#34;,&#34;labelPadding&#34;:10,&#34;orient&#34;:&#34;bottom&#34;,&#34;scale&#34;:&#34;xscale&#34;,&#34;tickSize&#34;:0,&#34;title&#34;:&#34;StartTime&#34;,&#34;titleColor&#34;:&#34;#686768&#34;,&#34;titleFont&#34;:&#34;Nunito Sans, Helvetica, sans-serif&#34;,&#34;titleFontSize&#34;:15,&#34;titleFontWeight&#34;:100,&#34;titlePadding&#34;:15},{&#34;labelColor&#34;:&#34;#383838&#34;,&#34;labelFont&#34;:&#34;Nunito Sans, Helvetica, sans-serif&#34;,&#34;labelFontSize&#34;:11,&#34;labelFontWeight&#34;:&#34;normal&#34;,&#34;labelOverlap&#34;:true,&#34;labelPadding&#34;:10,&#34;orient&#34;:&#34;left&#34;,&#34;scale&#34;:&#34;yscale&#34;,&#34;tickSize&#34;:3,&#34;title&#34;:&#34;count&#34;,&#34;titleColor&#34;:&#34;#686768&#34;,&#34;titleFont&#34;:&#34;Nunito Sans, Helvetica, sans-serif&#34;"/>
+<meta name="twitter:description" content="The City of Louisville in Kentucky is the first city to publish Bird Scooter Data as CSV in their Open Data Portal. They updated their data three times already, so we should be in for a treat with monthly updates.
+We have to thank the City of Louisville and Bird for releasing data so that we can finally study how people use scooters in cities.
+This is just a partial analysis since we only have data for one city and only for a limited time frame."/>
 
 <meta property="og:title" content="Louisville Bird Data published" />
-<meta property="og:description" content="The City of Louisville in Kentucky is the first city to publish Bird Scooter Data as CSV in their Open Data Portal. They claim that they will update the data if more comes out. We will take a closer look.
-First let&rsquo;s look at which time frame the data is available:
- viz = function() { vizSpec = {&#34;$schema&#34;:&#34;https://vega.github.io/schema/vega/v4.json&#34;,&#34;autosize&#34;:{&#34;contains&#34;:&#34;padding&#34;,&#34;type&#34;:&#34;fit&#34;},&#34;axes&#34;:[{&#34;encode&#34;:{&#34;labels&#34;:{&#34;update&#34;:{&#34;text&#34;:{&#34;signal&#34;:&#34;scale(&#39;xname&#39;, datum.value)&#34;}}}},&#34;labelColor&#34;:&#34;#383838&#34;,&#34;labelFont&#34;:&#34;Nunito Sans, Helvetica, sans-serif&#34;,&#34;labelFontSize&#34;:12,&#34;labelFontWeight&#34;:&#34;normal&#34;,&#34;labelPadding&#34;:10,&#34;orient&#34;:&#34;bottom&#34;,&#34;scale&#34;:&#34;xscale&#34;,&#34;tickSize&#34;:0,&#34;title&#34;:&#34;StartTime&#34;,&#34;titleColor&#34;:&#34;#686768&#34;,&#34;titleFont&#34;:&#34;Nunito Sans, Helvetica, sans-serif&#34;,&#34;titleFontSize&#34;:15,&#34;titleFontWeight&#34;:100,&#34;titlePadding&#34;:15},{&#34;labelColor&#34;:&#34;#383838&#34;,&#34;labelFont&#34;:&#34;Nunito Sans, Helvetica, sans-serif&#34;,&#34;labelFontSize&#34;:11,&#34;labelFontWeight&#34;:&#34;normal&#34;,&#34;labelOverlap&#34;:true,&#34;labelPadding&#34;:10,&#34;orient&#34;:&#34;left&#34;,&#34;scale&#34;:&#34;yscale&#34;,&#34;tickSize&#34;:3,&#34;title&#34;:&#34;count&#34;,&#34;titleColor&#34;:&#34;#686768&#34;,&#34;titleFont&#34;:&#34;Nunito Sans, Helvetica, sans-serif&#34;" />
+<meta property="og:description" content="The City of Louisville in Kentucky is the first city to publish Bird Scooter Data as CSV in their Open Data Portal. They updated their data three times already, so we should be in for a treat with monthly updates.
+We have to thank the City of Louisville and Bird for releasing data so that we can finally study how people use scooters in cities.
+This is just a partial analysis since we only have data for one city and only for a limited time frame." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://civicopendata.com/posts/lousiville-bird/" /><meta property="article:published_time" content="2018-11-01T06:08:58&#43;00:00"/>
 <meta property="article:modified_time" content="2018-11-01T06:08:58&#43;00:00"/>
@@ -129,7 +129,7 @@ First let&rsquo;s look at which time frame the data is available:
     
     
     <br/>
-    <i class="fas fa-clock"></i> 3 min read
+    <i class="fas fa-clock"></i> 2 min read
 </div>
 
 
@@ -137,9 +137,15 @@ First let&rsquo;s look at which time frame the data is available:
   
   
   <div class="post">
-    <p>The City of Louisville in Kentucky is the first city to publish Bird Scooter Data as CSV in their <a href="https://data.louisvilleky.gov/dataset/bird-scooter">Open Data Portal</a>. They claim that they will update the data if more comes out. We will take a closer look.</p>
+    
 
-<p>First let&rsquo;s look at which time frame the data is available:</p>
+<p>The City of Louisville in Kentucky is the first city to publish Bird Scooter Data as CSV in their <a href="https://data.louisvilleky.gov/dataset/bird-scooter">Open Data Portal</a>. They updated their data three times already, so we should be in for a treat with monthly updates.</p>
+
+<p>We have to thank the City of Louisville and Bird for releasing data so that we can finally study how people use scooters in cities.</p>
+
+<p>This is just a partial analysis since we only have data for one city and only for a limited time frame.</p>
+
+<p>First let&rsquo;s look at the time frame the analysis:</p>
 
 <p><div id="days" height="400"></div> <script type="text/javascript">
 	viz = function() {
@@ -166,19 +172,13 @@ First let&rsquo;s look at which time frame the data is available:
 </script>
 </p>
 
-<p>Bird has finally released it&rsquo;s first <a href="https://data.louisvilleky.gov/dataset/bird-scooter">Open Data set</a> which we can use to analyze scooter usages.</p>
-
-<p>We have to thank Bird for releasing data so that we can finally study how people use scooters in cities.</p>
-
-<p>This is just a partial analysis since we only have data for one city and only for a limited time frame.</p>
-
 <p>Some results were expected, or at least I expected them. And there are others that were surprising.</p>
 
-<p>Let’s begin with the surprising: People drive far with their scooters.</p>
+<h3 id="let-s-begin-with-the-surprising-people-drive-far-with-their-scooters">Let’s begin with the surprising: People drive far with their scooters.</h3>
 
 <p>I would not have imagined that people drive a scooter for longer than 3 hours, but they do. I assume that people don&rsquo;t ride for three hours continuously but take breaks now and then and don&rsquo;t lock the scooter. It would be interesting to see if that were all either first rides (which are typically free) or maintenance rides that got falsely flagged as regular rides. But the data does not provide any meaningful insights here.</p>
 
-<p>Another surprising (maybe not so surprising) thing is most rides begin after lunch-time.</p>
+<h3 id="another-surprising-maybe-not-so-surprising-thing-is-most-rides-begin-after-lunch-time">Another surprising (maybe not so surprising) thing is most rides begin after lunch-time.</h3>
 
 <p>I suspect that people work in downtowns but don’t live there, and most of the scooters get distributed downtown areas. Therefore they use them to drive to lunch and after work to drive home or to the next transit stop. But they cannot drive from home to work. Or at least that seems to be the case.</p>
 
@@ -186,7 +186,9 @@ First let&rsquo;s look at which time frame the data is available:
 
 <p><div id="time" height="400"></div></p>
 
-<p>The not so surprising result is that most rides occur on Saturdays. Again most scooters are probably downtown and get used more often when people are downtown, for example for lunch or on Saturday for shopping or wandering around.</p>
+<h3 id="the-not-so-surprising-result-is-that-most-rides-occur-on-saturdays">The not so surprising result is that most rides occur on Saturdays.</h3>
+
+<p>Again most scooters are probably downtown and get used more often when people are downtown, for example for lunch or on Saturday for shopping or wandering around.</p>
 
 <p><div id="time" height="400"></div></p>
 

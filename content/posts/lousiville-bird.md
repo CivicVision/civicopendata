@@ -4,7 +4,7 @@ date: 2018-11-01 06:08:58 +0000
 viz: true
 
 ---
-The City of Louisville in Kentucky is the first city to publish Bird Scooter Data as CSV in their [Open Data Portal](https://data.louisvilleky.gov/dataset/bird-scooter). They updated their data three times already, so we should be in for a treat with monthly updates. 
+The City of Louisville in Kentucky is the first city to publish Bird Scooter Data as CSV in their [Open Data Portal](https://data.louisvilleky.gov/dataset/bird-scooter). They updated their data three times already, so we should be in for a treat with monthly updates.
 
 We have to thank the City of Louisville and Bird for releasing data so that we can finally study how people use scooters in cities.
 
@@ -30,7 +30,7 @@ But again this dataset is very narrow, only three months of data and only one ci
 
 <div id="time" height="400"></div>{{% viz data="louisville_bird/hour_of_day" id="#time" mode="vega" width="700" %}}
 
-### The not so surprising result is that most rides occur on Saturdays. 
+### The not so surprising result is that most rides occur on Saturdays.
 
 Again most scooters are probably downtown and get used more often when people are downtown, for example for lunch or on Saturday for shopping or wandering around.
 

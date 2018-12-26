@@ -18,7 +18,7 @@ Some results were expected, or at least I expected them. And there are others th
 
 ### Let’s begin with the surprising: People drive far with their scooters.
 
-<div id="distance" height="400"></div> {{% viz data="louisville__bird/trip__distance" id="#distance" mode="vega" width="700" %}}
+<div id="distance" height="400"></div> {{% viz data="louisville_bird/trip_distance" id="#distance" mode="vega" width="700" %}}
 
 I would not have imagined that people drive a scooter for longer than 3 hours, but they do. I assume that people don't ride for three hours continuously but take breaks now and then and don't lock the scooter. It would be interesting to see if that were all either first rides (which are typically free) or maintenance rides that got falsely flagged as regular rides. But the data does not provide any meaningful insights here.
 

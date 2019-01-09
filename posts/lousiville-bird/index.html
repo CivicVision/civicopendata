@@ -107,7 +107,7 @@ This is just a partial analysis since we only have data for one city and only fo
       </div>
     </div>
     <div class="copyright">
-  &copy; 2018 .
+  &copy; 2019 .
   <a href="https://creativecommons.org/licenses/by-sa/4.0">Some Rights Reserved</a>.
   Built with <a href="https://gohugo.io">Hugo</a> ❤️ <a href="https://github.com/htr3n/hyde-hyde">hyde-hyde</a>.
   
@@ -209,13 +209,59 @@ This is just a partial analysis since we only have data for one city and only fo
 
 <p>But again this dataset is very narrow, only three months of data and only one city.</p>
 
-<p><div id="time" height="400"></div></p>
+<p><div id="time" height="400"></div><script type="text/javascript">
+	viz = function() {
+		
+		
+			
+		
+		
+		
+		vizSpec = {"$schema":"https://vega.github.io/schema/vega/v4.json","autosize":{"contains":"padding","type":"fit"},"axes":[{"encode":{"labels":{"update":{"text":{"signal":"scale('xname', datum.value)"}}}},"labelColor":"#383838","labelFont":"Nunito Sans, Helvetica, sans-serif","labelFontSize":12,"labelFontWeight":"normal","labelPadding":10,"orient":"bottom","scale":"xscale","tickSize":0,"title":"start time","titleColor":"#686768","titleFont":"Nunito Sans, Helvetica, sans-serif","titleFontSize":15,"titleFontWeight":100,"titlePadding":15},{"labelColor":"#383838","labelFont":"Nunito Sans, Helvetica, sans-serif","labelFontSize":11,"labelFontWeight":"normal","labelOverlap":true,"labelPadding":10,"orient":"left","scale":"yscale","tickSize":3,"title":"Number of trips","titleColor":"#686768","titleFont":"Nunito Sans, Helvetica, sans-serif","titleFontSize":14,"titleFontWeight":100,"titlePadding":20}],"background":"white","data":[{"name":"table","values":[{"bar":"count","group":0,"name":"04:00","y":2},{"bar":"count","group":1,"name":"05:00","y":11},{"bar":"count","group":2,"name":"06:00","y":34},{"bar":"count","group":3,"name":"07:00","y":99},{"bar":"count","group":4,"name":"08:00","y":204},{"bar":"count","group":5,"name":"09:00","y":289},{"bar":"count","group":6,"name":"10:00","y":393},{"bar":"count","group":7,"name":"11:00","y":773},{"bar":"count","group":8,"name":"12:00","y":925},{"bar":"count","group":9,"name":"13:00","y":996},{"bar":"count","group":10,"name":"14:00","y":929},{"bar":"count","group":11,"name":"15:00","y":943},{"bar":"count","group":12,"name":"16:00","y":986},{"bar":"count","group":13,"name":"17:00","y":942},{"bar":"count","group":14,"name":"18:00","y":912},{"bar":"count","group":15,"name":"19:00","y":796},{"bar":"count","group":16,"name":"20:00","y":638},{"bar":"count","group":17,"name":"21:00","y":4}]}],"height":714,"marks":[{"encode":{"enter":{"x":{"field":"group","scale":"xscale"}}},"from":{"facet":{"data":"table","groupby":"group","name":"facet"}},"marks":[{"encode":{"enter":{"fill":{"field":"bar","scale":"color"},"width":{"band":1,"scale":"pos"},"x":{"field":"bar","scale":"pos"},"y":{"field":"y","scale":"yscale"},"y2":{"scale":"yscale","value":0}}},"from":{"data":"facet"},"name":"bars","type":"rect"}],"scales":[{"domain":{"data":"facet","field":"bar"},"name":"pos","range":"width","type":"band"}],"signals":[{"name":"width","update":"bandwidth('xscale')"}],"type":"group"}],"scales":[{"domain":{"data":"table","field":"group"},"name":"xscale","padding":0.15,"range":"width","type":"band"},{"domain":{"data":"table","field":"group"},"name":"xname","range":["04:00","05:00","06:00","07:00","08:00","09:00","10:00","11:00","12:00","13:00","14:00","15:00","16:00","17:00","18:00","19:00","20:00","21:00"],"type":"ordinal"},{"domain":{"data":"table","field":"y"},"name":"yscale","nice":true,"range":"height","type":"linear","zero":true},{"domain":{"data":"table","field":"bar"},"name":"color","range":["#769bb0"],"type":"ordinal"}],"title":{"color":"#383838","font":"Nunito Sans, Helvetica, sans-serif","fontSize":20,"fontWeight":"normal","offset":15,"text":"Bird trips by hour of day"},"width":2162};
+		opt = { mode: "vega-lite", actions: false };
+		
+			opt['width'] = "700";
+		
+		vegaEmbed('#time', vizSpec, opt, function(error, result) {
+				return;
+		});
+	}
+	if(window.addEventListener){
+		window.addEventListener('load', viz);
+	}else{
+		window.attachEvent('onload', viz);
+	}
+</script>
+</p>
 
 <h3 id="the-not-so-surprising-result-is-that-most-rides-occur-on-saturdays">The not so surprising result is that most rides occur on Saturdays.</h3>
 
 <p>Again most scooters are probably downtown and get used more often when people are downtown, for example for lunch or on Saturday for shopping or wandering around.</p>
 
-<p><div id="time" height="400"></div></p>
+<p><div id="time" height="400"></div><script type="text/javascript">
+	viz = function() {
+		
+		
+			
+		
+		
+		
+		vizSpec = {"$schema":"https://vega.github.io/schema/vega/v4.json","autosize":{"contains":"padding","type":"fit"},"axes":[{"encode":{"labels":{"update":{"text":{"signal":"scale('xname', datum.value)"}}}},"labelColor":"#383838","labelFont":"Nunito Sans, Helvetica, sans-serif","labelFontSize":12,"labelFontWeight":"normal","labelPadding":10,"orient":"bottom","scale":"xscale","tickSize":0,"title":"start time","titleColor":"#686768","titleFont":"Nunito Sans, Helvetica, sans-serif","titleFontSize":15,"titleFontWeight":100,"titlePadding":15},{"labelColor":"#383838","labelFont":"Nunito Sans, Helvetica, sans-serif","labelFontSize":11,"labelFontWeight":"normal","labelOverlap":true,"labelPadding":10,"orient":"left","scale":"yscale","tickSize":3,"title":"Number of trips","titleColor":"#686768","titleFont":"Nunito Sans, Helvetica, sans-serif","titleFontSize":14,"titleFontWeight":100,"titlePadding":20}],"background":"white","data":[{"name":"table","values":[{"bar":"count","group":0,"name":"04:00","y":2},{"bar":"count","group":1,"name":"05:00","y":11},{"bar":"count","group":2,"name":"06:00","y":34},{"bar":"count","group":3,"name":"07:00","y":99},{"bar":"count","group":4,"name":"08:00","y":204},{"bar":"count","group":5,"name":"09:00","y":289},{"bar":"count","group":6,"name":"10:00","y":393},{"bar":"count","group":7,"name":"11:00","y":773},{"bar":"count","group":8,"name":"12:00","y":925},{"bar":"count","group":9,"name":"13:00","y":996},{"bar":"count","group":10,"name":"14:00","y":929},{"bar":"count","group":11,"name":"15:00","y":943},{"bar":"count","group":12,"name":"16:00","y":986},{"bar":"count","group":13,"name":"17:00","y":942},{"bar":"count","group":14,"name":"18:00","y":912},{"bar":"count","group":15,"name":"19:00","y":796},{"bar":"count","group":16,"name":"20:00","y":638},{"bar":"count","group":17,"name":"21:00","y":4}]}],"height":714,"marks":[{"encode":{"enter":{"x":{"field":"group","scale":"xscale"}}},"from":{"facet":{"data":"table","groupby":"group","name":"facet"}},"marks":[{"encode":{"enter":{"fill":{"field":"bar","scale":"color"},"width":{"band":1,"scale":"pos"},"x":{"field":"bar","scale":"pos"},"y":{"field":"y","scale":"yscale"},"y2":{"scale":"yscale","value":0}}},"from":{"data":"facet"},"name":"bars","type":"rect"}],"scales":[{"domain":{"data":"facet","field":"bar"},"name":"pos","range":"width","type":"band"}],"signals":[{"name":"width","update":"bandwidth('xscale')"}],"type":"group"}],"scales":[{"domain":{"data":"table","field":"group"},"name":"xscale","padding":0.15,"range":"width","type":"band"},{"domain":{"data":"table","field":"group"},"name":"xname","range":["04:00","05:00","06:00","07:00","08:00","09:00","10:00","11:00","12:00","13:00","14:00","15:00","16:00","17:00","18:00","19:00","20:00","21:00"],"type":"ordinal"},{"domain":{"data":"table","field":"y"},"name":"yscale","nice":true,"range":"height","type":"linear","zero":true},{"domain":{"data":"table","field":"bar"},"name":"color","range":["#769bb0"],"type":"ordinal"}],"title":{"color":"#383838","font":"Nunito Sans, Helvetica, sans-serif","fontSize":20,"fontWeight":"normal","offset":15,"text":"Bird trips by hour of day"},"width":2162};
+		opt = { mode: "vega-lite", actions: false };
+		
+			opt['width'] = "700";
+		
+		vegaEmbed('#time', vizSpec, opt, function(error, result) {
+				return;
+		});
+	}
+	if(window.addEventListener){
+		window.addEventListener('load', viz);
+	}else{
+		window.attachEvent('onload', viz);
+	}
+</script>
+</p>
 
 <p>This was a first exciting dive into the dataset, and I look forward to the release of more data and maybe even more cities releasing their data. Also interesting would be if Lime and other Scooter providers would release their data.</p>
 

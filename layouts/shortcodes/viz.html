@@ -10,9 +10,19 @@
 		{{ $dataJ := getJSON $url }}
 		vizSpec = {{$dataJ}};
 		opt = { mode: {{$vizmode}}, actions: false };
+		var width, clientWidth;
 		{{ if .Get "width" }}
-			opt['width'] = {{ .Get "width" }};
+			width = parseInt({{ .Get "width" }});
 		{{ end }}
+		clientWidth = document.getElementById('{{replace (.Get "id") "#" "" }}').clientWidth;
+		if(clientWidth < width) {
+			width = clientWidth;
+		}
+		vizSpec['width'] = width;
+		vizSpec["autosize"] = {
+			"type": "fit",
+			"contains": "padding"
+		};
 		vegaEmbed('{{.Get "id"}}', vizSpec, opt, function(error, result) {
 				return;
 		});

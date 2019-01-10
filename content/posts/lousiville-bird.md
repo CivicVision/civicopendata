@@ -8,7 +8,7 @@ The City of Louisville in Kentucky is the first city to publish Bird Scooter Dat
 
 We have to thank the City of Louisville and Bird for releasing data so that we can finally study how people use scooters in cities.
 
-This is just a partial analysis since we only have data for one city and only for a limited time frame.
+This is just a partial analysis since we only have data for one city and only for a limited time frame. I used the first month of the released data because it appears to be very clean. 
 
 First let's look at the time frame the analysis:
 
@@ -32,11 +32,10 @@ But again this dataset is very narrow, only three months of data and only one ci
 
 <div id="time" height="400"></div>{{% viz data="louisville_bird/hour_of_day" id="#time" mode="vega" width="700" %}}
 
-### The not so surprising result is that most rides occur on Saturdays.
+### The not so surprising result is that most rides occur on Saturdays (Weekends).
 
 Again most scooters are probably downtown and get used more often when people are downtown, for example for lunch or on Saturday for shopping or wandering around.
 
 <div id="weekday" height="400"></div>{{% viz data="louisville_bird/weekday_count_weekend" id="#weekday" mode="vega" width="700" %}}
 
 This was a first exciting dive into the dataset, and I look forward to the release of more data and maybe even more cities releasing their data. Also interesting would be if Lime and other Scooter providers would release their data.
-

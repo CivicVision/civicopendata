@@ -2,7 +2,7 @@
   "$schema": "https://vega.github.io/schema/vega/v4.json",
   "background": "white",
   "title": {
-    "text": "Trips per distance",
+    "text": "Distance per Trip",
     "offset": 15,
     "color": "#383838",
     "font": "Nunito Sans, Helvetica, sans-serif",

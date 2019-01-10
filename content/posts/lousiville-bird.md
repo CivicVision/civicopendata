@@ -18,9 +18,11 @@ Some results were expected, or at least I expected them. And there are others th
 
 ### Let’s begin with the surprising: People drive far with their scooters.
 
-<div id="distance" height="400"></div> {{% viz data="louisville_bird/trip_distance" id="#distance" mode="vega" width="700" %}}
+<div id="trip_time" height="400"></div> {{% viz data="louisville_bird/avg_trip_time" id="#trip_time" mode="vega" width="700" %}}
 
 I would not have imagined that people drive a scooter for longer than 3 hours, but they do. I assume that people don't ride for three hours continuously but take breaks now and then and don't lock the scooter. It would be interesting to see if that were all either first rides (which are typically free) or maintenance rides that got falsely flagged as regular rides. But the data does not provide any meaningful insights here.
+
+<div id="distance" height="400"></div> {{% viz data="louisville_bird/trip_distance" id="#distance" mode="vega" width="700" %}}
 
 ### Another surprising (maybe not so surprising) thing is most rides begin after lunch-time.
 
@@ -34,6 +36,7 @@ But again this dataset is very narrow, only three months of data and only one ci
 
 Again most scooters are probably downtown and get used more often when people are downtown, for example for lunch or on Saturday for shopping or wandering around.
 
-<div id="time" height="400"></div>{{% viz data="louisville_bird/hour_of_day" id="#time" mode="vega" width="700" %}}
+<div id="weekday" height="400"></div>{{% viz data="louisville_bird/weekday_count_weekend" id="#weekday" mode="vega" width="700" %}}
 
 This was a first exciting dive into the dataset, and I look forward to the release of more data and maybe even more cities releasing their data. Also interesting would be if Lime and other Scooter providers would release their data.
+

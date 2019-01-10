@@ -78,8 +78,27 @@
     {
       "name": "color",
       "type": "ordinal",
-      "domain": {"data": "table", "field": "bar"},
-      "range": ["#769bb0"]
+      "domain": {"data": "table", "field": "group"},
+			"range": [
+          "#769bb0",
+          "#769bb0",
+          "#769bb0",
+          "#769bb0",
+          "#769bb0",
+          "#769bb0",
+          "#769bb0",
+          "#769bb0",
+          "#e24f4a",
+          "#e24f4a",
+          "#e24f4a",
+          "#e24f4a",
+          "#e24f4a",
+          "#e24f4a",
+          "#e24f4a",
+          "#e24f4a",
+          "#e24f4a",
+          "#e24f4a"
+			]
     }
   ],
   "axes": [
@@ -147,7 +166,7 @@
               "width": {"scale": "pos", "band": 1},
               "y": {"scale": "yscale", "field": "y"},
               "y2": {"scale": "yscale", "value": 0},
-              "fill": {"scale": "color", "field": "bar"}
+              "fill": {"scale": "color", "field": "group"}
             }
           }
         }

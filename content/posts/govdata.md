@@ -21,9 +21,11 @@ The most used format is a blank format, which means the metadata is not correct.
 
 {{% viz data="govdata/formats" id="#govdata-formats" width="700" %}}
 
-Or let's take a look at the licences used by gov.data. The most used license is the us-pd which is the \[U.S. Government Works license\](https://www.usa.gov/government-works).  
+Or let's take a look at the licences used by gov.data. The most used license is the us-pd which is the [U.S. Government Works license](https://www.usa.gov/government-works).  
 
 > usually prepared by officers or employees of the United States government as part of their official duties
+
+Which is a great sign that most of the licenses in the US is an open license. That is not the case in Germany. 
 
 <div id="govdata-licenses"></div>
 

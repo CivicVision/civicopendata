@@ -1,0 +1,13 @@
+{
+	"version": 3,
+	"file": "civic.css",
+	"sourceRoot": "/opt/buildhome/repo",
+	"sources": [
+		"stdin"
+	],
+	"sourcesContent": [
+		".sidebar {\n\tbackground-color: #2B4C7E;\n}\n"
+	],
+	"names": [],
+	"mappings": "AAAA,AAAA,QAAQ,AAAC,CACR,gBAAgB,CAAE,OAAO,CACzB"
+}

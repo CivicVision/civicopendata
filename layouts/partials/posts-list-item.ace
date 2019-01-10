@@ -1,0 +1,11 @@
+.post-list__item
+  span.item__title--big
+    a href="{{ .RelPermalink }}" {{ .Title }}
+  {{ if .Description }}
+  {{ .Description }}
+  {{ else }}
+  {{ .Summary }}
+  {{ end }}
+  {{ if .Truncated }}
+    a class="read-more-symbol" href="{{ .RelPermalink }}" ➦
+  {{ end }}

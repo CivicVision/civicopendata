@@ -1,0 +1,21 @@
+{{ define "header" }}
+  {{ partial "header.html" . }}
+{{ end }}
+
+{{ define "content" }}
+  <div class="post-list">
+    {{ $paginator := .Paginate (where .Data.Pages "Type" "posts") }}
+    {{ range $paginator.Pages }}
+			{{ partial "posts-list-item" . }}
+     {{ end }}
+  </div>
+  {{ partial "pagination.html" . }}
+{{ end }}
+
+{{ define "footer" }}
+  {{ if .Site.GoogleAnalytics }}
+    <!-- Google Analytics -->
+    {{ template "_internal/google_analytics_async.html" . }}
+  {{ end }}
+  {{ partial "footer/font-awesome-js.html" . }}
+{{ end }}

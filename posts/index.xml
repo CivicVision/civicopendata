@@ -28,7 +28,9 @@ This is just a partial analysis since we only have data for one city and only fo
       <pubDate>Tue, 30 Oct 2018 16:08:58 +0000</pubDate>
       
       <guid>https://civicopendata.com/posts/govdata/</guid>
-      <description>While I was developing my government funded prototype „Automated City Open Data Census“ for Germany I was so deep into scrambling with metadata that I decided to take a closer look at the types and formats that get published. So I used the CKAN API to get basic data from CKAN about licenses used, data formats and categories. A few not so supering facts are that not fully open licenes still dominate the field and PDF is the most published data format in Germany.</description>
+      <description>Update: Due to the government shutdown the API from data.gov does not respond.
+While I was developing my government funded prototype „Automated City Open Data Census“ for Germany I was so deep into scrambling with metadata that I decided to take a closer look at the types and formats that get published.
+So I used the CKAN API to get basic data from CKAN about licenses used, data formats and categories.</description>
     </item>
     
   </channel>

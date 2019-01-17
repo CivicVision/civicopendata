@@ -22,10 +22,14 @@
 
 <meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="Gov Data"/>
-<meta name="twitter:description" content="While I was developing my government funded prototype „Automated City Open Data Census“ for Germany I was so deep into scrambling with metadata that I decided to take a closer look at the types and formats that get published. So I used the CKAN API to get basic data from CKAN about licenses used, data formats and categories. A few not so supering facts are that not fully open licenes still dominate the field and PDF is the most published data format in Germany."/>
+<meta name="twitter:description" content="Update: Due to the government shutdown the API from data.gov does not respond.
+While I was developing my government funded prototype „Automated City Open Data Census“ for Germany I was so deep into scrambling with metadata that I decided to take a closer look at the types and formats that get published.
+So I used the CKAN API to get basic data from CKAN about licenses used, data formats and categories."/>
 
 <meta property="og:title" content="Gov Data" />
-<meta property="og:description" content="While I was developing my government funded prototype „Automated City Open Data Census“ for Germany I was so deep into scrambling with metadata that I decided to take a closer look at the types and formats that get published. So I used the CKAN API to get basic data from CKAN about licenses used, data formats and categories. A few not so supering facts are that not fully open licenes still dominate the field and PDF is the most published data format in Germany." />
+<meta property="og:description" content="Update: Due to the government shutdown the API from data.gov does not respond.
+While I was developing my government funded prototype „Automated City Open Data Census“ for Germany I was so deep into scrambling with metadata that I decided to take a closer look at the types and formats that get published.
+So I used the CKAN API to get basic data from CKAN about licenses used, data formats and categories." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://civicopendata.com/posts/govdata/" /><meta property="article:published_time" content="2018-10-30T16:08:58&#43;00:00"/>
 <meta property="article:modified_time" content="2018-10-30T16:08:58&#43;00:00"/>
@@ -136,17 +140,19 @@
   
   
   <div class="post">
-    <p>While I was developing my government funded prototype „Automated City Open Data Census“ for Germany I was so deep into scrambling with metadata that I decided to take a closer look at the types and formats that get published. </p>
+    <p><em>Update:</em> <strong>Due to the government shutdown the API from data.gov does not respond.</strong></p>
 
-<p>So I used the CKAN API to get basic data from CKAN about licenses used, data formats and categories. </p>
+<p>While I was developing my government funded prototype „Automated City Open Data Census“ for Germany I was so deep into scrambling with metadata that I decided to take a closer look at the types and formats that get published.</p>
 
-<p>A few not so supering facts are that not fully open licenes still dominate the field and PDF is the most published data format in Germany. </p>
+<p>So I used the CKAN API to get basic data from CKAN about licenses used, data formats and categories.</p>
 
-<p>And then I thought I could take a closer look into the US portal run by the federal government (data.gov) which is a CKAN based portal. And they aggregate data from states, counties and cities in the US. </p>
+<p>A few not so supering facts are that not fully open licenes still dominate the field and PDF is the most published data format in Germany.</p>
+
+<p>And then I thought I could take a closer look into the US portal run by the federal government (data.gov) which is a CKAN based portal. And they aggregate data from states, counties and cities in the US.</p>
 
 <p>It is fast and updates automatically because it is using the API rather than a static file.</p>
 
-<p>The most used format is a blank format, which means the metadata is not correct. Which is unfortunate. The second most used data format is HTML. Which is weird as well. But I see this often with data portals, they just link to a page and not to a dataset and then CKAN assumes it is just HTML and not the actual data format. </p>
+<p>The most used format is a blank format, which means the metadata is not correct. Which is unfortunate. The second most used data format is HTML. Which is weird as well. But I see this often with data portals, they just link to a page and not to a dataset and then CKAN assumes it is just HTML and not the actual data format.</p>
 
 <div id="govdata-formats"></div>
 

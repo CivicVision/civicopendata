@@ -17,4 +17,5 @@ fields:
   name: hero
   label: hero image
 pages:
+- content/posts/title.md
 - content/posts/interesting-civic-tech-things.md

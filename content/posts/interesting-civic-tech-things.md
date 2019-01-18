@@ -14,6 +14,31 @@ I'm still figuring out how to divide the content into sections. If you have sugg
 
 Here is a list of things that I found last week that I think might be interesting to you:
 
+## Visualizations
+
+__Police response time__
+
+* [Visualization(Image on twitter)](https://mobile.twitter.com/Ashley_J_Kirk/status/1084719937082572800)
+* [Article (paid)](https://www.telegraph.co.uk/news/2019/01/13/crime-victims-wait-half-hour-police-respond-999-calls-response/)
+
+__Which cities make it easiest to commute without a car?__
+
+* [Visualization/Tool/Report](https://naindicators.itdp.org)
+* [Article](https://www.fastcompany.com/90292527/which-cities-make-it-easiest-to-commute-without-a-car)
+
+__Who owns England?__
+WHERE IS THE UNREGISTERED LAND?
+
+* [Visualization](http://unregistered.whoownsengland.org)
+* [Blogpost](https://whoownsengland.org/2019/01/11/the-holes-in-the-map-englands-unregistered-land/)
+
+
+Older from November:
+
+* [Could Your Police Department Be Inflating Rape Clearance Rates?](https://projects.propublica.org/graphics/rape_clearance)
+* [Is Manhattan on the edge of a prime housing precipice?](https://www.ft.com/content/db675edc-c7f2-11e8-86e6-19f5b7134d1c)
+
+
 ## Articles about Civic Tech/Government/Open Data
 
 * [BART Releases Multimodal Trip-Planning Feature in Its App](http://www.govtech.com/fs/transportation/BART-Releases-Multimodal-Trip-Planning-Feature-in-Its-App.html)
@@ -29,25 +54,6 @@ Here is a list of things that I found last week that I think might be interestin
 
 ## Videos
 Old video but stumpled upon this week:
+
 * ["From the Inside Out: Building a City Vacancy Portal" by Jonathan Leek and Laura Ginn](https://www.youtube.com/watch?v=lin8zqkSH2o)
 
-## Visualizations
-
-__Police response time__
-* [Visualization(Image on twitter)](https://mobile.twitter.com/Ashley_J_Kirk/status/1084719937082572800)
--[Article (paid)](https://www.telegraph.co.uk/news/2019/01/13/crime-victims-wait-half-hour-police-respond-999-calls-response/)
-
-__Which cities make it easiest to commute without a car?__
-* [Visualization/Tool/Report](https://naindicators.itdp.org)
-* [Article](https://www.fastcompany.com/90292527/which-cities-make-it-easiest-to-commute-without-a-car)
-
-__Who owns England?__
-WHERE IS THE UNREGISTERED LAND?
-* [Visualization](http://unregistered.whoownsengland.org)
-* [Blogpost](https://whoownsengland.org/2019/01/11/the-holes-in-the-map-englands-unregistered-land/)
-
-
-Older from November:
-
-* [Could Your Police Department Be Inflating Rape Clearance Rates?](https://projects.propublica.org/graphics/rape_clearance)
-* [Is Manhattan on the edge of a prime housing precipice?](https://www.ft.com/content/db675edc-c7f2-11e8-86e6-19f5b7134d1c)

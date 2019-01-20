@@ -3,7 +3,7 @@ date = "2019-01-17T18:51:55+01:00"
 draft = true
 hero = ""
 tags = []
-title = "Interesting civic tech things"
+title = "This week in Civic Tech/Open Data"
 viz = false
 
 +++

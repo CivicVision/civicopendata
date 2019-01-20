@@ -6,10 +6,20 @@
     <description>Recent content in Posts on Civic Open Data</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Nov 2018 06:08:58 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Jan 2019 18:51:55 +0100</lastBuildDate>
     
 	<atom:link href="https://civicopendata.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>This week in Civic Tech/Open Data</title>
+      <link>https://civicopendata.com/posts/interesting-civic-tech-things/</link>
+      <pubDate>Thu, 17 Jan 2019 18:51:55 +0100</pubDate>
+      
+      <guid>https://civicopendata.com/posts/interesting-civic-tech-things/</guid>
+      <description>This is the first post of an effort I want to make to collect all interesting articles, visualizations and data releases from the last 7 days. I will publish them on Fridays here and will email them out.
+This week has a lot of stuff in it because it is the first of the series. I&amp;rsquo;m still figuring out how to divide the content into sections. If you have suggestions, please get in touch.</description>
+    </item>
     
     <item>
       <title>Louisville Bird Data published</title>

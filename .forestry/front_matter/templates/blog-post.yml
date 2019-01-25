@@ -18,4 +18,5 @@ fields:
   label: hero image
 pages:
 - content/posts/title.md
+- content/posts/this-week-in-civic-tech-open-data-wk4.md
 - content/posts/this-week-in-civic-tech-open-data-wk3.md

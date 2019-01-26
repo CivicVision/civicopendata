@@ -12,7 +12,7 @@ Week 2 of my collection of interesting things happening around Civic Tech, Open 
 
 ### How Americans Commute to Work
 
-A few maps on how americans commute to work.   
+A few maps on how Americans commute to work.  
 [Visualization](https://www.citylab.com/transportation/2019/01/commuting-to-work-data-car-public-transit-bike/580507/)
 
 ### Pollution risk for Chicago Neighborhoods
@@ -22,11 +22,13 @@ Would love to see an interactive version of this, but for now there is only a st
 
 ### Los Angeles Homnelessness By Land Use
 
+> _An exploration of the Los Angeles homelessness counts allocated to land use categories._
+
 [Article](https://insights.civicknowledge.com/2019/01/los-angeles-homelessness-by-land-use/)
 
 ### How Alex Honnold made 'the ultimate climb' - without a rope
 
-Not a civic tech visualization but pretty darn impressive  
+Not a civic tech visualization but pretty darn impressive
 
 [Article](https://on.natgeo.com/2MyCrfD)
 
@@ -47,7 +49,6 @@ Not a civic tech visualization but pretty darn impressive
 [Seattle Finds New CTO in Former Ottawa CIO Saad Bashir](http://www.govtech.com/people/Seattle-Finds-New-CTO-in-Former-Ottawa-CIO-Saad-Bashir.html)
 
 [New Tool Gives Cities a Clearer Picture of Bikes, Pedestrians](http://www.govtech.com/fs/transportation/New-Tool-Gives-Cities-a-Clearer-Picture-of-Bikes-Pedestrians.html)
-
 
 ## Tools
 
@@ -76,7 +77,6 @@ Not a civic tech visualization but pretty darn impressive
 
 ## Fellowships/Grants/
 
-
 [2019 Summer of Maps - nonprofit applications](https://azavea.forms.fm/2019-summer-of-maps-nonprofit-application/forms/5875) (These are due Sunday!!)
 
 [Action Canada Fellowships](http://www.actioncanada.ca/)
@@ -92,4 +92,3 @@ Not a civic tech visualization but pretty darn impressive
 * Winter Innovation Summit on Feb 6-8 in Salt Lake City, Utah.
 
 {{ < tweet 1088904343267561473 > }}
-

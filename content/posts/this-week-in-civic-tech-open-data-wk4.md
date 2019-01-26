@@ -55,7 +55,7 @@ Not a civic tech visualization but pretty darn impressive
 [New Tool from Carto: Crowdsources Traffic Solution](https://carto.com/solutions/traffico/?utm_content=83345653&utm_medium=social&utm_source=twitter&hss_channel=tw-241079136)
 
 [Article: List of US federal and state GIS data portals](https://spatialreserves.wordpress.com/2018/01/15/new-working-lists-of-us-federal-and-state-gis-portals/)
-{{< tweet 1084189974860259328 > }}
+{{< tweet 1084189974860259328 >}}
 
 [Datawrapper: Tooltips in locator maps](https://blog.datawrapper.de/weeklychart-locatormaps-tooltips/)
 

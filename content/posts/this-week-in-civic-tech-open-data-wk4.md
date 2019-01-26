@@ -16,6 +16,15 @@ Week 2 of my collection of interesting things happening around Civic Tech, Open 
 A few maps on how americans commute to work.   
 [Visualization](https://www.citylab.com/transportation/2019/01/commuting-to-work-data-car-public-transit-bike/580507/)
 
+### Pollution risk for Chicago Neighborhoods
+
+Would love to see an interactive version of this, but for now there is only a static version.  
+[Article](https://psmag.com/environment/which-chicago-neighborhoods-are-most-at-risk-from-pollution)
+
+### Los Angeles Homnelessness By Land Use
+
+[Article](https://insights.civicknowledge.com/2019/01/los-angeles-homelessness-by-land-use/)
+
 ### How Alex Honnold made 'the ultimate climb' - without a rope
 
 Not a civic tech visualization but pretty darn impressive  
@@ -77,6 +86,11 @@ Not a civic tech visualization but pretty darn impressive
 
 ## Upcoming Events
 
-[Regulatory Hacking: A conversation with Evan Burfield and Tim O’Reilly](https://www.eventbrite.com/e/regulatory-hacking-a-conversation-with-evan-burfield-and-tim-oreilly-tickets-55258382309?aff=estw)
+* [Regulatory Hacking: A conversation with Evan Burfield and Tim O’Reilly](https://www.eventbrite.com/e/regulatory-hacking-a-conversation-with-evan-burfield-and-tim-oreilly-tickets-55258382309?aff=estw)
 
 {{ < tweet 1088571425903001600 > }}
+
+* Winter Innovation Summit on Feb 6-8 in Salt Lake City, Utah.
+
+{{ < tweet 1088904343267561473 > }}
+

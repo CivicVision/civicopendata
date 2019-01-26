@@ -6,7 +6,7 @@ title = "This Week in Civic Tech Open Data"
 viz = false
 
 +++
-Week 2 of my collection of interesting things happening around Civic Tech, Open Data and Open Government.
+Week 2 of my collection of interesting things happening around Civic Tech, Open Data and Open Government. Still working on the right formats, length and time frame. If you have suggestions please get in touch, would love to know your opinion.  
 
 ## Visualizations
 
@@ -16,27 +16,30 @@ A few maps on how Americans commute to work.
 [Visualization](https://www.citylab.com/transportation/2019/01/commuting-to-work-data-car-public-transit-bike/580507/)
 
 ### Pollution risk for Chicago Neighborhoods
-
+A static map created by the [Natural Resources Defense Council (NRDC)](https://www.nrdc.org/) which shows the Chicago neighborhoods most at risk from pollution.  
 Would love to see an interactive version of this, but for now there is only a static version.  
+
+> The NRDC hopes its new research into municipal pollution can help organizers push for sound, equitable policy.
+
 [Article](https://psmag.com/environment/which-chicago-neighborhoods-are-most-at-risk-from-pollution)
 
-### Los Angeles Homnelessness By Land Use
-
+### Los Angeles Homelessness By Land Use
+A nice exploration by [Civic Knowledge](https://civicknowledge.com) from San Diego into Los Angeles Homelessness.  
 > _An exploration of the Los Angeles homelessness counts allocated to land use categories._
 
 [Article](https://insights.civicknowledge.com/2019/01/los-angeles-homelessness-by-land-use/)
 
 ### How Alex Honnold made 'the ultimate climb' - without a rope
 
-Not a civic tech visualization but pretty darn impressive
-
+Not a civic tech visualization but pretty darn impressive  
 [Article](https://on.natgeo.com/2MyCrfD)
 
 ## Articles
 
 ### Civic Tech/Community
-
-['Stop-and-frisk in a car:' Elite LAPD unit disproportionately stopped black drivers, data show](https://www.latimes.com/local/lanow/la-me-lapd-traffic-stops-20190124-story.html)
+__'Stop-and-frisk in a car:' Elite LAPD unit disproportionately stopped black drivers, data show__  
+Data story from the LA Times with some nice graphs  
+[--> to the article](https://www.latimes.com/local/lanow/la-me-lapd-traffic-stops-20190124-story.html)
 
 [Entering Civic Tech: A Student's Guide - Coding it Forward](https://blog.codingitforward.com/entering-civic-tech-a-students-guide-be7ac2741f2b)
 
@@ -46,9 +49,25 @@ Not a civic tech visualization but pretty darn impressive
 
 [The state of the Union of Open Data, Edition 3 — Data Foundation](https://www.datafoundation.org/the-state-of-the-union-of-open-data-ed-3/)
 
+> How a Memphis dashboard saved the city 26 analyst hours a month in this interview with Deputy Dir. Parks and Neighborhoods, City of Memphis 
+
+[--> to the article](https://socrata.com/blog/how-a-memphis-dashboard-saved-the-city-26-analyst-hours-a-month/)
+
 [Seattle Finds New CTO in Former Ottawa CIO Saad Bashir](http://www.govtech.com/people/Seattle-Finds-New-CTO-in-Former-Ottawa-CIO-Saad-Bashir.html)
 
 [New Tool Gives Cities a Clearer Picture of Bikes, Pedestrians](http://www.govtech.com/fs/transportation/New-Tool-Gives-Cities-a-Clearer-Picture-of-Bikes-Pedestrians.html)
+
+__Government CIOs focusing more on analytics — those who aren't will 'fall behind'__  
+
+> According to the report, 27 percent of government CIOs ranked artificial intelligence and machine learning as the top game-changing technology, and 22 percent ranked data analytics as the number two technology.
+
+[--> to the article](https://statescoop.com/government-cios-focusing-more-on-analytics-
+those-who-arent-will-fall-behind/)
+
+> The Defense Advanced Research Projects Agency is looking for a few good bots to 
+help with procurement.
+
+[DARPA looks to procurement bots](https://gcn.com/articles/2019/01/24/darpa-rpa.aspx?m=2)
 
 ## Tools
 

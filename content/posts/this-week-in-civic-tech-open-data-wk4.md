@@ -13,13 +13,18 @@ Week 2 of my collection of interesting things happening around Civic Tech, Open 
 
 [How Americans Commute to Work, in maps](https://www.citylab.com/transportation/2019/01/commuting-to-work-data-car-public-transit-bike/580507/)
 
+### How Alex Honnold made 'the ultimate climb' - without a rope
+
+Not a civic tech visualization but pretty darn impressive
+[Article](https://on.natgeo.com/2MyCrfD)
+
 ## Articles
 
 ### Civic Tech/Community
 
 ['Stop-and-frisk in a car:' Elite LAPD unit disproportionately stopped black drivers, data show](https://www.latimes.com/local/lanow/la-me-lapd-traffic-stops-20190124-story.html)
 
-
+[Entering Civic Tech: A Student's Guide - Coding it Forward](https://blog.codingitforward.com/entering-civic-tech-a-students-guide-be7ac2741f2b)
 
 ### Open Data/Government
 

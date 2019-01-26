@@ -50,8 +50,7 @@ Data story from the LA Times with some nice graphs
 [The state of the Union of Open Data, Edition 3 — Data Foundation](https://www.datafoundation.org/the-state-of-the-union-of-open-data-ed-3/)
 
 > How a Memphis dashboard saved the city 26 analyst hours a month in this interview with Deputy Dir. Parks and Neighborhoods, City of Memphis 
-
-[--> to the article](https://socrata.com/blog/how-a-memphis-dashboard-saved-the-city-26-analyst-hours-a-month/)
+> - [--> to the article](https://socrata.com/blog/how-a-memphis-dashboard-saved-the-city-26-analyst-hours-a-month/)
 
 [Seattle Finds New CTO in Former Ottawa CIO Saad Bashir](http://www.govtech.com/people/Seattle-Finds-New-CTO-in-Former-Ottawa-CIO-Saad-Bashir.html)
 
@@ -60,14 +59,12 @@ Data story from the LA Times with some nice graphs
 __Government CIOs focusing more on analytics — those who aren't will 'fall behind'__  
 
 > According to the report, 27 percent of government CIOs ranked artificial intelligence and machine learning as the top game-changing technology, and 22 percent ranked data analytics as the number two technology.
-
-[--> to the article](https://statescoop.com/government-cios-focusing-more-on-analytics-
+> - [--> to the article](https://statescoop.com/government-cios-focusing-more-on-analytics-
 those-who-arent-will-fall-behind/)
 
 > The Defense Advanced Research Projects Agency is looking for a few good bots to 
 help with procurement.
-
-[DARPA looks to procurement bots](https://gcn.com/articles/2019/01/24/darpa-rpa.aspx?m=2)
+> -[DARPA looks to procurement bots](https://gcn.com/articles/2019/01/24/darpa-rpa.aspx?m=2)
 
 ## Tools
 

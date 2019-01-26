@@ -19,6 +19,8 @@ Week 2 of my collection of interesting things happening around Civic Tech, Open 
 
 ['Stop-and-frisk in a car:' Elite LAPD unit disproportionately stopped black drivers, data show](https://www.latimes.com/local/lanow/la-me-lapd-traffic-stops-20190124-story.html)
 
+
+
 ### Open Data/Government
 
 [Sam's cellphone coverage maps are wrong ](https://www.theregister.co.uk/2019/01/17/vermont_mobile_map/)
@@ -57,6 +59,12 @@ Week 2 of my collection of interesting things happening around Civic Tech, Open 
 
 ## Fellowships/Grants/
 
+
+[2019 Summer of Maps - nonprofit applications](https://azavea.forms.fm/2019-summer-of-maps-nonprofit-application/forms/5875) (These are due Sunday!!)
+
+[Action Canada Fellowships](http://www.actioncanada.ca/)
+
+[Code for Canada Fellowships](https://codefor.ca/fellowship/apply-2019/)
 
 ## Upcoming Events
 

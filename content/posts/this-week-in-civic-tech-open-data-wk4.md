@@ -29,6 +29,7 @@ A nice exploration by [Civic Knowledge](https://civicknowledge.com) from San Die
 
 [Article](https://insights.civicknowledge.com/2019/01/los-angeles-homelessness-by-land-use/)
 
+
 ### How Alex Honnold made 'the ultimate climb' - without a rope
 
 Not a civic tech visualization but pretty darn impressive  
@@ -74,6 +75,13 @@ help with procurement.
 [Article: List of US federal and state GIS data portals](https://spatialreserves.wordpress.com/2018/01/15/new-working-lists-of-us-federal-and-state-gis-portals/)
 {{< tweet 1084189974860259328 >}}
 
+[A repo of local government design systems & paterns libaries](https://github.com/quarterback/local-government-design-systems)
+
+__Roadmap to informed communities__ 
+
+> We have developed a framework called Tactical Data Engagement, a process for cities to facilitate opportunities for community use of open data to improve residents’ lives. 
+> - [Tools for community-centered open data](https://communities.sunlightfoundation.com/)
+
 [Datawrapper: Tooltips in locator maps](https://blog.datawrapper.de/weeklychart-locatormaps-tooltips/)
 
 ## Tweets
@@ -87,6 +95,8 @@ help with procurement.
 {{< tweet 1088563832635752458 >}}
 
 {{< tweet 1088193436774293509 >}}
+
+{{< tweet 1088072409054203904 >}}
 
 ## Videos
 

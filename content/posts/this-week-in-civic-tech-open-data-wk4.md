@@ -1,6 +1,5 @@
 +++
 date = "2019-01-25T11:41:44+01:00"
-draft = true
 hero = ""
 tags = []
 title = "This Week in Civic Tech Open Data Wk4"

@@ -11,11 +11,15 @@ Week 2 of my collection of interesting things happening around Civic Tech, Open 
 
 ## Visualizations
 
-[How Americans Commute to Work, in maps](https://www.citylab.com/transportation/2019/01/commuting-to-work-data-car-public-transit-bike/580507/)
+### How Americans Commute to Work
+
+A few maps on how americans commute to work.   
+[Visualization](https://www.citylab.com/transportation/2019/01/commuting-to-work-data-car-public-transit-bike/580507/)
 
 ### How Alex Honnold made 'the ultimate climb' - without a rope
 
-Not a civic tech visualization but pretty darn impressive
+Not a civic tech visualization but pretty darn impressive  
+
 [Article](https://on.natgeo.com/2MyCrfD)
 
 ## Articles

@@ -5,6 +5,7 @@ hero = ""
 tags = []
 title = "This week in Civic Tech/Open Data"
 viz = false
+volume = 1
 
 +++
 This is the first post of an effort I want to make to collect all interesting articles, visualizations and data releases from the last 7 days. I will publish them on Fridays here and will email them out.

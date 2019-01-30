@@ -2,7 +2,7 @@
 date = "2019-01-25T11:41:44+01:00"
 hero = ""
 tags = ["civic tech", "roundup", "open data", "open government"]
-title = "This Week in Civic Tech Open Data"
+title = "This Week in Civic Tech/Open Data"
 viz = false
 
 +++

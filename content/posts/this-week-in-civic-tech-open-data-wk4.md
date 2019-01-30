@@ -5,6 +5,7 @@ hero = ""
 tags = ["civic tech", "roundup", "open data", "open government"]
 title = "This Week in Civic Tech/Open Data"
 viz = false
+volume = 2
 
 +++
 Week 2 of my collection of interesting things happening around Civic Tech, Open Data and Open Government. Still working on the right formats, length and time frame. If you have suggestions please get in touch, would love to know your opinion.  

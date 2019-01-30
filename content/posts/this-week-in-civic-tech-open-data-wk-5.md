@@ -15,15 +15,6 @@ Volume 3 of my weekly roundup of visualizations, news and tweets in Civic Tech.
 
 ## Visualizations
 
-### Polar Vortex
-
-Nice visualization from Tim Wallace using GFS forecast data
-
-![](https://pbs.twimg.com/media/DyC2DS0U0AAiZzE.jpg)
-
-And there are plenty more where this awesome thing came from:
-
-{{≤ tweet 1090071529818214401 >}}
 
 ### Snow clearing complaints in Warterloo
 
@@ -39,11 +30,23 @@ This is a common problem I see with Open Data. Although it is published it is no
 
 Link to dataset: [http://open-kitchenergis.opendata.arcgis.com/datasets/842cf2f223d543f4baff434dbdaa961e](http://open-kitchenergis.opendata.arcgis.com/datasets/842cf2f223d543f4baff434dbdaa961e "Service Requests")
 
+### Polar Vortex
+
+Nice visualization from Tim Wallace using GFS forecast data
+
+![](https://pbs.twimg.com/media/DyC2DS0U0AAiZzE.jpg)
+
+And there are plenty more where this awesome thing came from:
+
+{{≤ tweet 1090071529818214401 >}}
+
+
+
 ## Open Data
 
 A new city is welcomed to the Open Data family. The City of Kingston in Canada launched a new Open Data Portal. They're using OpenDataSoft. 
 
-Portal  
+[Portal](https://opendatakingston.cityofkingston.ca/pages/welcome/)  
 Article
 
 ## Articles

@@ -1,7 +1,7 @@
 +++
 aliases = []
 calendar_week_published = 4
-categories = "This week in Civic Tech"
+categories = ""
 date = "2019-01-25T11:41:44+01:00"
 hero = ""
 tags = ["civic tech", "roundup", "open data", "open government"]

@@ -1,5 +1,5 @@
 ---
-label: 'Blog Post: Weekly Roundup'
+label: Blog Post mixed up
 hide_body: false
 is_partial: false
 fields:
@@ -20,11 +20,5 @@ fields:
   name: calendar_week_published
   label: Calendar Week Published
   description: in which calendar week was the post to be published
-- type: number
-  name: volume
-  label: Volume
-  description: Which volume is the roundup
 pages:
-- content/posts/title.md
-- content/posts/this-week-in-civic-tech-open-data-wk4.md
-- content/posts/this-week-in-civic-tech-open-data-wk3.md
+- content/about.md

@@ -6,8 +6,8 @@
 		"stdin"
 	],
 	"sourcesContent": [
-		".sidebar {\n\tbackground-color: #2B4C7E;\n}\n"
+		".sidebar {\n\tbackground-color: #2B4C7E;\n}\n.content-upgrade {\n\tdisplay: none;\n\tpadding: 1rem;\n\tborder: 1px solid #2B4C7E;\n\tborder-radius: 0.2rem;\n}\n.content-upgrade p {\n\tmargin-top: 0;\n\tfont-size: 0.75em;\n}\n.content-upgrade a {\n\tdisplay: table;\n\tmargin: 0 auto;\n\tborder-radius: 0.2rem;\n\ttext-align: center;\n\tpadding: 0 14px;\n\tbackground: #2B4C7E;\n\tcolor: #fff;\n\tbox-shadow: 0 4px 6px rgba(50,50,93,.11), 0 1px 3px rgba(0,0,0,.08);\n\tfont-weight: 600;\n\tletter-spacing: .025em;\n\ttext-decoration: none;\n\t-webkit-transition: all .15s ease;\n\ttransition: all .15s ease;\n}\n.content-upgrade a:hover {\n\tborder-bottom: none;\n\ttransform: translateY(-1px);\n\tbox-shadow: 0 7px 14px rgba(50,50,93,.1), 0 3px 6px rgba(0,0,0,.08);\n}\n"
 	],
 	"names": [],
-	"mappings": "AAAA,AAAA,QAAQ,AAAC,CACR,gBAAgB,CAAE,OAAO,CACzB"
+	"mappings": "AAAA,AAAA,QAAQ,AAAC,CACR,gBAAgB,CAAE,OAAO,CACzB,AACD,AAAA,gBAAgB,AAAC,CAChB,OAAO,CAAE,IAAI,CACb,OAAO,CAAE,IAAI,CACb,MAAM,CAAE,iBAAiB,CACzB,aAAa,CAAE,MAAM,CACrB,AACD,AAAA,gBAAgB,CAAC,CAAC,AAAC,CAClB,UAAU,CAAE,CAAC,CACb,SAAS,CAAE,MAAM,CACjB,AACD,AAAA,gBAAgB,CAAC,CAAC,AAAC,CAClB,OAAO,CAAE,KAAK,CACd,MAAM,CAAE,MAAM,CACd,aAAa,CAAE,MAAM,CACrB,UAAU,CAAE,MAAM,CAClB,OAAO,CAAE,MAAM,CACf,UAAU,CAAE,OAAO,CACnB,KAAK,CAAE,IAAI,CACX,UAAU,CAAE,CAAC,CAAC,GAAG,CAAC,GAAG,CAAC,mBAAkB,CAAE,CAAC,CAAC,GAAG,CAAC,GAAG,CAAC,gBAAe,CACnE,WAAW,CAAE,GAAG,CAChB,cAAc,CAAE,MAAM,CACtB,eAAe,CAAE,IAAI,CACrB,kBAAkB,CAAE,aAAa,CACjC,UAAU,CAAE,aAAa,CACzB,AACD,AAAA,gBAAgB,CAAC,CAAC,AAAA,MAAM,AAAC,CACxB,aAAa,CAAE,IAAI,CACnB,SAAS,CAAE,gBAAgB,CAC3B,UAAU,CAAE,CAAC,CAAC,GAAG,CAAC,IAAI,CAAC,kBAAiB,CAAE,CAAC,CAAC,GAAG,CAAC,GAAG,CAAC,gBAAe,CACnE"
 }

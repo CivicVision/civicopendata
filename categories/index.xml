@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Civic Open Data</title>
+    <title>Categories on Civic Open Data</title>
     <link>https://civicopendata.com/categories/</link>
-    <description>Recent content on Civic Open Data</description>
+    <description>Recent content in Categories on Civic Open Data</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 25 Jan 2019 11:41:44 +0100</lastBuildDate>
@@ -12,15 +12,12 @@
     
     
     <item>
-      <title>This Week in Civic Tech/Open Data</title>
-      <link>https://civicopendata.com/posts/this-week-in-civic-tech-open-data-wk4/</link>
+      <title></title>
+      <link>https://civicopendata.com/categories/</link>
       <pubDate>Fri, 25 Jan 2019 11:41:44 +0100</pubDate>
       
-      <guid>https://civicopendata.com/posts/this-week-in-civic-tech-open-data-wk4/</guid>
-      <description>Week 2 of my collection of interesting things happening around Civic Tech, Open Data and Open Government. Still working on the right formats, length and time frame. If you have suggestions please get in touch, would love to know your opinion.
-Visualizations How Americans Commute to Work A few maps on how Americans commute to work.
-Visualization
-Pollution risk for Chicago Neighborhoods A static map created by the Natural Resources Defense Council (NRDC) which shows the Chicago neighborhoods most at risk from pollution.</description>
+      <guid>https://civicopendata.com/categories/</guid>
+      <description></description>
     </item>
     
   </channel>

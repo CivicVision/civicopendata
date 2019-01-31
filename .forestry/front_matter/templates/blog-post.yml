@@ -20,5 +20,3 @@ fields:
   name: calendar_week_published
   label: Calendar Week Published
   description: in which calendar week was the post to be published
-pages:
-- content/about.md

@@ -15,6 +15,8 @@ Volume 3 of my weekly roundup of visualizations, news and tweets in Civic Tech.
 
 ## Visualizations
 
+This week we had plenty of great civic data visualisations and data stories from newspapers. That really made me happy :smile:
+
 ### Snow clearing complaints in Warterloo
 
 ![Map of sidewalk snow complaints in Kitchener.](https://pbs.twimg.com/media/Dx3VRxWVYAArgGq.jpg:large)
@@ -31,7 +33,7 @@ Link to dataset: [http://open-kitchenergis.opendata.arcgis.com/datasets/842cf2f2
 
 ### Polar Vortex
 
-Nice visualization from Tim Wallace using GFS forecast data. It has gorgeous colours and almost looks like art. I would print this out and hang it on the wall. 
+Nice visualization from Tim Wallace using GFS forecast data. It has gorgeous colours and almost looks like art. I would print this out and hang it on the wall.
 
 ![](https://pbs.twimg.com/media/DyC2DS0U0AAiZzE.jpg)
 
@@ -43,13 +45,13 @@ And there are plenty more where this awesome thing came from:
 
 Anna Lee and Nathaniel Cary and Mike Ellis from The Greenville News spent 2 years reporting and looking at every civil forfeiture in SC.
 
-It is a great article, very lengthy and very detailed. It has some visualisations in it but they're more hidden. You need to click on the dots of the map to see them. 
+It is a great article, very lengthy and very detailed. It has some visualisations in it but they're more hidden. You need to click on the dots of the map to see them.
 
 ![](/uploads/Bildschirmfoto 2019-02-02 um 14.38.19.png)
 
-I would have loved if they would include those graphs into the story because they're very powerful. And they're very clean as well which makes them easy to read and to understand. 
+I would have loved if they would include those graphs into the story because they're very powerful. And they're very clean as well which makes them easy to read and to understand.
 
-One critique that I have is that the map does not include Attribution where the data/basemap is coming from. 
+One critique that I have is that the map does not include Attribution where the data/basemap is coming from.
 
 [Article](https://www.greenvilleonline.com/in-depth/news/taken/2019/01/27/civil-forfeiture-south-carolina-police-property-seizures-taken-exclusive-investigation/2457838002)
 
@@ -68,15 +70,15 @@ Article
 
 ### How Los Angeles Controller Ron Galperin Brings Data to Life
 
-Some awesome quotes from him and the article on Socrata's Blog. 
+Some awesome quotes from him and the article on Socrata's Blog.
 
 > Galperin’s mission is to bring that data to life.
 
-What a great statement and this should be ingrained in every government. 
+What a great statement and this should be ingrained in every government.
 
 > Galperin focused on _The Three Ts_— transparency, trust, and transformation.
 
-They mapped a year of domestic violence reports and the result was a change in Policy. Before the domestic violence programs were underfunded, disjointed, and inconsistent, after his effort: 
+They mapped a year of domestic violence reports and the result was a change in Policy. Before the domestic violence programs were underfunded, disjointed, and inconsistent, after his effort:
 
 > “We all have an incentive to try to do something about it,” he said. “Today we do have a domestic abuse response team in every police division.”
 

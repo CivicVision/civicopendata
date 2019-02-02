@@ -39,6 +39,24 @@ And there are plenty more where this awesome thing came from:
 
 {{< tweet 1090071529818214401 >}}
 
+### TAKEN: How police departments make millions by seizing property
+
+Anna Lee and Nathaniel Cary and Mike Ellis from The Greenville News spent 2 years reporting and looking at every civil forfeiture in SC.
+
+It is a great article, very lengthy and very detailed. It has some visualisations in it but they're more hidden. You need to click on the dots of the map to see them. 
+
+![](/uploads/Bildschirmfoto 2019-02-02 um 14.38.19.png)
+
+I would have loved if they would include those graphs into the story because they're very powerful. And they're very clean as well which makes them easy to read and to understand. 
+
+One critique that I have is that the map does not include Attribution where the data/basemap is coming from. 
+
+[Article](https://www.greenvilleonline.com/in-depth/news/taken/2019/01/27/civil-forfeiture-south-carolina-police-property-seizures-taken-exclusive-investigation/2457838002)
+
+### Cincinatti Heroin Incidents
+
+![](/uploads/Bildschirmfoto 2019-02-02 um 14.47.25.png)
+
 ## Open Data
 
 ### City of Kingston Open Data Portal
@@ -63,6 +81,8 @@ They mapped a year of domestic violence reports and the result was a change in P
 > “We all have an incentive to try to do something about it,” he said. “Today we do have a domestic abuse response team in every police division.”
 
 > “We’re trying to do more than just look at numbers, but also how we present it,” Galperin said.
+
+[Article](https://socrata.com/blog/how-los-angeles-comptroller-ron-galperin-brings-data-to-life/)
 
 ## Articles
 

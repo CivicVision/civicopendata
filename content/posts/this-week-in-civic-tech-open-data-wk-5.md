@@ -11,7 +11,7 @@ viz = false
 volume = 2
 
 +++
-Volume 3 of my weekly roundup of visualizations, news and tweets in Civic Tech.
+Volume 3 of my weekly roundup of visualizations, news and tweets in Civic Tech. The week was packed with great civic visualisations and fewer articles. Topics include Snow Clearing in Canada, civil forfeiture in SC, Cincinatti Heroin Incidents and more. 
 
 ## Visualizations
 
@@ -47,7 +47,7 @@ Anna Lee and Nathaniel Cary and Mike Ellis from The Greenville News spent 2 year
 
 It is a great article, very lengthy and very detailed. It has some visualisations in it but they're more hidden. You need to click on the dots of the map to see them.
 
-![](/uploads/Bildschirmfoto 2019-02-02 um 14.38.19.png)
+![](https://res.cloudinary.com/civicvision/image/upload/v1549185666/civil_forfeiture_sc.png)
 
 I would have loved if they would include those graphs into the story because they're very powerful. And they're very clean as well which makes them easy to read and to understand.
 
@@ -57,7 +57,13 @@ One critique that I have is that the map does not include Attribution where the 
 
 ### Cincinatti Heroin Incidents
 
-![](/uploads/Bildschirmfoto 2019-02-02 um 14.47.25.png)
+![](https://res.cloudinary.com/civicvision/image/upload/v1549185675/cincinatti_heroin_incidents.png)
+
+### 1 in 12 shops closed in five years: England, UK
+
+![](https://res.cloudinary.com/civicvision/image/upload/v1549185675/shops_england.png)
+
+### How Illinois Bet on Video Gambling and Lost
 
 ## Open Data
 

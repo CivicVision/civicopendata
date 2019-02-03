@@ -57,13 +57,22 @@ One critique that I have is that the map does not include Attribution where the 
 
 ### Cincinatti Heroin Incidents
 
+Recent work done with Mapbox in Tableau Public by Allan Walker (@AllanWalkerIT) for the Cincy Tabbleau User Group meeting.
+It is a really nice starting point to lead a discussion and that seems to be the intend as suggested in their tweets. 
+I could not find the source dataset, but they said in that (embedded below) tweet it was using Open Data, so I suspect this would an Open Dataset published by the City of Cincinatti. It seems to be data from 2016 - 2019 buit again, no detailed information was provided. 
+
 ![](https://res.cloudinary.com/civicvision/image/upload/v1549185675/cincinatti_heroin_incidents.png)
+
+[Dashboard](https://public.tableau.com/views/CinciHeroin/CincinattiHeroinIncidents?:embed=y&:display_count=yes&:showVizHome=no)
+
+{{< tweet 1090651413410127875 >}}
 
 ### 1 in 12 shops closed in five years: England, UK
 
+> 88 major town centres across England and Wales were included in the Guardian’s analysis of Ordnance Survey data.
+
 ![](https://res.cloudinary.com/civicvision/image/upload/v1549185675/shops_england.png)
 
-{{< figure src="https://res.cloudinary.com/civicvision/image/upload/v1549185675/shops_england.png" caption="test" >}}
 
 ### How Illinois Bet on Video Gambling and Lost
 

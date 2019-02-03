@@ -71,8 +71,12 @@ I could not find the source dataset, but they said in that (embedded below) twee
 
 > 88 major town centres across England and Wales were included in the Guardian’s analysis of Ordnance Survey data.
 
+This is a very nice and well rounded data story with nicely done visualizations that help uinderstand the problem of declining shops in England. 
+What I think really stands out is the added section at the end of the article about their Methodology. I think everybody should include that (myself included).
+
 ![](https://res.cloudinary.com/civicvision/image/upload/v1549185675/shops_england.png)
 
+[Article](https://t.co/P9ZfLpFr3p?amp=1)
 
 ### How Illinois Bet on Video Gambling and Lost
 

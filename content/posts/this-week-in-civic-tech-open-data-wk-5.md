@@ -80,6 +80,8 @@ What I think really stands out is the added section at the end of the article ab
 
 ### How Illinois Bet on Video Gambling and Lost
 
+<hr />
+
 ## Open Data
 
 ### City of Kingston Open Data Portal
@@ -115,7 +117,11 @@ The city of St Petersburg Florida was using mapping to find areas where the most
 
 [Article](https://t.co/4y1Y4f7JY1?amp=1)
 
+<hr />
+
 ## Articles
+
+<hr />
 
 ## Tools
 

@@ -63,6 +63,8 @@ One critique that I have is that the map does not include Attribution where the 
 
 ![](https://res.cloudinary.com/civicvision/image/upload/v1549185675/shops_england.png)
 
+{{< figure src="https://res.cloudinary.com/civicvision/image/upload/v1549185675/shops_england.png" caption="test" >}}
+
 ### How Illinois Bet on Video Gambling and Lost
 
 ## Open Data

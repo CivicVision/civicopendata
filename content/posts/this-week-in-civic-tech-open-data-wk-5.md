@@ -107,6 +107,14 @@ They mapped a year of domestic violence reports and the result was a change in P
 
 [Article](https://socrata.com/blog/how-los-angeles-comptroller-ron-galperin-brings-data-to-life/)
 
+### New York City, St. Petersburg, Fla., Ramp Up Data Storytelling
+
+The city of St Petersburg Florida was using mapping to find areas where the most code violations were occuring. Using storytelling they were able to show wordload of code investigators and get upper-level buy-in. The result was a redraw of the districts to make besser use of resources. 
+
+> Better software has made the job of interpreting and analyzing city data easier. 
+
+[Article](https://t.co/4y1Y4f7JY1?amp=1)
+
 ## Articles
 
 ## Tools

@@ -11,23 +11,23 @@ viz = false
 volume = 2
 
 +++
-Volume 3 of my weekly roundup of visualizations, news and tweets in Civic Tech. The week was packed with great civic visualisations and fewer articles. Topics include Snow Clearing in Canada, civil forfeiture in SC, Cincinatti Heroin Incidents and more.
+Volume 3 of my weekly roundup of visualizations, news and tweets in Civic Tech. The week was packed with great civic visualiations and fewer articles. Topics include Snow Clearing in Canada, civil forfeiture in SC, Cincinatti Heroin Incidents and more.
 
 ## Visualizations
 
-This week we had plenty of great civic data visualisations and data stories from newspapers. That really made me happy :smile:
+This week we had plenty of great civic data visualizations and data stories from newspapers. That really made me happy :smile:
 
-### Snow clearing complaints in Warterloo
+### Snow clearing complaints in Waterloo
 
 ![Map of sidewalk snow complaints in Kitchener.](https://pbs.twimg.com/media/Dx3VRxWVYAArgGq.jpg:large)
 
-Mike Boos did a nice visualization about sidewalk snow clearing complaints from 2008-2018 using Open Data from [City of Kitchener, Ontario, Canada](https://www.kitchener.ca)
+Mike Boos did an excellent visualization about sidewalk snow clearing complaints from 2008-2018 using Open Data from [City of Kitchener, Ontario, Canada](https://www.kitchener.ca)
 
-This is a nice small and easy visualization from Open Data. The colors really stick out and make the visualization compelling to look at. And it also is a great starting point for discussions. As Mike pointed out
+The colors stick out and make the visualization compelling to look at. Morevoer, it also is a great starting point for discussions. As Mike pointed out:
 
 > This dataset must not be complete - only 807 complaints over a decade is at least an order of magnitude too small, considering a staff report said winter of 2015/ 2016 alone, which was 'unseasonably mild' had 902 complaints.
 
-This is a common problem I see with Open Data. Although it is published it is not always complete nor clean.
+This is a common problem I see with Open Data. Although it is published, it is not always complete nor clean.
 
 Link to dataset: [http://open-kitchenergis.opendata.arcgis.com/datasets/842cf2f223d543f4baff434dbdaa961e](http://open-kitchenergis.opendata.arcgis.com/datasets/842cf2f223d543f4baff434dbdaa961e "Service Requests")
 
@@ -35,7 +35,7 @@ Link to dataset: [http://open-kitchenergis.opendata.arcgis.com/datasets/842cf2f2
 
 ### Polar Vortex
 
-Stunning visualization from Tim Wallace using GFS forecast data. It has gorgeous colours and almost looks like art. I would print this out and hang it on the wall. And there are plenty more where this awesome thing came from:
+Stunning visualization from Tim Wallace using GFS forecast data. It has gorgeous colors and almost looks like art. I would print this out and hang it on the wall. Also, there are plenty more where this awesome thing came from:
 
 {{< tweet 1090071529818214401 >}}
 
@@ -43,26 +43,26 @@ Stunning visualization from Tim Wallace using GFS forecast data. It has gorgeous
 
 Anna Lee and Nathaniel Cary and Mike Ellis from _The Greenville News_ spent 2 years reporting and looking at every civil forfeiture in SC.
 
-It is a great article, very lengthy and very detailed. It has some visualisations in it but they're more hidden. You need to click on the dots of the map to see them.
+It is a great article, very lengthy and very detailed. It has some visualiations in it but they're more hidden. You need to click on the dots of the map to see them.
 
 ![](https://res.cloudinary.com/civicvision/image/upload/v1549185666/civil_forfeiture_sc.png)
 
 _I would have loved if they would include those graphs into the story because they're very powerful. And they're very clean as well which makes them easy to read and to understand._
 
-_One critique that I have is that the map does not include Attribution where the data/basemap is coming from._
+_The one critique that I have is that the map does not include Attribution where the data/basemap is coming from._
 
 [Article](https://www.greenvilleonline.com/in-depth/news/taken/2019/01/27/civil-forfeiture-south-carolina-police-property-seizures-taken-exclusive-investigation/2457838002)
 
-### Cincinatti Heroin Incidents
+### Cincinnati Heroin Incidents
 
-Recent work done with Mapbox in Tableau Public by Allan Walker (@AllanWalkerIT) for the Cincy Tableau User Group meeting.
+Recent work is done with Mapbox in Tableau Public by Allan Walker (@AllanWalkerIT) for the Cincy Tableau User Group meeting.
 
-I admit I really like black as a background color if you want to make your data the central part. It makes it easier to see the data, but you loose a little bit of the location context. Which is a drawbnack you need to think about. But I think in this visualization it serves its purpose.
+I admit I like black as a background color if you want to make your data the central part. It makes it easier to see the data, but you lose a little bit of the location context. This is a drawback you need to think about. But I think in this visualization it serves its purpose.
 
-It is a really nice starting point to lead a discussion and that seems to be the intend as suggested in his tweets.
+It is a nice starting point to lead a discussion, and that seems to be the intent as suggested in his tweets.
 
-_I could not find the source dataset, but he said in that (embedded below) tweet it was using Open Data, so I suspect this would an Open Dataset published by the City of Cincinatti.  
-It seems to be data from 2016 - 2019 buit again, no detailed information was provided._
+_I could not find the source dataset, but he said in that (embedded below) tweet it was using Open Data, so I suspect this would an Open Dataset published by the City of Cincinnati.  
+It seems to be data from 2016 - 2019 but again, no detailed information was provided._
 
 ![](https://res.cloudinary.com/civicvision/image/upload/v1549185675/cincinatti_heroin_incidents.png)
 
@@ -74,9 +74,9 @@ It seems to be data from 2016 - 2019 buit again, no detailed information was pro
 
 > 88 major town centres across England and Wales were included in the Guardian’s analysis of Ordnance Survey data.
 
-This is a very nice and well rounded data story with nicely done visualizations that help uinderstand the problem of declining shops in England.
+This is a lovely and well rounded data story with nicely done visualizations that help understand the problem of declining shops in England.
 
-_What I think really stands out is the added section at the end of the article about their Methodology. I think everybody should include that (myself included)._
+_What I think stands out is the added section at the end of the article about their Methodology. I think everybody should include that (myself included)._
 
 ![](https://res.cloudinary.com/civicvision/image/upload/v1549185675/shops_england.png)
 
@@ -158,6 +158,8 @@ The city of St Petersburg Florida was using mapping to find areas where the most
 
 {{< tweet 1090284278703968261 >}}
 
+<hr />
+
 ## Tweets
 
 {{< tweet 1090790651443044352 >}}
@@ -180,8 +182,7 @@ The city of St Petersburg Florida was using mapping to find areas where the most
 
 {{< tweet 1091037674050334722 >}}
 
-
-
+<hr />
 
 ## Jobs
 

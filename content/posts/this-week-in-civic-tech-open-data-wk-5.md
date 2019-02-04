@@ -25,7 +25,7 @@ Mike ... did a visualization about sidewalk snow clearing complaints from 2008-2
 
 This is a nice small and easy visualization from Open Data. And it also is a great starting point for discussions. As Mike pointed out
 
-> This dataset must not be complete - only 807 complaints over a decade is at least an order of magnitude too small, considering a staff report said winter of 2015/2016 alone, which was 'unseasonably mild' had 902 complaints.
+> This dataset must not be complete - only 807 complaints over a decade is at least an order of magnitude too small, considering a staff report said winter of 2015/ 2016 alone, which was 'unseasonably mild' had 902 complaints.
 
 This is a common problem I see with Open Data. Although it is published it is not always complete nor clean.
 
@@ -57,11 +57,11 @@ _One critique that I have is that the map does not include Attribution where the
 
 ### Cincinatti Heroin Incidents
 
-Recent work done with Mapbox in Tableau Public by Allan Walker (@AllanWalkerIT) for the Cincy Tableau User Group meeting. 
+Recent work done with Mapbox in Tableau Public by Allan Walker (@AllanWalkerIT) for the Cincy Tableau User Group meeting.
 
-It is a really nice starting point to lead a discussion and that seems to be the intend as suggested in their tweets. 
+It is a really nice starting point to lead a discussion and that seems to be the intend as suggested in his tweets.
 
-I could not find the source dataset, but they said in that (embedded below) tweet it was using Open Data, so I suspect this would an Open Dataset published by the City of Cincinatti. 
+I could not find the source dataset, but he said in that (embedded below) tweet it was using Open Data, so I suspect this would an Open Dataset published by the City of Cincinatti.
 
 It seems to be data from 2016 - 2019 buit again, no detailed information was provided.
 
@@ -76,7 +76,8 @@ It seems to be data from 2016 - 2019 buit again, no detailed information was pro
 > 88 major town centres across England and Wales were included in the Guardian’s analysis of Ordnance Survey data.
 
 This is a very nice and well rounded data story with nicely done visualizations that help uinderstand the problem of declining shops in England.
-What I think really stands out is the added section at the end of the article about their Methodology. I think everybody should include that (myself included).
+
+_What I think really stands out is the added section at the end of the article about their Methodology. I think everybody should include that (myself included)._
 
 ![](https://res.cloudinary.com/civicvision/image/upload/v1549185675/shops_england.png)
 

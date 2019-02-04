@@ -29,7 +29,7 @@ The colors stick out and make the visualization compelling to look at. Morevoer,
 
 This is a common problem I see with Open Data. Although it is published, it is not always complete nor clean.
 
-Link to dataset: [http://open-kitchenergis.opendata.arcgis.com/datasets/842cf2f223d543f4baff434dbdaa961e](http://open-kitchenergis.opendata.arcgis.com/datasets/842cf2f223d543f4baff434dbdaa961e "Service Requests")
+[Dataset](http://open-kitchenergis.opendata.arcgis.com/datasets/842cf2f223d543f4baff434dbdaa961e)
 
 {{< tweet 1089262296487116800 >}}
 

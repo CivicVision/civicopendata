@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Civic Open Data</title>
+    <title>Civic Open Data</title>
     <link>https://civicopendata.com/categories/</link>
-    <description>Recent content in Categories on Civic Open Data</description>
+    <description>Recent content on Civic Open Data</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 30 Jan 2019 14:05:41 +0100</lastBuildDate>
@@ -12,12 +12,26 @@
     
     
     <item>
-      <title></title>
-      <link>https://civicopendata.com/categories/</link>
+      <title>Volume 3: This week in Civic Tech/Open Data</title>
+      <link>https://civicopendata.com/posts/this-week-in-civic-tech-open-data-wk-5/</link>
       <pubDate>Wed, 30 Jan 2019 14:05:41 +0100</pubDate>
       
-      <guid>https://civicopendata.com/categories/</guid>
-      <description></description>
+      <guid>https://civicopendata.com/posts/this-week-in-civic-tech-open-data-wk-5/</guid>
+      <description>Volume 3 of my weekly roundup of visualizations, news and tweets in Civic Tech. The week was packed with great civic visualiations and fewer articles. Topics include Snow Clearing in Canada, civil forfeiture in SC, Cincinatti Heroin Incidents and more.
+Visualizations This week we had plenty of great civic data visualizations and data stories from newspapers. That really made me happy :smile:
+Snow clearing complaints in Waterloo Mike Boos did an excellent visualization about sidewalk snow clearing complaints from 2008-2018 using Open Data from City of Kitchener, Ontario, Canada</description>
+    </item>
+    
+    <item>
+      <title>This Week in Civic Tech/Open Data</title>
+      <link>https://civicopendata.com/posts/this-week-in-civic-tech-open-data-wk4/</link>
+      <pubDate>Fri, 25 Jan 2019 11:41:44 +0100</pubDate>
+      
+      <guid>https://civicopendata.com/posts/this-week-in-civic-tech-open-data-wk4/</guid>
+      <description>Week 2 of my collection of interesting things happening around Civic Tech, Open Data and Open Government. Still working on the right formats, length and time frame. If you have suggestions please get in touch, would love to know your opinion.
+Visualizations How Americans Commute to Work A few maps on how Americans commute to work.
+Visualization
+Pollution risk for Chicago Neighborhoods A static map created by the Natural Resources Defense Council (NRDC) which shows the Chicago neighborhoods most at risk from pollution.</description>
     </item>
     
   </channel>

@@ -31,6 +31,8 @@ This is a common problem I see with Open Data. Although it is published, it is n
 
 [Dataset](http://open-kitchenergis.opendata.arcgis.com/datasets/842cf2f223d543f4baff434dbdaa961e)
 
+[Visualization](http://kepler.gl/demo?mapUrl=https://gist.githubusercontent.com/mboos/91684a4164d92df1b9e322ab85bbb5ba/raw/57a8e0060b974b9e13c20f52355b4b9602067a70/keplergl-2.json) 
+
 {{< tweet 1089262296487116800 >}}
 
 ### Polar Vortex

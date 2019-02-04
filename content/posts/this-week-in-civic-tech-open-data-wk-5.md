@@ -86,7 +86,7 @@ _What I think really stands out is the added section at the end of the article a
 
 ### How Illinois Bet on Video Gambling and Lost
 
-A great lengthy story from ProPublica about gambling in Illinois. This is one part of a multipart story and it has just a few visualizations in it. Bit I included it because I want to talk about those.
+A great lengthy story from ProPublica about gambling in Illinois. This is one part of a multipart story and it has just a few visualizations in it. This is great work by ProPublica and I love their lengthy (data) stories and use of visuals and visualizations.  
 
 > Legalizing video poker and slots was supposed to generate billions of dollars for the state. A decade later, that hasn’t happened. Now, legislators want to double down on gambling.
 

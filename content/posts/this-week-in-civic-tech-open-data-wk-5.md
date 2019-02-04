@@ -17,7 +17,7 @@ Volume 3 of my weekly roundup of visualizations, news and tweets in Civic Tech. 
 
 This week we had plenty of great civic data visualizations and data stories from newspapers. That really made me happy :smile:
 
-### Snow clearing complaints in Waterloo
+### Snow clearing complaints in Kitchener
 
 ![Map of sidewalk snow complaints in Kitchener.](https://pbs.twimg.com/media/Dx3VRxWVYAArgGq.jpg:large)
 
@@ -94,7 +94,7 @@ The story is a deep dive into the data involved and has a big map in the middle 
 
 I'm not sure if bar charts inside the map and the 3D look help in understanding the data. I think the color usage is excellent, but I think a hexmap would have worked a little better.
 
-The map has a few visual flaws which I should dive into more in-depth in a separate post. 
+The map has a few visual flaws which I should dive into more in-depth in a separate post.
 
 They included some animations in it which are cute but make the underlying data hard to read without stopping the animation.  
 If you look closer you see a nice visualization about the projected and actual revenue:
@@ -107,7 +107,6 @@ The amount gambled is not as interested in me in being honest so that I would ha
 _What is great about this story is that they included their methodology at the end as well._
 
 [Article](https://features.propublica.org/the-bad-bet/how-illinois-bet-on-video-gambling-and-lost/)
-
 
 <hr />
 
@@ -149,11 +148,12 @@ The city of St Petersburg Florida was using mapping to find areas where the most
 <hr />
 
 ## Articles
-- [Winter Haven, Fla., Looks to Smart City Opportunities](http://www.govtech.com/network/Winter-Haven-Fla-Looks-to-Smart-City-Opportunities.html)
-- [Why user researchers and service designers should be best friends - User research in government](https://userresearch.blog.gov.uk/2019/01/29/why-user-researchers-and-service-designers-should-be-best-friends/)
-- [Why we’re so impressed by Argentina’s digital services team – Public Digital](https://public.digital/2018/06/01/why-were-so-impressed-by-argentinas-digital-services-team/)
-- [Data Foundation report reveals overwhelming optimism about the state of open data - FedScoop](https://www.fedscoop.com/data-foundation-report-reveals-overwhelming-optimism-state-open-data/)
-- [How will Ottawa build a successful digital government?](http://policyoptions.irpp.org/magazines/january-2019/how-will-ottawa-build-a-successful-digital-government/)
+
+* [Winter Haven, Fla., Looks to Smart City Opportunities](http://www.govtech.com/network/Winter-Haven-Fla-Looks-to-Smart-City-Opportunities.html)
+* [Why user researchers and service designers should be best friends - User research in government](https://userresearch.blog.gov.uk/2019/01/29/why-user-researchers-and-service-designers-should-be-best-friends/)
+* [Why we’re so impressed by Argentina’s digital services team – Public Digital](https://public.digital/2018/06/01/why-were-so-impressed-by-argentinas-digital-services-team/)
+* [Data Foundation report reveals overwhelming optimism about the state of open data - FedScoop](https://www.fedscoop.com/data-foundation-report-reveals-overwhelming-optimism-state-open-data/)
+* [How will Ottawa build a successful digital government?](http://policyoptions.irpp.org/magazines/january-2019/how-will-ottawa-build-a-successful-digital-government/)
 
 <hr />
 

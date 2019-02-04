@@ -86,6 +86,26 @@ _What I think really stands out is the added section at the end of the article a
 
 ### How Illinois Bet on Video Gambling and Lost
 
+A great lengthy story from ProPublica about gambling in Illinois. This is one part of a multipart story and it has just a few visualizations in it. Bit I included it because I want to talk about those.
+
+> Legalizing video poker and slots was supposed to generate billions of dollars for the state. A decade later, that hasn’t happened. Now, legislators want to double down on gambling.
+
+That is the summary of the story and they use a map in the middle of the story to show the revenue.
+
+![](https://res.cloudinary.com/civicvision/image/upload/v1549185675/gambling_illinois.png)
+
+I'm not sure if bar charts inside the map and the 3D look help in understanding the data. I think the color usage is great, but I think a hexmap would have worked a little better.  
+
+They included some animations in it which are cute but make the underlying data hard to read without stopping the animation.   
+If you look closer you see a nice visualization about the projected and actual revenue:
+
+![](https://res.cloudinary.com/civicvision/image/upload/v1549185675/projected_vs_actual_revenue.png)
+
+It's hard to see but it indicates the year in the graph as well and you can click on it. Nice big numbers show the projected revenue and the actual. Would have loved to see the actual difference (I can calculate but it's tedious for every year).  
+The amount gambled is not as interested to me to be honest so I would have left that out.
+
+_What is great about this story is that they included their methodology at the end as well._
+
 <hr />
 
 ## Open Data

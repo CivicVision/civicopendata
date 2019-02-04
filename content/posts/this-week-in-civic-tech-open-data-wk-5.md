@@ -84,27 +84,30 @@ _What I think stands out is the added section at the end of the article about th
 
 ### How Illinois Bet on Video Gambling and Lost
 
-A great lengthy story from ProPublica about gambling in Illinois. This is one part of a multipart story and it has just a few visualizations in it. This is great work by ProPublica and I love their lengthy (data) stories and use of visuals and visualizations.
+A great lengthy story from ProPublica and the Chicago Sun-Times about gambling in Illinois. The story is part one of a multi-part story, and it has just a few visualizations in it. I love ProPublica's lengthy (data) stories and use of visuals and visualizations.
 
 > Legalizing video poker and slots was supposed to generate billions of dollars for the state. A decade later, that hasn’t happened. Now, legislators want to double down on gambling.
 
-That is the summary of the story and they use a map in the middle of the story to show the revenue.
+The story is a deep dive into the data involved and has a big map in the middle of the story:
 
 ![](https://res.cloudinary.com/civicvision/image/upload/v1549185675/gambling_illinois.png)
 
-I'm not sure if bar charts inside the map and the 3D look help in understanding the data. I think the color usage is great, but I think a hexmap would have worked a little better.
+I'm not sure if bar charts inside the map and the 3D look help in understanding the data. I think the color usage is excellent, but I think a hexmap would have worked a little better.
 
-The map has a few visual flaws which I should dive into deeper in a separate post. 
+The map has a few visual flaws which I should dive into more in-depth in a separate post. 
 
 They included some animations in it which are cute but make the underlying data hard to read without stopping the animation.  
 If you look closer you see a nice visualization about the projected and actual revenue:
 
 ![](https://res.cloudinary.com/civicvision/image/upload/v1549185675/projected_vs_actual_revenue.png)
 
-It's hard to see but it indicates the year in the graph as well and you can click on it. Nice big numbers show the projected revenue and the actual. Would have loved to see the actual difference (I can calculate, but it's tedious for every year).  
-The amount gambled is not as interested to me to be honest so I would have left that out.
+It's hard to see but it indicates the year in the graph as well, and you can click on it. Nice big numbers show the projected revenue and the actual. Would have loved to see the actual difference (I can calculate, but it's tedious for every year).  
+The amount gambled is not as interested in me in being honest so that I would have left that out.
 
 _What is great about this story is that they included their methodology at the end as well._
+
+[Article]()
+
 
 <hr />
 
@@ -127,7 +130,7 @@ What a great statement and this should be ingrained in every government.
 
 > Galperin focused on _The Three Ts_— transparency, trust, and transformation.
 
-They mapped a year of domestic violence reports and the result was a change in Policy. Before the domestic violence programs were underfunded, disjointed, and inconsistent, after his effort:
+They mapped a year of domestic violence reports, and the result was a change in Policy. Before the domestic violence programs were underfunded, disjointed, and inconsistent, after his effort:
 
 > “We all have an incentive to try to do something about it,” he said. “Today we do have a domestic abuse response team in every police division.”
 
@@ -137,7 +140,7 @@ They mapped a year of domestic violence reports and the result was a change in P
 
 ### New York City, St. Petersburg, Fla., Ramp Up Data Storytelling
 
-The city of St Petersburg Florida was using mapping to find areas where the most code violations were occuring. Using storytelling they were able to show wordload of code investigators and get upper-level buy-in. The result was a redraw of the districts to make besser use of resources.
+The city of St Petersburg Florida was using mapping to find areas where the most code violations were occurring. Using storytelling, they were able to show workload of code investigators and get upper-level buy-in. The result was a redraw of the districts to make better use of resources.
 
 > Better software has made the job of interpreting and analyzing city data easier.
 

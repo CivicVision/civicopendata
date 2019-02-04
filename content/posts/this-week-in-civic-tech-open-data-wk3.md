@@ -3,7 +3,7 @@ calendar_week_published = 3
 date = "2019-01-17T18:51:55+01:00"
 hero = ""
 tags = []
-title = "This week in Civic Tech/Open Data"
+title = "Volume 1: This week in Civic Tech/Open Data"
 viz = false
 volume = 1
 

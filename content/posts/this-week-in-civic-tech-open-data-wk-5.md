@@ -106,7 +106,7 @@ The amount gambled is not as interested in me in being honest so that I would ha
 
 _What is great about this story is that they included their methodology at the end as well._
 
-[Article]()
+[Article](https://features.propublica.org/the-bad-bet/how-illinois-bet-on-video-gambling-and-lost/)
 
 
 <hr />

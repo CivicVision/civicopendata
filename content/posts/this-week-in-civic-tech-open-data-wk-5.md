@@ -6,7 +6,7 @@ date = "2019-01-30T14:05:41+01:00"
 draft = true
 hero = "https://res.cloudinary.com/civicvision/image/upload/c_fill,h_600,w_800/l_cincinatti_heroin_incidents,c_fill,h_600,w_800,x_800/c_fill,h_600,l_civil_forfeiture_sc,w_800,x_-400,y_600/c_fill,f_png,h_600,l_shops_england,w_800,x_400,y_300/snow-waterloo"
 tags = []
-title = "This week in Civic Tech/Open Data"
+title = "Volume 3: This week in Civic Tech/Open Data"
 viz = false
 volume = 2
 

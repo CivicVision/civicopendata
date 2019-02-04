@@ -21,7 +21,7 @@ This week we had plenty of great civic data visualisations and data stories from
 
 ![Map of sidewalk snow complaints in Kitchener.](https://pbs.twimg.com/media/Dx3VRxWVYAArgGq.jpg:large)
 
-Mike ... did a visualization about sidewalk snow clearing complaints from 2008-2018 using Open Data from [City of Kitchener, Ontario, Canada](https://www.kitchener.ca)
+Mike Boos did a nice visualization about sidewalk snow clearing complaints from 2008-2018 using Open Data from [City of Kitchener, Ontario, Canada](https://www.kitchener.ca)
 
 This is a nice small and easy visualization from Open Data. The colors really stick out and make the visualization compelling to look at. And it also is a great starting point for discussions. As Mike pointed out
 
@@ -31,13 +31,11 @@ This is a common problem I see with Open Data. Although it is published it is no
 
 Link to dataset: [http://open-kitchenergis.opendata.arcgis.com/datasets/842cf2f223d543f4baff434dbdaa961e](http://open-kitchenergis.opendata.arcgis.com/datasets/842cf2f223d543f4baff434dbdaa961e "Service Requests")
 
+{{< tweet 1089262296487116800 >}}
+
 ### Polar Vortex
 
-Nice visualization from Tim Wallace using GFS forecast data. It has gorgeous colours and almost looks like art. I would print this out and hang it on the wall.
-
-![](https://pbs.twimg.com/media/DyC2DS0U0AAiZzE.jpg)
-
-And there are plenty more where this awesome thing came from:
+Stunning visualization from Tim Wallace using GFS forecast data. It has gorgeous colours and almost looks like art. I would print this out and hang it on the wall. And there are plenty more where this awesome thing came from:
 
 {{< tweet 1090071529818214401 >}}
 
@@ -59,7 +57,7 @@ _One critique that I have is that the map does not include Attribution where the
 
 Recent work done with Mapbox in Tableau Public by Allan Walker (@AllanWalkerIT) for the Cincy Tableau User Group meeting.
 
-I admit I really like black as a background color if you want to make your data the central part. It makes it easier to see the data, but you loose a little bit of the location context. Which is a drawbnack you need to think about. But I think in this visualization it serves its purpose. 
+I admit I really like black as a background color if you want to make your data the central part. It makes it easier to see the data, but you loose a little bit of the location context. Which is a drawbnack you need to think about. But I think in this visualization it serves its purpose.
 
 It is a really nice starting point to lead a discussion and that seems to be the intend as suggested in his tweets.
 
@@ -86,7 +84,7 @@ _What I think really stands out is the added section at the end of the article a
 
 ### How Illinois Bet on Video Gambling and Lost
 
-A great lengthy story from ProPublica about gambling in Illinois. This is one part of a multipart story and it has just a few visualizations in it. This is great work by ProPublica and I love their lengthy (data) stories and use of visuals and visualizations.  
+A great lengthy story from ProPublica about gambling in Illinois. This is one part of a multipart story and it has just a few visualizations in it. This is great work by ProPublica and I love their lengthy (data) stories and use of visuals and visualizations.
 
 > Legalizing video poker and slots was supposed to generate billions of dollars for the state. A decade later, that hasn’t happened. Now, legislators want to double down on gambling.
 
@@ -94,14 +92,16 @@ That is the summary of the story and they use a map in the middle of the story t
 
 ![](https://res.cloudinary.com/civicvision/image/upload/v1549185675/gambling_illinois.png)
 
-I'm not sure if bar charts inside the map and the 3D look help in understanding the data. I think the color usage is great, but I think a hexmap would have worked a little better.  
+I'm not sure if bar charts inside the map and the 3D look help in understanding the data. I think the color usage is great, but I think a hexmap would have worked a little better.
 
-They included some animations in it which are cute but make the underlying data hard to read without stopping the animation.   
+The map has a few visual flaws which I should dive into deeper in a separate post. 
+
+They included some animations in it which are cute but make the underlying data hard to read without stopping the animation.  
 If you look closer you see a nice visualization about the projected and actual revenue:
 
 ![](https://res.cloudinary.com/civicvision/image/upload/v1549185675/projected_vs_actual_revenue.png)
 
-It's hard to see but it indicates the year in the graph as well and you can click on it. Nice big numbers show the projected revenue and the actual. Would have loved to see the actual difference (I can calculate but it's tedious for every year).  
+It's hard to see but it indicates the year in the graph as well and you can click on it. Nice big numbers show the projected revenue and the actual. Would have loved to see the actual difference (I can calculate, but it's tedious for every year).  
 The amount gambled is not as interested to me to be honest so I would have left that out.
 
 _What is great about this story is that they included their methodology at the end as well._
@@ -115,7 +115,7 @@ _What is great about this story is that they included their methodology at the e
 A new city is welcomed to the Open Data family. The City of Kingston in Canada launched a new Open Data Portal. They're using OpenDataSoft.
 
 [Portal](https://opendatakingston.cityofkingston.ca/pages/welcome/)  
-Article
+[Article](https://www.opendatasoft.com/2019/01/16/a-new-data-portal-for-the-city-of-kingston-from-increasing-transparency-to-engaging-citizens/)
 
 ### How Los Angeles Controller Ron Galperin Brings Data to Life
 
@@ -146,20 +146,42 @@ The city of St Petersburg Florida was using mapping to find areas where the most
 <hr />
 
 ## Articles
+- [Winter Haven, Fla., Looks to Smart City Opportunities](http://www.govtech.com/network/Winter-Haven-Fla-Looks-to-Smart-City-Opportunities.html)
+- [Why user researchers and service designers should be best friends - User research in government](https://userresearch.blog.gov.uk/2019/01/29/why-user-researchers-and-service-designers-should-be-best-friends/)
+- [Why we’re so impressed by Argentina’s digital services team – Public Digital](https://public.digital/2018/06/01/why-were-so-impressed-by-argentinas-digital-services-team/)
+- [Data Foundation report reveals overwhelming optimism about the state of open data - FedScoop](https://www.fedscoop.com/data-foundation-report-reveals-overwhelming-optimism-state-open-data/)
+- [How will Ottawa build a successful digital government?](http://policyoptions.irpp.org/magazines/january-2019/how-will-ottawa-build-a-successful-digital-government/)
 
 <hr />
 
 ## Tools
 
-Datawrapper Updates
-
 {{< tweet 1090284278703968261 >}}
 
 ## Tweets
 
+{{< tweet 1090790651443044352 >}}
+
+{{< tweet 1090769507642212352 >}}
+
 {{< tweet 1089852993120419840 >}}
 
 {{< tweet 1089235344300470272 >}}
+
+{{< tweet 1090329064446091264 >}}
+
+{{< tweet 1089993813182033922 >}}
+
+{{< tweet 1089936029564526593 >}}
+
+{{< tweet 1090669734461431809 >}}
+
+{{< tweet 1090289819115311104 >}}
+
+{{< tweet 1091037674050334722 >}}
+
+
+
 
 ## Jobs
 

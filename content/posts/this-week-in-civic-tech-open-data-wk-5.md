@@ -23,7 +23,7 @@ This week we had plenty of great civic data visualisations and data stories from
 
 Mike ... did a visualization about sidewalk snow clearing complaints from 2008-2018 using Open Data from [City of Kitchener, Ontario, Canada](https://www.kitchener.ca)
 
-This is a nice small and easy visualization from Open Data. And it also is a great starting point for discussions. As Mike pointed out
+This is a nice small and easy visualization from Open Data. The colors really stick out and make the visualization compelling to look at. And it also is a great starting point for discussions. As Mike pointed out
 
 > This dataset must not be complete - only 807 complaints over a decade is at least an order of magnitude too small, considering a staff report said winter of 2015/ 2016 alone, which was 'unseasonably mild' had 902 complaints.
 
@@ -59,11 +59,12 @@ _One critique that I have is that the map does not include Attribution where the
 
 Recent work done with Mapbox in Tableau Public by Allan Walker (@AllanWalkerIT) for the Cincy Tableau User Group meeting.
 
+I admit I really like black as a background color if you want to make your data the central part. It makes it easier to see the data, but you loose a little bit of the location context. Which is a drawbnack you need to think about. But I think in this visualization it serves its purpose. 
+
 It is a really nice starting point to lead a discussion and that seems to be the intend as suggested in his tweets.
 
-I could not find the source dataset, but he said in that (embedded below) tweet it was using Open Data, so I suspect this would an Open Dataset published by the City of Cincinatti.
-
-It seems to be data from 2016 - 2019 buit again, no detailed information was provided.
+_I could not find the source dataset, but he said in that (embedded below) tweet it was using Open Data, so I suspect this would an Open Dataset published by the City of Cincinatti.  
+It seems to be data from 2016 - 2019 buit again, no detailed information was provided._
 
 ![](https://res.cloudinary.com/civicvision/image/upload/v1549185675/cincinatti_heroin_incidents.png)
 

@@ -86,4 +86,8 @@
     <priority>0</priority>
   </url>
   
+  <url>
+    <loc>https://civicopendata.com/categories/this-week-in-civic-tech/</loc>
+  </url>
+  
 </urlset>

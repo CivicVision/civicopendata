@@ -1,5 +1,5 @@
 ---
-label: Blog Post mixed up
+label: Blog Post
 hide_body: false
 is_partial: false
 fields:
@@ -20,3 +20,7 @@ fields:
   name: calendar_week_published
   label: Calendar Week Published
   description: in which calendar week was the post to be published
+- type: number
+  name: volume
+  label: Volume
+  description: Volume of Post

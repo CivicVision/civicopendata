@@ -8,4 +8,25 @@
 				b.parentNode.insertBefore(o, b); return o; }; o = d('', '-hidden', ''); d('-stay-invisible', '-stay-hidden', '-stay');
 		setTimeout(function() { o.parentNode && o.parentNode.removeChild(o); }, a);
 })('43449262', 2500, document);
+window.rmExtras = {};
+{{ if gt .Params.tags 0 }}
+	window.rmExtras.tags = "{{ delimit .Params.tags ";" }}";
+{{ end }}
+var post = {
+	id: "{{ .Page.UniqueID }}",
+	categories: [],
+	categorySlug: "",
+	readingTime: {{ .ReadingTime }}
+};
+{{ if gt .Params.categories 0 }}
+	window.rmExtras.categories = "{{ delimit .Params.categories ";" }}";
+	post.categories = "{{ delimit .Params.categories ";" }}".split(";");
+	post.categorySlug = "{{ delimit .Params.categories "," }}";
+{{ end }}
+{{ if eq .Page.Type "posts" }}
+	window.readPost(post);
+{{ end }}
+{{ if .ReadingTime }}
+	window.rmExtras.readingTime = {{ .ReadingTime }};
+{{ end }}
 </script>

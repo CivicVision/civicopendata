@@ -23,7 +23,9 @@ var post = {
 	post.categories = "{{ delimit .Params.categories ";" }}".split(";");
 	post.categorySlug = "{{ delimit .Params.categories "," }}";
 {{ end }}
-window.readPost(post);
+{{ if eq .Page.Type "posts" }}
+	window.readPost(post);
+{{ end }}
 {{ if .ReadingTime }}
 	window.rmExtras.readingTime = {{ .ReadingTime }};
 {{ end }}

@@ -6,9 +6,21 @@
     <description>Recent content in This week in Civic Tech/Open Data on Civic Open Data</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Wed, 30 Jan 2019 14:05:41 +0100</lastBuildDate>
     
 	<atom:link href="https://civicopendata.com/categories/this-week-in-civic-tech/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Volume 3: This week in Civic Tech/Open Data</title>
+      <link>https://civicopendata.com/posts/this-week-in-civic-tech-open-data-wk-5/</link>
+      <pubDate>Wed, 30 Jan 2019 14:05:41 +0100</pubDate>
+      
+      <guid>https://civicopendata.com/posts/this-week-in-civic-tech-open-data-wk-5/</guid>
+      <description>Volume 3 of my weekly roundup of visualizations, news and tweets in Civic Tech. The week was packed with great civic visualiations and fewer articles. Topics include Snow Clearing in Canada, civil forfeiture in SC, Cincinatti Heroin Incidents and more.
+Visualizations This week we had plenty of great civic data visualizations and data stories from newspapers. That really made me happy :smile:
+Snow clearing complaints in Kitchener Mike Boos did an excellent visualization about sidewalk snow clearing complaints from 2008-2018 using Open Data from City of Kitchener, Ontario, Canada</description>
+    </item>
     
   </channel>
 </rss>

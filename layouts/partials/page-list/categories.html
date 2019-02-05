@@ -1,0 +1,17 @@
+<span class="section__title">{{ .Title }}</span>
+<div>
+  {{.Content}}
+</div>
+<ul class="posts {{ .Param "class" }}">
+    {{ $scratch := newScratch }}
+    {{ $scratch.Set "entries" .Data.Pages }}
+    {{ if .Param "order_by" }}
+      {{ $scratch.Set "entries" (.Data.Pages.ByParam (.Param "order_by")) }}
+    {{ end }}
+    {{ if .Param "reverse" }}
+      {{ $scratch.Set "entries" ($scratch.Get "entries").Reverse }}
+    {{ end }}
+    {{ with $scratch.Get "entries" }}
+        {{ partial "posts-list.html" . }}
+    {{ end }}
+</ul>

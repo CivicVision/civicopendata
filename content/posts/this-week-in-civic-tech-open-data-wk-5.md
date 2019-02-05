@@ -3,6 +3,7 @@ aliases = []
 calendar_week_published = 5
 categories = ["This Week in Civic Tech"]
 date = "2019-01-30T14:05:41+01:00"
+description = "Volume 3 of my weekly roundup of visualizations, news and tweets in Civic Tech. The week was packed with great civic visualiations and fewer articles. Topics include Snow Clearing in Canada, civil forfeiture in SC, Cincinatti Heroin Incidents and more."
 hero = "https://res.cloudinary.com/civicvision/image/upload/c_fill,h_600,w_800/l_cincinatti_heroin_incidents,c_fill,h_600,w_800,x_800/c_fill,h_600,l_civil_forfeiture_sc,w_800,x_-400,y_600/c_fill,f_png,h_600,l_shops_england,w_800,x_400,y_300/snow-waterloo"
 images = ["https://res.cloudinary.com/civicvision/image/upload/c_fill,h_600,w_800/l_cincinatti_heroin_incidents,c_fill,h_600,w_800,x_800/c_fill,h_600,l_civil_forfeiture_sc,w_800,x_-400,y_600/c_fill,f_png,h_600,l_shops_england,w_800,x_400,y_300/snow-waterloo"]
 tags = []

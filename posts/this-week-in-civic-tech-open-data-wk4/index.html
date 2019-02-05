@@ -135,27 +135,6 @@
           
       
     
-    
-    
-      
-      
-          <br/>
-           <i class="fas fa-tags"></i>
-          
-          <a class="badge badge-tag" href="/tags/civic-tech">civic tech</a>
-           
-      
-          <a class="badge badge-tag" href="/tags/roundup">roundup</a>
-           
-      
-          <a class="badge badge-tag" href="/tags/open-data">open data</a>
-           
-      
-          <a class="badge badge-tag" href="/tags/open-government">open government</a>
-          
-      
-    
-    
     <br/>
     <i class="fas fa-clock"></i> 5 min read
 </div>
@@ -343,7 +322,8 @@ help with procurement.
 
         </div>
         
-    
+    <script src="/javascript/rmExtras.js"></script>
+
 
 <script defer src="https://use.fontawesome.com/releases/v5.2.0/js/all.js"
   integrity="sha384-4oV5EgaV02iISL2ban6c/RmotsABqE4yZxZLcYMAdG7FAPsyHYAPpywE9PJo+Khy"
@@ -370,6 +350,27 @@ help with procurement.
 				b.parentNode.insertBefore(o, b); return o; }; o = d('', '-hidden', ''); d('-stay-invisible', '-stay-hidden', '-stay');
 		setTimeout(function() { o.parentNode && o.parentNode.removeChild(o); }, a);
 })('43449262', 2500, document);
+window.rmExtras = {};
+
+	window.rmExtras.tags = "civic tech;roundup;open data;open government";
+
+var post = {
+	id: "cc213cb6f35fb607adf1ed66a3eb4f54",
+	categories: [],
+	categorySlug: "",
+	readingTime:  5 
+};
+
+	window.rmExtras.categories = "This Week in Civic Tech";
+	post.categories = "This Week in Civic Tech".split(";");
+	post.categorySlug = "This Week in Civic Tech";
+
+
+	window.readPost(post);
+
+
+	window.rmExtras.readingTime =  5 ;
+
 </script>
 
 

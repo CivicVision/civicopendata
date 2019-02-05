@@ -141,8 +141,6 @@ I&#39;m still figuring out how to divide the content into sections. If you have 
           
       
     
-    
-    
     <br/>
     <i class="fas fa-clock"></i> 2 min read
 </div>
@@ -271,7 +269,8 @@ New Interactive Online Tool Increases Knowledge about San Francisco’s Cultural
 
         </div>
         
-    
+    <script src="/javascript/rmExtras.js"></script>
+
 
 <script defer src="https://use.fontawesome.com/releases/v5.2.0/js/all.js"
   integrity="sha384-4oV5EgaV02iISL2ban6c/RmotsABqE4yZxZLcYMAdG7FAPsyHYAPpywE9PJo+Khy"
@@ -298,6 +297,25 @@ New Interactive Online Tool Increases Knowledge about San Francisco’s Cultural
 				b.parentNode.insertBefore(o, b); return o; }; o = d('', '-hidden', ''); d('-stay-invisible', '-stay-hidden', '-stay');
 		setTimeout(function() { o.parentNode && o.parentNode.removeChild(o); }, a);
 })('43449262', 2500, document);
+window.rmExtras = {};
+
+var post = {
+	id: "1f551894f27d5e505cfccd51bb7fed46",
+	categories: [],
+	categorySlug: "",
+	readingTime:  2 
+};
+
+	window.rmExtras.categories = "This Week in Civic Tech";
+	post.categories = "This Week in Civic Tech".split(";");
+	post.categorySlug = "This Week in Civic Tech";
+
+
+	window.readPost(post);
+
+
+	window.rmExtras.readingTime =  2 ;
+
 </script>
 
 

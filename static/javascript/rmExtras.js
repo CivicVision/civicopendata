@@ -1,6 +1,3 @@
-//var postID = ... /* unique ID for the blog post (can set to null if you're just doing a category leaderboard) */
-//var categorySlug = ... /* comma separated list of category slugs/other unique identifiers: you'll use these to reference each category in RightMessage */
-
 window.readPost = function(post) {
   var postID = post.id;
   var categorySlug = post.categorySlug;
@@ -36,8 +33,6 @@ window.readPost = function(post) {
 		}
 	});
 	window.rmExtras.winningCategory = winningCategory;
-  console.log(cachedPosts);
-  console.log(leaderboard);
 
 	localStorage.setItem('rmCachedPosts', JSON.stringify(cachedPosts));
 };

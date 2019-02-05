@@ -1,0 +1,12 @@
+{{ range . }}
+<li>
+  <span class="list__title--small">
+    <a href="{{ .RelPermalink }}">{{ .Title }}
+    {{ if .Param "hero" }}
+      <img src="{{ .Params.hero}}">
+    {{ end }}
+    </a>
+  </span>
+  <p>{{ default .Summary .Description }}</p>
+</li>
+{{ end }}

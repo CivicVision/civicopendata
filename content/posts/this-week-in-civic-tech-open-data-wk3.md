@@ -1,7 +1,10 @@
 +++
 calendar_week_published = 3
+categories = ["This Week in Civic Tech"]
 date = "2019-01-17T18:51:55+01:00"
+description = "This is the first post of an effort I want to make to collect all interesting articles, visualizations and data releases from the last 7 days. I will publish them on Fridays here and will email them out.\n\nThis week has a lot of stuff in it because it is the first of the series.\nI'm still figuring out how to divide the content into sections. If you have suggestions, please get in touch."
 hero = ""
+images = []
 tags = []
 title = "Volume 1: This week in Civic Tech/Open Data"
 viz = false

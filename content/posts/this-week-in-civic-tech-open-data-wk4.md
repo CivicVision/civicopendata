@@ -1,9 +1,11 @@
 +++
 aliases = []
 calendar_week_published = 4
-categories = ""
+categories = ["This Week in Civic Tech"]
 date = "2019-01-25T11:41:44+01:00"
+description = "Week 2 of my collection of interesting things happening around Civic Tech, Open Data and Open Government. Still working on the right formats, length and time frame. If you have suggestions please get in touch, would love to know your opinion."
 hero = ""
+images = []
 tags = ["civic tech", "roundup", "open data", "open government"]
 title = "Volume 2: This Week in Civic Tech/Open Data"
 viz = false

@@ -12,11 +12,19 @@ window.rmExtras = {};
 {{ if gt .Params.tags 0 }}
 	window.rmExtras.tags = "{{ delimit .Params.tags ";" }}";
 {{ end }}
+var post = {
+	id: "{{ .Page.UniqueID }}",
+	categories: [],
+	categorySlug: "",
+	readingTime: {{ .ReadingTime }}
+};
 {{ if gt .Params.categories 0 }}
 	window.rmExtras.categories = "{{ delimit .Params.categories ";" }}";
+	post.categories = "{{ delimit .Params.categories ";" }}".split(";");
+	post.categorySlug = "{{ delimit .Params.categories "," }}";
 {{ end }}
+window.readPost(post);
 {{ if .ReadingTime }}
 	window.rmExtras.readingTime = {{ .ReadingTime }};
 {{ end }}
-console.log(window.rmExtras);
 </script>

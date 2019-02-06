@@ -6,6 +6,13 @@ webhook_url:
 sections:
 - type: directory
   path: content/posts
+  label: This week in Civic Tech
+  create: all
+  match: "**/this-week-in-civic-tech*"
+  templates:
+  - this-week-in-civic-tech
+- type: directory
+  path: content/posts
   label: Posts
   create: all
   match: "**/*"

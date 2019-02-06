@@ -18,3 +18,5 @@ fields:
 - type: file
   name: hero
   label: Hero Image
+pages:
+- content/posts/mapping-with-d3.md

@@ -30,10 +30,11 @@ fields:
   name: tweets
   label: Tweets
   description: Add tweets here
-- type: list
-  name: articles
+- type: blocks
+  template_types:
+  - article
   label: Articles
-  description: Add articles here
+  name: articles
 - type: file
   name: hero
   label: hero image

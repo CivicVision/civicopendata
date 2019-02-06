@@ -29,3 +29,4 @@ fields:
   label: category
   name: category
   description: Article Category
+  default: Civic tech/Community

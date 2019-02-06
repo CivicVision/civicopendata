@@ -24,3 +24,11 @@ fields:
 - type: file
   name: hero
   label: hero image
+- type: list
+  name: tweets
+  label: Tweets
+  description: Add tweets here
+- type: list
+  name: articles
+  label: Articles
+  description: Add articles here

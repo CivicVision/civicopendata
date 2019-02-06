@@ -4,8 +4,6 @@ date: 2018-10-30 16:08:58 +0000
 viz: true
 
 ---
-_Update:_ **Due to the government shutdown the API from data.gov does not respond.**
-
 While I was developing my government funded prototype „Automated City Open Data Census“ for Germany I was so deep into scrambling with metadata that I decided to take a closer look at the types and formats that get published.
 
 So I used the CKAN API to get basic data from CKAN about licenses used, data formats and categories.

@@ -1,0 +1,4 @@
+{{- $id := . -}}
+{{- $json := getJSON "https://api.twitter.com/1/statuses/oembed.json?id=" $id "&omit_script=true" -}}
+{{ $json.html | safeHTML }}
+

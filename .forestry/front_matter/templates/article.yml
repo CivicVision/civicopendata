@@ -8,9 +8,13 @@ fields:
   name: title
   label: Title
   description: Titel of the article
+  config:
+    required: true
 - type: text
   name: url
   label: Url
+  config:
+    required: true
 - type: textarea
   name: description
   label: description

@@ -1,0 +1,7 @@
+<div class="articles">
+	<ul>
+		{{ range where .Page.Params.articles "category" (.Get 0) }}
+			<li>{{ partial "article-short" . }}</li>
+		{{ end }}
+	</ul>
+</div>

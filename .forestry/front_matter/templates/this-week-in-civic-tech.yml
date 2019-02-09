@@ -4,7 +4,7 @@ hide_body: false
 is_partial: false
 fields:
 - type: text
-  default: title
+  default: 'Volume : This Week in Civic Tech/Open Data'
   label: title
   name: title
 - type: number
@@ -14,21 +14,29 @@ fields:
 - type: tag_list
   name: categories
   label: Categories
+  default:
+  - This Week in Civic Tech
 - type: tag_list
   name: tags
   label: tags
+  default:
+  - civic tech
+  - open data
 - type: number
   name: calendar_week_published
   label: Calendar Week Published
   description: in which calendar week was the post to be published
-- type: file
-  name: hero
-  label: hero image
 - type: list
   name: tweets
   label: Tweets
   description: Add tweets here
-- type: list
-  name: articles
+- type: blocks
+  template_types:
+  - article
   label: Articles
-  description: Add articles here
+  name: articles
+- type: file
+  name: hero
+  label: hero image
+pages:
+- content/posts/volume-4-this-week-in-civic-tech-open-data.md

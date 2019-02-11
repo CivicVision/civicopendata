@@ -18,6 +18,11 @@ category = "Open Data/Open Government"
 template = "article"
 title = "Chicago PD Launches ‘Intelligence Hub’ in Logan Square Area"
 url = "http://www.govtech.com/public-safety/Chicago-PD-Launches-Intelligence-Hub-in-Logan-Square-Area.html"
+[[articles]]
+category = "Open Data/Open Government"
+template = "article"
+title = "Unveiling the Government of Canada's Standards on APIs"
+url = "https://open.canada.ca/en/blog/unveiling-government-canadas-standards-apis"
 
 +++
 This week includes data visualisations about Trees in New York, Wildfires in California, Housing in Boston and Scooters in San Diego. 
@@ -119,9 +124,11 @@ We have a nice new dataset from the Police department of Portland
 
 ### Civic Tech/Community
 
+{{< articles "Civic tech/Community" >}}
+
 ### Open Government/Open Data
 
-{{< articles "Open Government/Open Data" >}}
+{{< articles "Open Data/Open Government" >}}
 
 <hr />
 

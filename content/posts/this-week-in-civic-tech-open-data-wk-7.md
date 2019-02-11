@@ -83,6 +83,14 @@ This article is about the change of then Mayor Rahm Emanuel announcing that Chic
 
 _I love the small multiples approach, showing seats filled at the public school and the community programs. The typical red, yellow, green color for empty to full works well and adding a fourth color in blue to show overcapacity works great. Especially since it stands out right away. The cited their source but I would have loved to look into the data myself, so a link to the source would have been even better._ 
 
+### Child care cost in the Bay Area
+
+![](https://res.cloudinary.com/civicvision/image/upload/v1549897780/Volume%204/child-care-bay-area.jpg)
+
+The article **"You think Bay Area housing is expensive? Child care costs are rising, too"** also includes a nice visual to show the change in cost. 
+
+_I would have used less color and maybe even used a slope chart instead of the bar chart. It takes some time to see the rise and the percentages. They are huge but the visual does not really support it. I will probably do a makeover of this one, since it is very interesting data and could use a great visual._ 
+
 <hr />
 
 ## Open Data

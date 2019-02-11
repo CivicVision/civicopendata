@@ -6,7 +6,7 @@ draft = true
 hero = ""
 tags = ["civic tech", "open data"]
 title = "Volume 4: This Week in Civic Tech/Open Data"
-tweets = ["1091749710061277185", "1091376345836384256"]
+tweets = ["1093724952765833216", "1092415985066360832", "1092845920843063296", "1093578714938527745", "1093646883828977664", "1091749710061277185", "1091376345836384256"]
 volume = 4
 [[articles]]
 category = "Open Data/Open Government"
@@ -93,6 +93,16 @@ category = "Civic tech/Community"
 template = "article"
 title = "Managing the Many Moving (and Zooming) Parts of ZoLa"
 url = "https://medium.com/nycplanninglabs/managing-the-many-moving-and-zooming-parts-of-zola-98ec2e0a5c99"
+[[articles]]
+category = "Civic tech/Community"
+template = "article"
+title = "Book chapter: Data for the Social Good: Towards a data activist research agenda"
+url = "https://data-activism.net/2019/02/book-chapter-data-for-the-social-good-towards-a-data-activist-research-agenda/"
+[[articles]]
+category = "Open Data/Open Government"
+template = "article"
+title = "Ask 18F - How can I best advocate for the addition of open-source tools?"
+url = "https://18f.gsa.gov/2019/02/06/ask-18F-6-analytics-open-source/"
 
 +++
 This week includes data visualisations about Trees in New York, Wildfires in California, Housing in Boston and Scooters in San Diego. 
@@ -192,7 +202,7 @@ We have a nice new dataset from the Police department of Portland
 
 > Baton Rouge, La., launched a new open checkbook platform that allows residents and other visitors access to spending data for municipal departments and services.
 
-https://checkbook.brla.gov/#!/year/2019/
+[Checkbook](https://checkbook.brla.gov/)
 
 <hr />
 
@@ -211,3 +221,7 @@ https://checkbook.brla.gov/#!/year/2019/
 ## Tweets
 
 {{< tweets >}}
+
+## Events
+
+* [NYC School of Data 2019, 2 March 2019](https://beta.nyc/2019/02/03/register-for-nyc-school-of-data-2019/)

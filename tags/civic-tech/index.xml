@@ -6,10 +6,22 @@
     <description>Recent content in Civic Tech on Civic Open Data</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 25 Jan 2019 11:41:44 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 06 Feb 2019 15:34:24 +0100</lastBuildDate>
     
 	<atom:link href="https://civicopendata.com/tags/civic-tech/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Volume 4: This Week in Civic Tech/Open Data</title>
+      <link>https://civicopendata.com/posts/this-week-in-civic-tech-open-data-wk-7/</link>
+      <pubDate>Wed, 06 Feb 2019 15:34:24 +0100</pubDate>
+      
+      <guid>https://civicopendata.com/posts/this-week-in-civic-tech-open-data-wk-7/</guid>
+      <description>This week includes data visualisations about Trees in New York, Wildfires in California, Housing in Boston and Scooters in San Diego.
+I&amp;rsquo;m still figuring out the best approach to it, and if you have any suggestions please let me know :)
+Visualizations NYC Street Tree Map This one is not totally new but worth checking out and sharing.
+ The New York City Street Tree Map brings New York City’s urban forest to your fingertips.</description>
+    </item>
     
     <item>
       <title>Volume 2: This Week in Civic Tech/Open Data</title>

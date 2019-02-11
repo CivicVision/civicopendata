@@ -43,10 +43,10 @@ This one is not totally new but worth checking out and sharing.
 Capital Public Radio (CPR) mapped wildfires have from the last 100-plus years in California.   
 “A History Of California Wildfires,” uses data sets from the California Department of Forestry and Fire Protection (Cal Fire) (dating back to 1878), as well as the U.S. Geological Survey’s 2018 data set.
 
-_I love maps as you might have realised and this one looks great. It's great that they included the source data and more information about its usefulness. 
+_I love maps as you might have realised and this one looks great. It's great that they included the source data and more information about its usefulness._  
 
-But I do not like the color changes. Especially with fires you would assume that the red fires where the more severe but they're the most recent one. And overlaying all of them looks kinda weird. But if you scroll to the dates is pretty intense. I would have used a time slider and a play button to show the severity of the fires. And I would use one color for all of them.   
-Maybe add a second color if you have more information to encode. Or add a heatmap to show the regions that are hit the hardest in the last 100 years. _ 
+_But I do not like the color changes. Especially with fires you would assume that the red fires where the more severe but they're the most recent one. And overlaying all of them looks kinda weird. But if you scroll to the dates is pretty intense. I would have used a time slider and a play button to show the severity of the fires. And I would use one color for all of them.   
+Maybe add a second color if you have more information to encode. Or add a heatmap to show the regions that are hit the hardest in the last 100 years._ 
 
 ### Boston Neighborhood Change Interactive Map
 
@@ -87,7 +87,7 @@ _I love the small multiples approach, showing seats filled at the public school 
 
 ![](https://res.cloudinary.com/civicvision/image/upload/v1549897780/Volume%204/child-care-bay-area.jpg)
 
-The article **"You think Bay Area housing is expensive? Child care costs are rising, too"** also includes a nice visual to show the change in cost. 
+The article [**"You think Bay Area housing is expensive? Child care costs are rising, too"**]() also includes a nice visual to show the change in cost. 
 
 _I would have used less color and maybe even used a slope chart instead of the bar chart. It takes some time to see the rise and the percentages. They are huge but the visual does not really support it. I will probably do a makeover of this one, since it is very interesting data and could use a great visual._ 
 
@@ -120,6 +120,8 @@ We have a nice new dataset from the Police department of Portland
 ### Civic Tech/Community
 
 ### Open Government/Open Data
+
+{{< articles "Open Government/Open Data" >}}
 
 <hr />
 

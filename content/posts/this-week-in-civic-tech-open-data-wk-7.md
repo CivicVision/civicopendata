@@ -20,7 +20,7 @@ title = "Chicago PD Launches ‘Intelligence Hub’ in Logan Square Area"
 url = "http://www.govtech.com/public-safety/Chicago-PD-Launches-Intelligence-Hub-in-Logan-Square-Area.html"
 
 +++
-This week includes data visualisations about Trees in New York, Wildfires in California, Housing in Boston and 
+This week includes data visualisations about Trees in New York, Wildfires in California, Housing in Boston and Scooters in San Diego. 
 
 I'm still figuring out the best approach to it, and if you have any suggestions please let me know :) 
 
@@ -56,9 +56,22 @@ Maybe add a second color if you have more information to encode. Or add a heatma
 
 They offer a recommended maps section which include maps about Racial and Ethnic Diversity, Modestly-Priced Homes and Gentrifying Neighborhoods. 
 
-_I took a closer look at the Gentrifying Neighborhoods map. And it  took me some time to figure them out._ _They have the typical red, yellow green color scale, which makes it easy to spot good and bad parts. I would have wished more explanation. I clicked on Gentrifying Neighborhoods but I am not sure if a green or a red district is gentrified._ 
+_I took a closer look at the Gentrifying Neighborhoods map. And it  took me some time to figure them out. They have the typical red, yellow green color scale, which makes it easy to spot good and bad parts. I would have wished more explanation. I clicked on Gentrifying Neighborhoods but I am not sure if a green or a red district is gentrified. here is a detailed screenshot of the map:_ 
 
 ![](https://res.cloudinary.com/civicvision/image/upload/v1549903939/Volume%204/boston-gentrification-detail.png)
+
+_While I'm writing this, I realise this will be my second longer post diving into visualisations more deeply. Keep an eye out for those posts in the upcoming weeks._ 
+
+### Motorized scooter tickets leap in San Diego
+
+![](https://res.cloudinary.com/civicvision/image/upload/v1549898094/Volume%204/sd-scooter-violations.png)
+
+A news article from the San Diego Union Tribune about scooter tickets in San Diego.   
+San Diego saw a rise in Scooters and Scooter usage over the last year and I enjoyed riding the scooter there a lot :)   
+The article includes three visualisations and a map. The map naturally caught my eye. 
+
+_It's using Carto as a provider and therefore really great basemaps which help emphasise the data and not the streets. On a first glance at the map you can see that most tickets were issued downtown and most of the scooters are in downtown San Diego. So no surprise there. I would have loved seeing actually scooter usage numbers but we have to take what we get :)  
+One thing that stands out and could confuse readers is the color choice. They used red, green, yellow and added a blue. But the colors do not match the ticket description very good. You would not expect a green dot being a scooter without adequate brakes. But I applaud the Union Tribune of using data analysis and visualisations to support their stories._ 
 
 <hr />
 

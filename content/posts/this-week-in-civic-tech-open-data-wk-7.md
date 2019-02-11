@@ -95,6 +95,24 @@ _I would have used less color and maybe even used a slope chart instead of the b
 
 ## Open Data
 
+### New Data: Portland Police Department
+
+We have a nice new dataset from the Police department of Portland
+
+[https://www.portlandoregon.gov/police/71673](https://www.portlandoregon.gov/police/71673?utm_content=bufferd5272&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer "https://www.portlandoregon.gov/police/71673?utm_content=bufferd5272&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer")
+
+{{< tweet 1092466319746875392 >}}
+
+### Great thread from last week about illegal parking
+
+{{< tweet 1091026922170142721 >}}
+
+### **The State of the Union of Open Data**
+
+> 93.6% of #SOTUofopendata survey respondents believe we’ll see an improvement in the standardization, sharing, & use of #opendata in the immediate future - 14.4% increase over last year! Learn what’s behind the numbers in our report
+
+[Report](https://www.datafoundation.org/the-state-of-the-union-of-open-data-ed-3)
+
 <hr />
 
 ## Articles

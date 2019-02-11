@@ -20,7 +20,7 @@ title = "Chicago PD Launches ‘Intelligence Hub’ in Logan Square Area"
 url = "http://www.govtech.com/public-safety/Chicago-PD-Launches-Intelligence-Hub-in-Logan-Square-Area.html"
 
 +++
-This weeks post does not include that many visualisations or civic tech pieces but more local journalism with data visualisations. 
+This week includes data visualisations about Trees in New York, Wildfires in California, Housing in Boston and 
 
 I'm still figuring out the best approach to it, and if you have any suggestions please let me know :) 
 
@@ -56,7 +56,7 @@ Maybe add a second color if you have more information to encode. Or add a heatma
 
 They offer a recommended maps section which include maps about Racial and Ethnic Diversity, Modestly-Priced Homes and Gentrifying Neighborhoods. 
 
-_I took a closer look at the Gentrifying Neighborhoods map. And it  took me some time to figure them out._
+_I took a closer look at the Gentrifying Neighborhoods map. And it  took me some time to figure them out._ _They have the typical red, yellow green color scale, which makes it easy to spot good and bad parts. I would have wished more explanation. I clicked on Gentrifying Neighborhoods but I am not sure if a green or a red district is gentrified._ 
 
 ![](https://res.cloudinary.com/civicvision/image/upload/v1549903939/Volume%204/boston-gentrification-detail.png)
 

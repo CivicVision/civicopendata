@@ -23,6 +23,76 @@ category = "Open Data/Open Government"
 template = "article"
 title = "Unveiling the Government of Canada's Standards on APIs"
 url = "https://open.canada.ca/en/blog/unveiling-government-canadas-standards-apis"
+[[articles]]
+category = "Open Data/Open Government"
+template = "article"
+title = "Philadelphia Adopts Smart City Road Map"
+url = "http://www.govtech.com/fs/infrastructure/Philadelphia-Adopts-Smart-City-Road-Map.html"
+[[articles]]
+category = "Open Data/Open Government"
+template = "article"
+title = "Impactful open data through user research"
+url = "https://sunlightfoundation.com/2019/02/05/impactful-open-data-through-user-research/"
+[[articles]]
+category = "Open Data/Open Government"
+template = "article"
+title = "Detroit Counts on Tech to Prep for the 2020 Census"
+url = "http://www.govtech.com/analytics/Detroit-Counts-on-Tech-to-Prep-for-the-2020-Census.html"
+[[articles]]
+category = "Civic tech/Community"
+template = "article"
+title = "When It’s Hard to Make Ends Meet, Can Smart Apps Help?"
+url = "https://www.nytimes.com/2019/02/04/opinion/navigating-bureaucracy-try-technology.html"
+[[articles]]
+category = "Civic tech/Community"
+template = "article"
+title = "D.C. developers present futuristic traffic, environmental apps for civic challenge"
+url = "https://statescoop.com/d-c-developers-present-futuristic-traffic-environmental-apps-for-civic-challenge/?utm_campaign=StateScoop%20-%20Editorial&utm_content=84312304&utm_medium=social&utm_source=twitter&hss_channel=tw-987600932"
+[[articles]]
+category = "Open Data/Open Government"
+template = "article"
+title = "Open Data and Entrepreneurship"
+url = "https://www.europeandataportal.eu/en/highlights/open-data-and-entrepreneurship"
+[[articles]]
+category = "Civic tech/Community"
+template = "article"
+title = "Seattle Nonprofit Builds App to Stop School Violence"
+url = "http://www.govtech.com/education/k-12/Seattle-Nonprofit-Builds-App-to-Stop-School-Violence.html"
+[[articles]]
+category = "Open Data/Open Government"
+template = "article"
+title = "Chicago PD Launches ‘Intelligence Hub’ in Logan Square Area"
+url = "http://www.govtech.com/public-safety/Chicago-PD-Launches-Intelligence-Hub-in-Logan-Square-Area.html"
+[[articles]]
+category = "Open Data/Open Government"
+template = "article"
+title = "How Can We Improve Trust in Technology?"
+url = "http://www.govtech.com/blogs/lohrmann-on-cybersecurity/how-can-we-improve-trust-in-technology.html"
+[[articles]]
+category = "Open Data/Open Government"
+template = "article"
+title = "Data Coaliiton releases Polcy Agenda 2019"
+url = "https://www.datacoalition.org/issues/policy-agenda/"
+[[articles]]
+category = "Open Data/Open Government"
+template = "article"
+title = "By the people: A new series on participatory service design"
+url = "https://www.phila.gov/2019-01-29-by-the-people-a-new-series-on-participatory-service-design/"
+[[articles]]
+category = "Civic tech/Community"
+template = "article"
+title = "Beyond numbers: reuse of data to visualise gender gaps in the City of Buenos Aires"
+url = "https://openheroines.org/beyond-numbers-reuse-of-data-to-visualise-gender-gaps-in-the-city-of-buenos-aires-251a0629ceeb"
+[[articles]]
+category = "Civic tech/Community"
+template = "article"
+title = "Tech-savvy Samaritans create web tool for co-ordinating help for poor"
+url = "https://www.cbc.ca/news/canada/new-brunswick/civic-tech-fredericton-caring-calendar-1.4988544"
+[[articles]]
+category = "Civic tech/Community"
+template = "article"
+title = "Managing the Many Moving (and Zooming) Parts of ZoLa"
+url = "https://medium.com/nycplanninglabs/managing-the-many-moving-and-zooming-parts-of-zola-98ec2e0a5c99"
 
 +++
 This week includes data visualisations about Trees in New York, Wildfires in California, Housing in Boston and Scooters in San Diego. 
@@ -117,6 +187,12 @@ We have a nice new dataset from the Police department of Portland
 > 93.6% of #SOTUofopendata survey respondents believe we’ll see an improvement in the standardization, sharing, & use of #opendata in the immediate future - 14.4% increase over last year! Learn what’s behind the numbers in our report
 
 [Report](https://www.datafoundation.org/the-state-of-the-union-of-open-data-ed-3)
+
+### Baton Rouge, La., launches new open checkbook
+
+> Baton Rouge, La., launched a new open checkbook platform that allows residents and other visitors access to spending data for municipal departments and services.
+
+https://checkbook.brla.gov/#!/year/2019/
 
 <hr />
 

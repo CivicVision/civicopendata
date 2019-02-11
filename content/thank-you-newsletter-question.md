@@ -1,6 +1,6 @@
 +++
 date = "2019-02-11T20:55:06+01:00"
-title = "thank you"
+title = "Thank you!"
 
 +++
 Thank you for answering my question. 

@@ -7,4 +7,4 @@ fields:
   label: Title
   name: title
 pages:
-- content/thank-you.md
+- content/thank-you-newsletter-question.md

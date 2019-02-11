@@ -1,6 +1,5 @@
 +++
 date = "2019-02-11T20:55:06+01:00"
-draft = true
 title = "thank you"
 
 +++

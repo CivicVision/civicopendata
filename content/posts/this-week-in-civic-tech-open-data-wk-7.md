@@ -73,6 +73,16 @@ The article includes three visualisations and a map. The map naturally caught my
 _It's using Carto as a provider and therefore really great basemaps which help emphasise the data and not the streets. On a first glance at the map you can see that most tickets were issued downtown and most of the scooters are in downtown San Diego. So no surprise there. I would have loved seeing actually scooter usage numbers but we have to take what we get :)  
 One thing that stands out and could confuse readers is the color choice. They used red, green, yellow and added a blue. But the colors do not match the ticket description very good. You would not expect a green dot being a scooter without adequate brakes. But I applaud the Union Tribune of using data analysis and visualisations to support their stories._ 
 
+### Chicago Pre-K Community Programs
+
+![](https://res.cloudinary.com/civicvision/image/upload/v1549908695/Volume%204/chicago-pre-k-community-programs.png)
+
+> El Valor runs the second-largest network of early childhood education centers in Chicago, after the public school system itself. Until this fall, several of its centers on the city’s South and Southwest sides had long waitlists.
+
+This article is about the change of then Mayor Rahm Emanuel announcing that Chicago would embrace universal education for 4-year-olds. And community education Center El Valor struggles to fill its places. 
+
+_I love the small multiples approach, showing seats filled at the public school and the community programs. The typical red, yellow, green color for empty to full works well and adding a fourth color in blue to show overcapacity works great. Especially since it stands out right away. The cited their source but I would have loved to look into the data myself, so a link to the source would have been even better._ 
+
 <hr />
 
 ## Open Data
@@ -87,20 +97,6 @@ One thing that stands out and could confuse readers is the color choice. They us
 
 <hr />
 
-## Tools
-
-<hr />
-
 ## Tweets
 
-<hr />
-
-## Videos
-
-<hr />
-
-## Jobs
-
-<hr />
-
-## Upcoming Events
+{{< tweets >}}

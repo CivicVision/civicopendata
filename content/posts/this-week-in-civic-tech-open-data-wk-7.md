@@ -50,7 +50,15 @@ Maybe add a second color if you have more information to encode. Or add a heatma
 
 ### Boston Neighborhood Change Interactive Map
 
+![](https://res.cloudinary.com/civicvision/image/upload/v1549903525/Volume%204/boston-gentrification.png)
+
 > The Joint Center for Housing Studies of Harvard University has released a new Boston Neighborhood Change Interactive Map, which allows visualizations of demographic, social and economic changes in the Boston Metropolitan Statistical Area.
+
+They offer a recommended maps section which include maps about Racial and Ethnic Diversity, Modestly-Priced Homes and Gentrifying Neighborhoods. 
+
+_I took a closer look at the Gentrifying Neighborhoods map. And it  took me some time to figure them out._
+
+![](https://res.cloudinary.com/civicvision/image/upload/v1549903939/Volume%204/boston-gentrification-detail.png)
 
 <hr />
 

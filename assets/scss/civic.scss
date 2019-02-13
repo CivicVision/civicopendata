@@ -42,33 +42,3 @@
 	transform: translateY(-1px);
 	box-shadow: 0 7px 14px rgba(50,50,93,.1), 0 3px 6px rgba(0,0,0,.08);
 }
-form#ck-simple {
-  font-size: 16px;
-  font-weight: 400;
-  margin: 2rem 0;
-  padding: 0 0 2rem 0;
-}
-input {
-  font-size: 16px;
-  border-radius: .25rem;
-  line-height: 1.25;
-  padding: .5rem 0.75rem;
-  box-shadow: 0 2px 4px 0 rgba(0,0,0,.1);
-  color: #606f7b;
-  margin-bottom: 1rem;
-  max-width: 20rem;
-  width: 100%;
-  border: 1px solid #dae1e7;
-}
-.btn {
-  border-radius: .25rem;
-  background-color: #3490dc;
-  padding: .5rem 1rem;
-  color: #fff;
-  font-size: 16px;
-  cursor: pointer;
-}
-.btn:hover {
-  background-color: #2779bd;
-}
-

@@ -17,13 +17,35 @@ volume = 5
 
 ![](https://res.cloudinary.com/civicvision/image/upload/v1550335436/Volume%205/tempe-opiod.png)
 
-This is a cool project by the city of Tempe, AZ using ArcGIS storymap and dashboard to explain opioids in waste water collection. 
+This is a cool project by the city of Tempe, AZ using ArcGIS storymap and dashboard to explain opioids in waste water collection.
 
-_If you only look at the dashboard it is not immediately obvious why only three areas have graphs and three don‘t. But if you read the story map it will be explainbed. My question with dashboards always is: Who is the audience. Is it the general public and is the dashboard to be used as a standalone project? Then a lot of explanations are missing. 
+_If you only look at the dashboard it is not immediately obvious why only three areas have graphs and three don‘t. But if you read the story map it will be explainbed. My question with dashboards always is: Who is the audience. Is it the general public and is the dashboard to be used as a standalone project? Then a lot of explanations are missing.
 If it is for city workers and only shared for the sake of sharing and showing transparency I would argue that a dedicated dashboard for the public would be in order._
 
-__Takeaway:__
-Always ask yourself who is the audience of my visualization. 
+**Takeaway:**
+Always ask yourself who is the audience of my visualization.
+
+### People's Perception Of Crime Rates Vs. Actual Crime Rates, Visualized
+
+![](https://res.cloudinary.com/civicvision/image/upload/v1550335783/Volume%205/crime-perception.png)
+
+Nice use of small multiples but as the source on digg added:
+
+> It's worth noting that these graphs, while persuasive, are slightly misleading, since the y-axes don't start at 0 and use different scales. In other words, all of the crimes named above have decreased significantly in prevalence since 1991... but they haven't all decreased the same amount, as the visualization seems to imply.
+
+_I would not go that far that’s all scales should start at zero but at least the percentage between the min and max on the y-scale should have been the same. The you could at least see the percentage of drops._
+
+_And the last chart about the perception is not very clear, I get why they choose it but it takes some time to get your head around it._
+
+_I would have used slope graphs with three dates 1990 - 2001 - 2017 since 2001 was the year the perception of the public changed and you should see that clearly in a slope chart_
+
+**Takeway**:
+
+### Snow days in Germany
+
+Nice visualization and nice use of small multiples. 
+
+_But I am not sure about the color usage. Darker hues usually refer to more and in this viz it‘s used for the opposite._
 
 <hr />
 
@@ -36,6 +58,7 @@ Always ask yourself who is the audience of my visualization.
 ### Civic Tech/Community
 
 ### Open Government/Open Data
+
 <hr />
 
 ## Tools
@@ -55,4 +78,3 @@ Always ask yourself who is the audience of my visualization.
 <hr />
 
 ## Upcoming Events
-

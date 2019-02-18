@@ -157,6 +157,10 @@ A very sad but important dataset, released by McClatchy, the Miami Herald and Th
 [Story](https://www.miamiherald.com/news/nation-world/national/article225548170.html)
 [Dataset](https://github.com/mcclatchy/gun-deaths)
 
+### [New San Diego County Crime Data](https://www.sandiegodata.org/2019/02/new-san-diego-county-crime-data/)
+
+The San Diego Regional Library updated their crime data collection with files for 2016 and 2017. Their crime data collection now runs from 2006 to 201.
+
 ### Missed last week: Illegal parking reporting NYC
 
 {{< tweet 1091026922170142721 >}}
@@ -188,3 +192,5 @@ A very sad but important dataset, released by McClatchy, the Miami Herald and Th
 <hr />
 
 ## Upcoming Events
+
+- [GO CODE COLORADO 2019](https://gocode.colorado.gov)

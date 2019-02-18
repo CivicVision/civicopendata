@@ -31,11 +31,15 @@ If it is for city workers and only shared for the sake of sharing and showing tr
 
 ![](https://res.cloudinary.com/civicvision/image/upload/v1550507772/Volume%205/san-diego-clairmont-planning-tool.png)
 
-Good: the focus in the area of interest
+The City of San Diego launched a new tool to invite the community to help update the Clairemont Community Plan. It invites residents to provide input for additional housing. The goal is to add 5,000 new housing units above the current plan. 
 
-Why: sat images instead of streets; color choices are interesting;
+> In an ongoing effort to provide innovative approaches to improving the quality of life for residents and businesses, the City of San Diego’s Planning Department has developed a new online community engagement tool. This tool will allow the community to engage in the planning process from any computer or mobile device 24 hours a day, this solves many of the traditional challenges associated with attending an in-person workshop.
 
-**Takeaway**:
+_What I like about this tool is that the map only focusses on the area of interest and greyed out the rest of the city. I'm not sure why satellite imagery is necessary. I would argue a lighter street background would be valuable as well. Once you zoom into the specific areas the satellite map makes sense and provides extra context what is already visible. But you could have used a map that is easier to navigate on higher zoom levels.   
+The color choices are also interesting. :)_ 
+
+**Takeaway**:  
+**_Every zoom level does not need the same basemap. You can switch the basemap depending on the context of the application._**
 
 [Tool](https://www.clairemontplan.org/online-community-engagement-tool)
 

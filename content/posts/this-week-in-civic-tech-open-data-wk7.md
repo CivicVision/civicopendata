@@ -23,7 +23,7 @@ _If you only look at the dashboard it is not immediately obvious why only three 
 If it is for city workers and only shared for the sake of sharing and showing transparency I would argue that a dedicated dashboard for the public would be in order._
 
 **Takeaway:**
-Always ask yourself who is the audience of my visualization.
+**_Always ask yourself who is the audience of my visualization._**
 
 ### People's Perception Of Crime Rates Vs. Actual Crime Rates, Visualized
 
@@ -40,6 +40,26 @@ _And the last chart about the perception is not very clear, I get why they choos
 _I would have used slope graphs with three dates 1990 - 2001 - 2017 since 2001 was the year the perception of the public changed and you should see that clearly in a slope chart_
 
 **Takeway**:
+
+### ActNow After School programs
+
+Small little map about after-school programs in the state of Illinois. 
+
+_I like that they included a legend and a "How do I use this map" to help users with the interpretation_. _I'm not sure how much more value a map adds to the data. If you dive deeper into the data you see actual locations which might add value, but the chroropleth map could have been a list with dots as indicators._ 
+
+**Takeaway:   
+_Before you make a map, think about if the spatial components adds value._** 
+
+### The Early Childhood Workforce Index 2018
+
+Nice visual representation of the workforce index. Nice looking colors and explanations.
+
+_Just as the previous map as well I would argue that the map does not add value. You could easily have a list of the states. People usually know where the states are and don't need a reminder where they are located. If you want to make an argument that a specific region is performing worse and you use this map to make it more obvious than a map adds value._
+
+**Takeaway:   
+_Before you make a map, think about if the spatial components adds value._** 
+
+[http://cscce.berkeley.edu/2018-index-map/?fbclid=IwAR2THMkrFmaNLKgBsW0ogh1clcEDJS7VrWi5iHESCzNk6MaNZ55_u0bcyvk](http://cscce.berkeley.edu/2018-index-map/?fbclid=IwAR2THMkrFmaNLKgBsW0ogh1clcEDJS7VrWi5iHESCzNk6MaNZ55_u0bcyvk "http://cscce.berkeley.edu/2018-index-map/?fbclid=IwAR2THMkrFmaNLKgBsW0ogh1clcEDJS7VrWi5iHESCzNk6MaNZ55_u0bcyvk")
 
 ### Snow days in Germany
 

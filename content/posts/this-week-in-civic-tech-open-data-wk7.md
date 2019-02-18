@@ -2,7 +2,8 @@
 calendar_week_published = 7
 categories = ["This Week in Civic Tech"]
 date = "2019-02-16T17:39:46+01:00"
-hero = ""
+hero = "https://res.cloudinary.com/civicvision/image/upload/c_fill,h_600,w_800/l_Volume%205:right-of-way-capacity,c_fill,h_600,w_800,x_800/c_fill,h_600,l_Volume%205:snow-days-germany,w_800,x_-400,y_600/c_fill,f_png,h_600,l_Volume%205:san-diego-clairmont-planning-tool,w_800,x_400,y_300/Volume 5/uber-movement-boston"
+images = ["https://res.cloudinary.com/civicvision/image/upload/c_fill,h_600,w_800/l_Volume%205:right-of-way-capacity,c_fill,h_600,w_800,x_800/c_fill,h_600,l_Volume%205:snow-days-germany,w_800,x_-400,y_600/c_fill,f_png,h_600,l_Volume%205:san-diego-clairmont-planning-tool,w_800,x_400,y_300/Volume 5/uber-movement-boston"]
 tags = ["civic tech", "open data"]
 title = "Volume 5: This Week in Civic Tech/Open Data"
 tweets = ["1096478981203943425", "1095354098306727936", "1095040857244295168", "1094929416541618176", "1091597785219108864", "1095364465556627466", "1095396763278737410", "1093892474022645760", "1095336784622280704", "1095345030657699840", "1095121067822084096", "1095017653385625600"]

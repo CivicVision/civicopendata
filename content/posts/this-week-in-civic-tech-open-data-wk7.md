@@ -78,7 +78,9 @@ _Before you make a map, think about if the spatial components adds value._**
 
 [http://cscce.berkeley.edu/2018-index-map/?fbclid=IwAR2THMkrFmaNLKgBsW0ogh1clcEDJS7VrWi5iHESCzNk6MaNZ55_u0bcyvk](http://cscce.berkeley.edu/2018-index-map/?fbclid=IwAR2THMkrFmaNLKgBsW0ogh1clcEDJS7VrWi5iHESCzNk6MaNZ55_u0bcyvk "http://cscce.berkeley.edu/2018-index-map/?fbclid=IwAR2THMkrFmaNLKgBsW0ogh1clcEDJS7VrWi5iHESCzNk6MaNZ55_u0bcyvk")
 
-# New Census Data: Record Illinois Population Loss For The Year, 5th Straight Annual Loss
+### Uber Opens Travel Time Data to the Public
+
+### New Census Data: Record Illinois Population Loss For The Year, 5th Straight Annual Loss
 
 These charts would make Cole Nusbaumer very happy. 
 

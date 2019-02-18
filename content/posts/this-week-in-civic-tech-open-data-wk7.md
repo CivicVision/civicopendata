@@ -25,6 +25,20 @@ If it is for city workers and only shared for the sake of sharing and showing tr
 **Takeaway:**
 **_Always ask yourself who is the audience of my visualization._**
 
+### San Diego Launches 'Sim City' Planning Tool For Clairemont
+
+![](https://res.cloudinary.com/civicvision/image/upload/v1550507772/Volume%205/san-diego-clairmont-planning-tool.png)
+
+Good: the focus in the area of interest
+
+Why: sat images instead of streets; color choices are interesting;
+
+### Infographic: Transit and Emerging Technologies
+
+![](https://res.cloudinary.com/civicvision/image/upload/v1550507021/Volume%205/right-of-way-capacity.jpg)
+
+[http://nelsonnygaard.com/transit-and-emerging-technologies/](http://nelsonnygaard.com/transit-and-emerging-technologies/ "http://nelsonnygaard.com/transit-and-emerging-technologies/")
+
 ### People's Perception Of Crime Rates Vs. Actual Crime Rates, Visualized
 
 ![](https://res.cloudinary.com/civicvision/image/upload/v1550335783/Volume%205/crime-perception.png)
@@ -44,6 +58,8 @@ _I would have used slope graphs with three dates 1990 - 2001 - 2017 since 2001 w
 
 ### ActNow After School programs
 
+![](https://res.cloudinary.com/civicvision/image/upload/v1550389887/Volume%205/Illinois-prek-programs.png)
+
 Small little map about after-school programs in the state of Illinois. 
 
 _I like that they included a legend and a "How do I use this map" to help users with the interpretation_. _I'm not sure how much more value a map adds to the data. If you dive deeper into the data you see actual locations which might add value, but the chroropleth map could have been a list with dots as indicators._ 
@@ -61,6 +77,18 @@ _Just as the previous map as well I would argue that the map does not add value.
 _Before you make a map, think about if the spatial components adds value._** 
 
 [http://cscce.berkeley.edu/2018-index-map/?fbclid=IwAR2THMkrFmaNLKgBsW0ogh1clcEDJS7VrWi5iHESCzNk6MaNZ55_u0bcyvk](http://cscce.berkeley.edu/2018-index-map/?fbclid=IwAR2THMkrFmaNLKgBsW0ogh1clcEDJS7VrWi5iHESCzNk6MaNZ55_u0bcyvk "http://cscce.berkeley.edu/2018-index-map/?fbclid=IwAR2THMkrFmaNLKgBsW0ogh1clcEDJS7VrWi5iHESCzNk6MaNZ55_u0bcyvk")
+
+# New Census Data: Record Illinois Population Loss For The Year, 5th Straight Annual Loss
+
+These charts would make Cole Nusbaumer very happy. 
+
+The use of colors in all but one chart is very good and focuses the reader on the one bar that is important to the story: Illinois. 
+
+I would have made the other color not back but a darker grey.
+
+Takeaway: Use color sparingly and only to focus the reader on the things you want to highlight. It makes it easier for the reader. 
+
+Think about what if all charts had either the same color or all different colors. It would be harder to find Illinois and then compare and always need to find it again.
 
 ### Snow days in Germany
 

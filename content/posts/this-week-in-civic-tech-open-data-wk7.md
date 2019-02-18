@@ -64,20 +64,23 @@ _I would have used slope graphs with three dates 1990 - 2001 - 2017 since 2001 w
 
 [Source: Digg](http://digg.com/2019/crime-rates-perceptions-vs-reality?utm_source=ifttt)
 
-### ActNow After School programs
+### [ActNow After School programs](https://map.actnowillinois.org/map)
 
 ![](https://res.cloudinary.com/civicvision/image/upload/v1550389887/Volume%205/Illinois-prek-programs.png)
 
 Small little map about after-school programs in the state of Illinois. 
 
-_I like that they included a legend and a "How do I use this map" to help users with the interpretation_. _I'm not sure how much more value a map adds to the data. If you dive deeper into the data you see actual locations which might add value, but the chroropleth map could have been a list with dots as indicators._ 
+_I like that they included a legend and a "How do I use this map" to help users with the interpretation. I'm not sure how much more value a map adds to the data. If you dive deeper into the data you see actual locations which might add value, but the chroropleth map could have been a list with dots as indicators._
+_Google has a nice grey scheme as well (screenshot) which would make it easier to read the values and does not distract too much from it._  
+_I would be interesting in hearing why they let the user select multiple geographies or if they are using it internally to asses their success? _
+_I am very curious about the buckets they choose for the county map. They seem very strange at first sight. _
 
 **Takeaway:   
 _Before you make a map, think about if the spatial components adds value._** 
 
-[Source: ActNow]()
+[Source: ActNow](https://map.actnowillinois.org/map)
 
-### The Early Childhood Workforce Index 2018
+### [The Early Childhood Workforce Index 2018](http://cscce.berkeley.edu/2018-index-map/?fbclid=IwAR2THMkrFmaNLKgBsW0ogh1clcEDJS7VrWi5iHESCzNk6MaNZ55_u0bcyvk)
 
 ![](https://res.cloudinary.com/civicvision/image/upload/v1550506866/Volume%205/early-childhood-workforce-index.png)
 
@@ -88,7 +91,7 @@ _Just as the previous map as well I would argue that the map does not add value.
 **Takeaway:   
 _Before you make a map, think about if the spatial components adds value._** 
 
-[http://cscce.berkeley.edu/2018-index-map/?fbclid=IwAR2THMkrFmaNLKgBsW0ogh1clcEDJS7VrWi5iHESCzNk6MaNZ55_u0bcyvk](http://cscce.berkeley.edu/2018-index-map/?fbclid=IwAR2THMkrFmaNLKgBsW0ogh1clcEDJS7VrWi5iHESCzNk6MaNZ55_u0bcyvk "http://cscce.berkeley.edu/2018-index-map/?fbclid=IwAR2THMkrFmaNLKgBsW0ogh1clcEDJS7VrWi5iHESCzNk6MaNZ55_u0bcyvk")
+[Source: University of Berkeley](http://cscce.berkeley.edu/2018-index-map/?fbclid=IwAR2THMkrFmaNLKgBsW0ogh1clcEDJS7VrWi5iHESCzNk6MaNZ55_u0bcyvk)
 
 ### [New Census Data: Record Illinois Population Loss For The Year, 5th Straight Annual Loss](https://wirepoints.org/shrinking-illinois-loses-population-five-years-in-a-row/)
 

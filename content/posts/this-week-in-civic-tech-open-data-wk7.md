@@ -23,10 +23,10 @@ This week is heavy on visualisations and maps again. Lot's of interesting things
 
 ![](https://res.cloudinary.com/civicvision/image/upload/v1550335436/Volume%205/tempe-opiod.png)
 
-This is a cool project by the City of Tempe, AZ using ArcGIS storymap and dashboard to explain opioids in waste water collection.
+This is a cool project by the City of Tempe, AZ using ArcGIS storymap and dashboard to explain opioids in wastewater collection.
 
-_If you only look at the dashboard it is not immediately obvious why only three areas have graphs and three don‘t. But if you read the story map it will be explainbed. My question with dashboards always is: Who is the audience. Is it the general public and is the dashboard to be used as a standalone project? Then a lot of explanations are missing.
-If it is for city workers and only shared for the sake of sharing and showing transparency I would argue that a dedicated dashboard for the public would be in order._
+_If you only look at the dashboard, it is not immediately obvious why only three areas have graphs, and three don‘t. But if you read the story map, it will be explained. My question with dashboards always is: Who is the audience. Is it the general public and is the dashboard to be used as a standalone project? Then a lot of explanations are missing.  
+If it is for city workers and only shared for the sake of sharing and showing transparency, I would argue that a dedicated dashboard for the public would be in order._
 
 [Source: City of Tempe, AZ](https://tempegov.maps.arcgis.com/apps/Cascade/index.html?appid=92073d7f6a6a498b987f2afdab1b9471)
 
@@ -37,11 +37,11 @@ If it is for city workers and only shared for the sake of sharing and showing tr
 
 ![](https://res.cloudinary.com/civicvision/image/upload/v1550507772/Volume%205/san-diego-clairmont-planning-tool.png)
 
-The City of San Diego launched a new tool to invite the community to help update the Clairemont Community Plan. It invites residents to provide input for additional housing. The goal is to add 5,000 new housing units above the current plan.
+The City of San Diego launched a new tool to invite the community to help update the Clairemont Community Plan. It encourages residents to provide input for additional housing. The goal is to add 5,000 new housing units above the current plan.
 
 > In an ongoing effort to provide innovative approaches to improving the quality of life for residents and businesses, the City of San Diego’s Planning Department has developed a new online community engagement tool. This tool will allow the community to engage in the planning process from any computer or mobile device 24 hours a day, this solves many of the traditional challenges associated with attending an in-person workshop.
 
-_What I like about this tool is that the map only focusses on the area of interest and greyed out the rest of the city. I'm not sure why satellite imagery is necessary. I would argue a lighter street background would be valuable as well. Once you zoom into the specific areas the satellite map makes sense and provides extra context what is already visible. But you could have used a map that is easier to navigate on higher zoom levels.  
+_What I like about this tool is that the map only focusses on the area of interest and greyed out the rest of the city. I'm not sure why satellite imagery is necessary. I would argue a lighter street background would be valuable as well. Once you zoom into the specific areas, the satellite map makes sense and provides_ additional context of what _is already visible. But you could have used a map that is easier to navigate on higher zoom levels.  
 The color choices are also interesting. :)_
 
 **Takeaway**:  
@@ -53,18 +53,18 @@ The color choices are also interesting. :)_
 
 ![](https://res.cloudinary.com/civicvision/image/upload/v1550335783/Volume%205/crime-perception.png)
 
-Nice use of small multiples but as the source on digg added:
+Excellent use of small multiples but as the source on Digg added:
 
 > It's worth noting that these graphs, while persuasive, are slightly misleading, since the y-axes don't start at 0 and use different scales. In other words, all of the crimes named above have decreased significantly in prevalence since 1991... but they haven't all decreased the same amount, as the visualization seems to imply.
 
-_I would not go that far that’s all scales should start at zero but at least the percentage between the min and max on the y-scale should have been the same. The you could at least see the percentage of drops._
+_I would not go that far that all scales should start at zero but at least the percentage between the min and max on the y-scale should have been the same. You could at least see the rate of drops._
 
-_And the last chart about the perception is not very clear, I get why they choose it but it takes some time to get your head around it._
+_And the last chart about the perception is not very clear, I get why they choose it, but it takes some time to get your head around it._
 
-_I would have used slope graphs with three dates 1990 - 2001 - 2017 since 2001 was the year the perception of the public changed and you should see that clearly in a slope chart_
+_I would have used slope graphs with three dates 1990 - 2001 - 2017 since 2001 was the year the perception of the public changed, and you should see that clearly in a slope chart_
 
-**Takeway**:  
-**_Using the right scale is important._**
+**Takeaway**:  
+**_Using the right scale is essential._**
 
 [Source: Digg](http://digg.com/2019/crime-rates-perceptions-vs-reality?utm_source=ifttt)
 
@@ -72,15 +72,15 @@ _I would have used slope graphs with three dates 1990 - 2001 - 2017 since 2001 w
 
 ![](https://res.cloudinary.com/civicvision/image/upload/v1550389887/Volume%205/Illinois-prek-programs.png)
 
-Small little map about after-school programs in the state of Illinois.
+A map about after-school programs in the state of Illinois. 
 
-_I like that they included a legend and a "How do I use this map" to help users with the interpretation. I'm not sure how much more value a map adds to the data. If you dive deeper into the data you see actual locations which might add value, but the chroropleth map could have been a list with dots as indicators.
-Google has a nice grey scheme as well (screenshot) which would make it easier to read the values and does not distract too much from it.  
-I would be interesting in hearing why they let the user select multiple geographies or if they are using it internally to asses their success?   
-I am very curious about the buckets they choose for the county map. They seem very strange at first sight._ 
+_I like that they included a legend and a "How do I use this map" to help users with the interpretation.   
+The basemap makes it hard to read the data correctly. I would change it, and Google has a nice grey scheme basemap which could be used.  
+Also, I would be interested in hearing why they let the user select multiple geographies or if they are using it internally to asses their success?   
+Overall I'm not sure how much more value a map adds to the data, to be honest. If you dive deeper into the data, you see actual locations which might add value, but the choropleth map could have been a list with dots as indicators._
 
 **Takeaway:  
-_Before you make a map, think about if the spatial components adds value._**
+_Before you make a map, think about if the spatial components add value._**
 
 [Source: ActNow](https://map.actnowillinois.org/map)
 
@@ -93,7 +93,7 @@ Nice visual representation of the workforce index. Nice looking colors and expla
 _Just as the previous map as well I would argue that the map does not add value. You could easily have a list of the states. People usually know where the states are and don't need a reminder where they are located. If you want to make an argument that a specific region is performing worse and you use this map to make it more obvious than a map adds value._
 
 **Takeaway:  
-_Before you make a map, think about if the spatial components adds value._**
+_Before you make a map, think about if the spatial components add value._**
 
 [Source: University of Berkeley](http://cscce.berkeley.edu/2018-index-map/?fbclid=IwAR2THMkrFmaNLKgBsW0ogh1clcEDJS7VrWi5iHESCzNk6MaNZ55_u0bcyvk)
 
@@ -118,9 +118,14 @@ I would have made the other color not back but a darker grey.
 
 ![](https://res.cloudinary.com/civicvision/image/upload/v1550511088/Volume%205/snow-days-germany.png)
 
-Nice visualization and nice use of small multiples.
+Nice visualization of winter in Germany for the last 60 years from am german newspaper. 
 
-_But I am not sure about the color usage. Darker hues usually refer to more and in this visualization it‘s used for the opposite._
+Nice use of small multiples and color scheme. _But I am not sure about the color usage. Darker hues usually refer to more, and in this visualization it‘s used for the opposite. I asked them about their choice but have not heard back yet._
+
+{{< tweet 1096501264005775360 >}}
+
+**Takeaway:  
+Color scales and their hues matter. Think about what people are used to already and decide if you want to go against the norm. There are good reasons why you might want to do it but try to avoid it.** 
 
 [Source: WAZ newspaper](https://interaktiv.waz.de/winter-vergleich-deutschland/)
 

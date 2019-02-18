@@ -15,7 +15,7 @@ title = "Navigating the field of civic tech: A guide for newcomers and explorers
 url = "https://medium.com/tradecraft-traction/navigating-the-field-of-civic-tech-c1f9670c8f69"
 
 +++
-This week is heavy on visualisations and maps again. Lot's of interesting things were released last week. 
+This week is heavy on visualisations and maps again. Lot's of interesting things were released last week.
 
 ## Visualizations
 
@@ -37,12 +37,12 @@ If it is for city workers and only shared for the sake of sharing and showing tr
 
 ![](https://res.cloudinary.com/civicvision/image/upload/v1550507772/Volume%205/san-diego-clairmont-planning-tool.png)
 
-The City of San Diego launched a new tool to invite the community to help update the Clairemont Community Plan. It invites residents to provide input for additional housing. The goal is to add 5,000 new housing units above the current plan. 
+The City of San Diego launched a new tool to invite the community to help update the Clairemont Community Plan. It invites residents to provide input for additional housing. The goal is to add 5,000 new housing units above the current plan.
 
 > In an ongoing effort to provide innovative approaches to improving the quality of life for residents and businesses, the City of San Diego’s Planning Department has developed a new online community engagement tool. This tool will allow the community to engage in the planning process from any computer or mobile device 24 hours a day, this solves many of the traditional challenges associated with attending an in-person workshop.
 
-_What I like about this tool is that the map only focusses on the area of interest and greyed out the rest of the city. I'm not sure why satellite imagery is necessary. I would argue a lighter street background would be valuable as well. Once you zoom into the specific areas the satellite map makes sense and provides extra context what is already visible. But you could have used a map that is easier to navigate on higher zoom levels.   
-The color choices are also interesting. :)_ 
+_What I like about this tool is that the map only focusses on the area of interest and greyed out the rest of the city. I'm not sure why satellite imagery is necessary. I would argue a lighter street background would be valuable as well. Once you zoom into the specific areas the satellite map makes sense and provides extra context what is already visible. But you could have used a map that is easier to navigate on higher zoom levels.  
+The color choices are also interesting. :)_
 
 **Takeaway**:  
 **_Every zoom level does not need the same basemap. You can switch the basemap depending on the context of the application._**
@@ -72,15 +72,15 @@ _I would have used slope graphs with three dates 1990 - 2001 - 2017 since 2001 w
 
 ![](https://res.cloudinary.com/civicvision/image/upload/v1550389887/Volume%205/Illinois-prek-programs.png)
 
-Small little map about after-school programs in the state of Illinois. 
+Small little map about after-school programs in the state of Illinois.
 
-_I like that they included a legend and a "How do I use this map" to help users with the interpretation. I'm not sure how much more value a map adds to the data. If you dive deeper into the data you see actual locations which might add value, but the chroropleth map could have been a list with dots as indicators._
-_Google has a nice grey scheme as well (screenshot) which would make it easier to read the values and does not distract too much from it._  
-_I would be interesting in hearing why they let the user select multiple geographies or if they are using it internally to asses their success? _
-_I am very curious about the buckets they choose for the county map. They seem very strange at first sight. _
+_I like that they included a legend and a "How do I use this map" to help users with the interpretation. I'm not sure how much more value a map adds to the data. If you dive deeper into the data you see actual locations which might add value, but the chroropleth map could have been a list with dots as indicators.
+Google has a nice grey scheme as well (screenshot) which would make it easier to read the values and does not distract too much from it.  
+I would be interesting in hearing why they let the user select multiple geographies or if they are using it internally to asses their success?   
+I am very curious about the buckets they choose for the county map. They seem very strange at first sight._ 
 
-**Takeaway:   
-_Before you make a map, think about if the spatial components adds value._** 
+**Takeaway:  
+_Before you make a map, think about if the spatial components adds value._**
 
 [Source: ActNow](https://map.actnowillinois.org/map)
 
@@ -92,8 +92,8 @@ Nice visual representation of the workforce index. Nice looking colors and expla
 
 _Just as the previous map as well I would argue that the map does not add value. You could easily have a list of the states. People usually know where the states are and don't need a reminder where they are located. If you want to make an argument that a specific region is performing worse and you use this map to make it more obvious than a map adds value._
 
-**Takeaway:   
-_Before you make a map, think about if the spatial components adds value._** 
+**Takeaway:  
+_Before you make a map, think about if the spatial components adds value._**
 
 [Source: University of Berkeley](http://cscce.berkeley.edu/2018-index-map/?fbclid=IwAR2THMkrFmaNLKgBsW0ogh1clcEDJS7VrWi5iHESCzNk6MaNZ55_u0bcyvk)
 
@@ -101,14 +101,14 @@ _Before you make a map, think about if the spatial components adds value._**
 
 ![](https://res.cloudinary.com/civicvision/image/upload/v1550506860/Volume%205/illinois-population.png)
 
-These charts would make Cole Nusbaumer very happy. 
+These charts would make Cole Nusbaumer very happy.
 
-The use of colors in all but one chart is very good and focuses the reader on the one bar that is important to the story: Illinois. 
+The use of colors in all but one chart is very good and focuses the reader on the one bar that is important to the story: Illinois.
 
 I would have made the other color not back but a darker grey.
 
-**Takeaway:**   
-**_Use color sparingly and only to focus the reader on the things you want to highlight. It makes it easier for the reader._** 
+**Takeaway:**  
+**_Use color sparingly and only to focus the reader on the things you want to highlight. It makes it easier for the reader._**
 
 **_Think about what if all charts had either the same color or all different colors. It would be harder to find Illinois and then compare and always need to find it again._**
 
@@ -118,12 +118,11 @@ I would have made the other color not back but a darker grey.
 
 ![](https://res.cloudinary.com/civicvision/image/upload/v1550511088/Volume%205/snow-days-germany.png)
 
-Nice visualization and nice use of small multiples. 
+Nice visualization and nice use of small multiples.
 
 _But I am not sure about the color usage. Darker hues usually refer to more and in this visualization it‘s used for the opposite._
 
 [Source: WAZ newspaper](https://interaktiv.waz.de/winter-vergleich-deutschland/)
-
 
 ### [Infographic: Transit and Emerging Technologies](http://nelsonnygaard.com/transit-and-emerging-technologies/)
 
@@ -131,15 +130,11 @@ _But I am not sure about the color usage. Darker hues usually refer to more and 
 
 [Source: Nelson Nygaard Consulting Associates](http://nelsonnygaard.com/transit-and-emerging-technologies/)
 
-### [Uber Opens Travel Time Data to the Public](https://movement.uber.com/explore/boston/travel-times/query?lang=en-AU&lat.=42.3584308&lng.=-71.1007732&z.=12&si=1116&ti=&ag=censustracts&dt[tpb]=ALL_DAY&dt[dr][sd]=2018-01-01&dt[dr][ed]=2018-01-31&dt[wd;]=1,2,3,4,5,6,7&cd=&sa;=&sdn=)
+### [Uber Opens Travel Time Data to the Public](https://movement.uber.com/explore/boston/travel-times/query?lang=en-AU&lat.=42.3584308&lng.=-71.1007732&z.=12&si=1116&ti=&ag=censustracts&dt%5Btpb%5D=ALL_DAY&dt%5Bdr%5D%5Bsd%5D=2018-01-01&dt%5Bdr%5D%5Bed%5D=2018-01-31&dt%5Bwd;%5D=1,2,3,4,5,6,7&cd=&sa;=&sdn=)
 
 ![](https://res.cloudinary.com/civicvision/image/upload/v1550512747/Volume%205/uber-movement-boston.png)
 
 > Starting today, Uber has announced that they have opened access to their travel times data to the public (for selected cities, including Melbourne and Sydney). Previously, Uber required users to sign in before they could explore and download Movement data. By making travel times data more accessible to the public, Uber hopes to see more research and insights that will help shape the cities of the future.
-
-
-
-
 
 <hr />
 
@@ -155,7 +150,8 @@ I wanted to make a visualization out of it, but did not find the time yet. The d
 Hopefully later this week I can update this post and maybe share a more detailed one how I used the data.
 
 ### [Since Parkland](https://github.com/mcclatchy/gun-deaths)
-A very sad but important dataset, released by McClatchy, the Miami Herald and The Trace. 
+
+A very sad but important dataset, released by McClatchy, the Miami Herald and The Trace.
 
 > The organizations pulled information on gun-involved deaths of school-age children from the nonprofit research group Gun Violence Archive, which culls reports of gun-involved incidents from more than 2,000 media sources. To compare deaths in the year since Parkland to those before, McClatchy classified each year as starting on Feb. 14 and ending on Feb. 13.
 
@@ -168,8 +164,7 @@ The San Diego Regional Library updated their crime data collection with files fo
 
 ### [Data Common](https://datacommon.mapc.org)
 
-> MAPC's DataCommon has hundreds of downloadable datasets specific to Mass. and our region - with many broken down by municipality. 
-
+> MAPC's DataCommon has hundreds of downloadable datasets specific to Mass. and our region - with many broken down by municipality.
 
 ### Missed last week: Illegal parking reporting NYC
 
@@ -211,5 +206,5 @@ Dedupe got a design refresh and an explainer video.
 
 ## Upcoming Events
 
-- [GO CODE COLORADO 2019](https://gocode.colorado.gov)
-- [Hackathon CHARLOTTE NC,22.-23.3.2019](http://hackathonclt.org)
+* [GO CODE COLORADO 2019](https://gocode.colorado.gov)
+* [Hackathon CHARLOTTE NC,22.-23.3.2019](http://hackathonclt.org)

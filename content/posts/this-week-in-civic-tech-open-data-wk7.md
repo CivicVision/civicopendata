@@ -15,14 +15,16 @@ This week is heavy on visualisations and maps again. Lot's of interesting things
 
 ## Visualizations
 
-### Fighting Opioid Misuse by Monitoring Community Health
+### [Fighting Opioid Misuse by Monitoring Community Health](https://tempegov.maps.arcgis.com/apps/Cascade/index.html?appid=92073d7f6a6a498b987f2afdab1b9471)
 
 ![](https://res.cloudinary.com/civicvision/image/upload/v1550335436/Volume%205/tempe-opiod.png)
 
-This is a cool project by the city of Tempe, AZ using ArcGIS storymap and dashboard to explain opioids in waste water collection.
+This is a cool project by the City of Tempe, AZ using ArcGIS storymap and dashboard to explain opioids in waste water collection.
 
 _If you only look at the dashboard it is not immediately obvious why only three areas have graphs and three don‘t. But if you read the story map it will be explainbed. My question with dashboards always is: Who is the audience. Is it the general public and is the dashboard to be used as a standalone project? Then a lot of explanations are missing.
 If it is for city workers and only shared for the sake of sharing and showing transparency I would argue that a dedicated dashboard for the public would be in order._
+
+[Source: City of Tempe, AZ](https://tempegov.maps.arcgis.com/apps/Cascade/index.html?appid=92073d7f6a6a498b987f2afdab1b9471)
 
 **Takeaway:**
 **_Always ask yourself who is the audience of my visualization._**
@@ -41,13 +43,7 @@ The color choices are also interesting. :)_
 **Takeaway**:  
 **_Every zoom level does not need the same basemap. You can switch the basemap depending on the context of the application._**
 
-[Tool](https://www.clairemontplan.org/online-community-engagement-tool)
-
-### Infographic: Transit and Emerging Technologies
-
-![](https://res.cloudinary.com/civicvision/image/upload/v1550507021/Volume%205/right-of-way-capacity.jpg)
-
-[http://nelsonnygaard.com/transit-and-emerging-technologies/](http://nelsonnygaard.com/transit-and-emerging-technologies/ "http://nelsonnygaard.com/transit-and-emerging-technologies/")
+[Source: City of San Diego](https://www.clairemontplan.org/online-community-engagement-tool)
 
 ### [People's Perception Of Crime Rates Vs. Actual Crime Rates, Visualized](http://digg.com/2019/crime-rates-perceptions-vs-reality?utm_source=ifttt)
 
@@ -94,14 +90,6 @@ _Before you make a map, think about if the spatial components adds value._**
 
 [http://cscce.berkeley.edu/2018-index-map/?fbclid=IwAR2THMkrFmaNLKgBsW0ogh1clcEDJS7VrWi5iHESCzNk6MaNZ55_u0bcyvk](http://cscce.berkeley.edu/2018-index-map/?fbclid=IwAR2THMkrFmaNLKgBsW0ogh1clcEDJS7VrWi5iHESCzNk6MaNZ55_u0bcyvk "http://cscce.berkeley.edu/2018-index-map/?fbclid=IwAR2THMkrFmaNLKgBsW0ogh1clcEDJS7VrWi5iHESCzNk6MaNZ55_u0bcyvk")
 
-### [Uber Opens Travel Time Data to the Public](https://movement.uber.com/explore/boston/travel-times/query?lang=en-AU&lat.=42.3584308&lng.=-71.1007732&z.=12&si=1116&ti=&ag=censustracts&dt[tpb]=ALL_DAY&dt[dr][sd]=2018-01-01&dt[dr][ed]=2018-01-31&dt[wd;]=1,2,3,4,5,6,7&cd=&sa;=&sdn=)
-
-![](https://res.cloudinary.com/civicvision/image/upload/v1550512747/Volume%205/uber-movement-boston.png)
-
-> Starting today, Uber has announced that they have opened access to their travel times data to the public (for selected cities, including Melbourne and Sydney). Previously, Uber required users to sign in before they could explore and download Movement data. By making travel times data more accessible to the public, Uber hopes to see more research and insights that will help shape the cities of the future.
-
-
-
 ### [New Census Data: Record Illinois Population Loss For The Year, 5th Straight Annual Loss](https://wirepoints.org/shrinking-illinois-loses-population-five-years-in-a-row/)
 
 ![](https://res.cloudinary.com/civicvision/image/upload/v1550506860/Volume%205/illinois-population.png)
@@ -128,6 +116,23 @@ Nice visualization and nice use of small multiples.
 _But I am not sure about the color usage. Darker hues usually refer to more and in this visualization it‘s used for the opposite._
 
 [Source: WAZ newspaper](https://interaktiv.waz.de/winter-vergleich-deutschland/)
+
+
+### [Infographic: Transit and Emerging Technologies](http://nelsonnygaard.com/transit-and-emerging-technologies/)
+
+![](https://res.cloudinary.com/civicvision/image/upload/v1550507021/Volume%205/right-of-way-capacity.jpg)
+
+[Source: Nelson Nygaard Consulting Associates](http://nelsonnygaard.com/transit-and-emerging-technologies/)
+
+### [Uber Opens Travel Time Data to the Public](https://movement.uber.com/explore/boston/travel-times/query?lang=en-AU&lat.=42.3584308&lng.=-71.1007732&z.=12&si=1116&ti=&ag=censustracts&dt[tpb]=ALL_DAY&dt[dr][sd]=2018-01-01&dt[dr][ed]=2018-01-31&dt[wd;]=1,2,3,4,5,6,7&cd=&sa;=&sdn=)
+
+![](https://res.cloudinary.com/civicvision/image/upload/v1550512747/Volume%205/uber-movement-boston.png)
+
+> Starting today, Uber has announced that they have opened access to their travel times data to the public (for selected cities, including Melbourne and Sydney). Previously, Uber required users to sign in before they could explore and download Movement data. By making travel times data more accessible to the public, Uber hopes to see more research and insights that will help shape the cities of the future.
+
+
+
+
 
 <hr />
 

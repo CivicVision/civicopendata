@@ -49,7 +49,7 @@ The color choices are also interesting. :)_
 
 [http://nelsonnygaard.com/transit-and-emerging-technologies/](http://nelsonnygaard.com/transit-and-emerging-technologies/ "http://nelsonnygaard.com/transit-and-emerging-technologies/")
 
-### People's Perception Of Crime Rates Vs. Actual Crime Rates, Visualized
+### [People's Perception Of Crime Rates Vs. Actual Crime Rates, Visualized](http://digg.com/2019/crime-rates-perceptions-vs-reality?utm_source=ifttt)
 
 ![](https://res.cloudinary.com/civicvision/image/upload/v1550335783/Volume%205/crime-perception.png)
 
@@ -66,6 +66,8 @@ _I would have used slope graphs with three dates 1990 - 2001 - 2017 since 2001 w
 **Takeway**:  
 **_Using the right scale is important._**
 
+[Source: Digg](http://digg.com/2019/crime-rates-perceptions-vs-reality?utm_source=ifttt)
+
 ### ActNow After School programs
 
 ![](https://res.cloudinary.com/civicvision/image/upload/v1550389887/Volume%205/Illinois-prek-programs.png)
@@ -76,6 +78,8 @@ _I like that they included a legend and a "How do I use this map" to help users 
 
 **Takeaway:   
 _Before you make a map, think about if the spatial components adds value._** 
+
+[Source: ActNow]()
 
 ### The Early Childhood Workforce Index 2018
 
@@ -90,13 +94,15 @@ _Before you make a map, think about if the spatial components adds value._**
 
 [http://cscce.berkeley.edu/2018-index-map/?fbclid=IwAR2THMkrFmaNLKgBsW0ogh1clcEDJS7VrWi5iHESCzNk6MaNZ55_u0bcyvk](http://cscce.berkeley.edu/2018-index-map/?fbclid=IwAR2THMkrFmaNLKgBsW0ogh1clcEDJS7VrWi5iHESCzNk6MaNZ55_u0bcyvk "http://cscce.berkeley.edu/2018-index-map/?fbclid=IwAR2THMkrFmaNLKgBsW0ogh1clcEDJS7VrWi5iHESCzNk6MaNZ55_u0bcyvk")
 
-### Uber Opens Travel Time Data to the Public
+### [Uber Opens Travel Time Data to the Public](https://movement.uber.com/explore/boston/travel-times/query?lang=en-AU&lat.=42.3584308&lng.=-71.1007732&z.=12&si=1116&ti=&ag=censustracts&dt[tpb]=ALL_DAY&dt[dr][sd]=2018-01-01&dt[dr][ed]=2018-01-31&dt[wd;]=1,2,3,4,5,6,7&cd=&sa;=&sdn=)
 
 ![](https://res.cloudinary.com/civicvision/image/upload/v1550512747/Volume%205/uber-movement-boston.png)
 
 > Starting today, Uber has announced that they have opened access to their travel times data to the public (for selected cities, including Melbourne and Sydney). Previously, Uber required users to sign in before they could explore and download Movement data. By making travel times data more accessible to the public, Uber hopes to see more research and insights that will help shape the cities of the future.
 
-### New Census Data: Record Illinois Population Loss For The Year, 5th Straight Annual Loss
+
+
+### [New Census Data: Record Illinois Population Loss For The Year, 5th Straight Annual Loss](https://wirepoints.org/shrinking-illinois-loses-population-five-years-in-a-row/)
 
 ![](https://res.cloudinary.com/civicvision/image/upload/v1550506860/Volume%205/illinois-population.png)
 
@@ -111,13 +117,17 @@ I would have made the other color not back but a darker grey.
 
 **_Think about what if all charts had either the same color or all different colors. It would be harder to find Illinois and then compare and always need to find it again._**
 
-### Snow days in Germany
+[Source: Wirepoints](https://wirepoints.org/shrinking-illinois-loses-population-five-years-in-a-row/)
+
+### [Snow days in Germany](https://interaktiv.waz.de/winter-vergleich-deutschland/)
 
 ![](https://res.cloudinary.com/civicvision/image/upload/v1550511088/Volume%205/snow-days-germany.png)
 
 Nice visualization and nice use of small multiples. 
 
 _But I am not sure about the color usage. Darker hues usually refer to more and in this visualization it‘s used for the opposite._
+
+[Source: WAZ newspaper](https://interaktiv.waz.de/winter-vergleich-deutschland/)
 
 <hr />
 

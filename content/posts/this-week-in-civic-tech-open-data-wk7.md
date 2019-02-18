@@ -156,6 +156,7 @@ Hopefully later this week I can update this post and maybe share a more detailed
 
 ### [Since Parkland](https://github.com/mcclatchy/gun-deaths)
 A very sad but important dataset, released by McClatchy, the Miami Herald and The Trace. 
+
 > The organizations pulled information on gun-involved deaths of school-age children from the nonprofit research group Gun Violence Archive, which culls reports of gun-involved incidents from more than 2,000 media sources. To compare deaths in the year since Parkland to those before, McClatchy classified each year as starting on Feb. 14 and ending on Feb. 13.
 
 [Story](https://www.miamiherald.com/news/nation-world/national/article225548170.html)

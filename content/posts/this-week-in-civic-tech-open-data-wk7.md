@@ -66,7 +66,7 @@ _Before you make a map, think about if the spatial components adds value._**
 
 Nice visualization and nice use of small multiples. 
 
-_But I am not sure about the color usage. Darker hues usually refer to more and in this viz it‘s used for the opposite._
+_But I am not sure about the color usage. Darker hues usually refer to more and in this visualization it‘s used for the opposite._
 
 <hr />
 

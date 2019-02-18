@@ -39,7 +39,8 @@ _And the last chart about the perception is not very clear, I get why they choos
 
 _I would have used slope graphs with three dates 1990 - 2001 - 2017 since 2001 was the year the perception of the public changed and you should see that clearly in a slope chart_
 
-**Takeway**:
+**Takeway**:  
+**_Using the right scale is important._**
 
 ### ActNow After School programs
 

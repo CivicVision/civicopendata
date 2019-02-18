@@ -5,13 +5,43 @@ date = "2019-02-16T17:39:46+01:00"
 hero = ""
 tags = ["civic tech", "open data"]
 title = "Volume 5: This Week in Civic Tech/Open Data"
-tweets = ["1091597785219108864", "1095364465556627466", "1095396763278737410"]
+tweets = ["1096478981203943425", "1095354098306727936", "1095040857244295168", "1094929416541618176", "1091597785219108864", "1095364465556627466", "1095396763278737410", "1093892474022645760", "1095336784622280704", "1095345030657699840", "1095121067822084096", "1095017653385625600"]
 volume = 5
 [[articles]]
 category = "Civic tech/Community"
 template = "article"
 title = "Navigating the field of civic tech: A guide for newcomers and explorers"
 url = "https://medium.com/tradecraft-traction/navigating-the-field-of-civic-tech-c1f9670c8f69"
+[[articles]]
+category = "Open Data/Open Government"
+template = "article"
+title = "Device-as-a-Service Opens the Door to IT Efficiency (Contributed)"
+url = "http://www.govtech.com/computing/Device-as-a-Service-Opens-the-Door-to-IT-Efficiency-Contributed.html"
+[[articles]]
+category = "Open Data/Open Government"
+template = "article"
+title = "How Miami's Innovation Academy Promotes Digital Literacy Programs"
+url = "https://www.cmswire.com/digital-workplace/how-miamis-innovation-academy-promotes-digital-literacy-programs/"
+[[articles]]
+category = "Open Data/Open Government"
+template = "article"
+title = "Could California’s Data Privacy Law Be a Model for the Nation?"
+url = "http://www.govtech.com/policy/Could-Californias-Data-Privacy-Law-Be-a-Model-for-the-Nation.html"
+[[articles]]
+category = "Open Data/Open Government"
+template = "article"
+title = "Cloud Emergency Dispatch Startup RapidDeploy Raises $12M"
+url = "http://www.govtech.com/biz/Cloud-Emergency-Dispatch-Startup-RapidDeploy-Raises-12M.html"
+[[articles]]
+category = "Civic tech/Community"
+template = "article"
+title = "New York City launches urban tech community program"
+url = "https://statescoop.com/new-york-city-launches-urban-tech-community-program/?utm_campaign=StateScoop%20-%20Editorial&utm_content=84723280&utm_medium=social&utm_source=twitter&hss_channel=tw-987600932"
+[[articles]]
+category = "Open Data/Open Government"
+template = "article"
+title = "The state of open government (data) remains divided, at risk, and underfunded"
+url = "https://e-pluribusunum.org/2019/02/11/the-state-of-open-government-data-remains-divided-at-risk-and-underfunded/"
 
 +++
 This week is heavy on visualisations and maps again. Lot's of interesting things were released last week.
@@ -208,3 +238,4 @@ Dedupe got a design refresh and an explainer video.
 
 * [GO CODE COLORADO 2019](https://gocode.colorado.gov)
 * [Hackathon CHARLOTTE NC,22.-23.3.2019](http://hackathonclt.org)
+* [RegTechData Summit in NYC, April 23](https://www.datacoalition.org/regtech-data-summit-2019/)

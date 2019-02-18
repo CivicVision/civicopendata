@@ -79,6 +79,8 @@ _Before you make a map, think about if the spatial components adds value._**
 
 ### The Early Childhood Workforce Index 2018
 
+![](https://res.cloudinary.com/civicvision/image/upload/v1550506866/Volume%205/early-childhood-workforce-index.png)
+
 Nice visual representation of the workforce index. Nice looking colors and explanations.
 
 _Just as the previous map as well I would argue that the map does not add value. You could easily have a list of the states. People usually know where the states are and don't need a reminder where they are located. If you want to make an argument that a specific region is performing worse and you use this map to make it more obvious than a map adds value._
@@ -89,6 +91,8 @@ _Before you make a map, think about if the spatial components adds value._**
 [http://cscce.berkeley.edu/2018-index-map/?fbclid=IwAR2THMkrFmaNLKgBsW0ogh1clcEDJS7VrWi5iHESCzNk6MaNZ55_u0bcyvk](http://cscce.berkeley.edu/2018-index-map/?fbclid=IwAR2THMkrFmaNLKgBsW0ogh1clcEDJS7VrWi5iHESCzNk6MaNZ55_u0bcyvk "http://cscce.berkeley.edu/2018-index-map/?fbclid=IwAR2THMkrFmaNLKgBsW0ogh1clcEDJS7VrWi5iHESCzNk6MaNZ55_u0bcyvk")
 
 ### Uber Opens Travel Time Data to the Public
+
+![](https://res.cloudinary.com/civicvision/image/upload/v1550512747/Volume%205/uber-movement-boston.png)
 
 > Starting today, Uber has announced that they have opened access to their travel times data to the public (for selected cities, including Melbourne and Sydney). Previously, Uber required users to sign in before they could explore and download Movement data. By making travel times data more accessible to the public, Uber hopes to see more research and insights that will help shape the cities of the future.
 

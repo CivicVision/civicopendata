@@ -11,6 +11,8 @@ tweets = []
 volume = 5
 
 +++
+This week is heavy on visualisations and maps again. Lot's of interesting things were released last week. 
+
 ## Visualizations
 
 ### Fighting Opioid Misuse by Monitoring Community Health
@@ -25,13 +27,17 @@ If it is for city workers and only shared for the sake of sharing and showing tr
 **Takeaway:**
 **_Always ask yourself who is the audience of my visualization._**
 
-### San Diego Launches 'Sim City' Planning Tool For Clairemont
+### [San Diego Launches 'Sim City' Planning Tool For Clairemont](https://www.clairemontplan.org/online-community-engagement-tool)
 
 ![](https://res.cloudinary.com/civicvision/image/upload/v1550507772/Volume%205/san-diego-clairmont-planning-tool.png)
 
 Good: the focus in the area of interest
 
 Why: sat images instead of streets; color choices are interesting;
+
+**Takeaway**:
+
+[Tool](https://www.clairemontplan.org/online-community-engagement-tool)
 
 ### Infographic: Transit and Emerging Technologies
 
@@ -80,7 +86,11 @@ _Before you make a map, think about if the spatial components adds value._**
 
 ### Uber Opens Travel Time Data to the Public
 
+> Starting today, Uber has announced that they have opened access to their travel times data to the public (for selected cities, including Melbourne and Sydney). Previously, Uber required users to sign in before they could explore and download Movement data. By making travel times data more accessible to the public, Uber hopes to see more research and insights that will help shape the cities of the future.
+
 ### New Census Data: Record Illinois Population Loss For The Year, 5th Straight Annual Loss
+
+![](https://res.cloudinary.com/civicvision/image/upload/v1550506860/Volume%205/illinois-population.png)
 
 These charts would make Cole Nusbaumer very happy. 
 
@@ -88,11 +98,14 @@ The use of colors in all but one chart is very good and focuses the reader on th
 
 I would have made the other color not back but a darker grey.
 
-Takeaway: Use color sparingly and only to focus the reader on the things you want to highlight. It makes it easier for the reader. 
+**Takeaway:**   
+**_Use color sparingly and only to focus the reader on the things you want to highlight. It makes it easier for the reader._** 
 
-Think about what if all charts had either the same color or all different colors. It would be harder to find Illinois and then compare and always need to find it again.
+**_Think about what if all charts had either the same color or all different colors. It would be harder to find Illinois and then compare and always need to find it again._**
 
 ### Snow days in Germany
+
+![](https://res.cloudinary.com/civicvision/image/upload/v1550511088/Volume%205/snow-days-germany.png)
 
 Nice visualization and nice use of small multiples. 
 

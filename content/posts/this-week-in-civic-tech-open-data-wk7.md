@@ -1,5 +1,4 @@
 +++
-articles = []
 calendar_week_published = 7
 categories = ["This Week in Civic Tech"]
 date = "2019-02-16T17:39:46+01:00"
@@ -7,8 +6,13 @@ draft = true
 hero = ""
 tags = ["civic tech", "open data"]
 title = "Volume 5: This Week in Civic Tech/Open Data"
-tweets = []
+tweets = ["1091597785219108864", "1095364465556627466", "1095396763278737410"]
 volume = 5
+[[articles]]
+category = "Civic tech/Community"
+template = "article"
+title = "Navigating the field of civic tech: A guide for newcomers and explorers"
+url = "https://medium.com/tradecraft-traction/navigating-the-field-of-civic-tech-c1f9670c8f69"
 
 +++
 This week is heavy on visualisations and maps again. Lot's of interesting things were released last week. 
@@ -161,6 +165,11 @@ A very sad but important dataset, released by McClatchy, the Miami Herald and Th
 
 The San Diego Regional Library updated their crime data collection with files for 2016 and 2017. Their crime data collection now runs from 2006 to 201.
 
+### [Data Common](https://datacommon.mapc.org)
+
+> MAPC's DataCommon has hundreds of downloadable datasets specific to Mass. and our region - with many broken down by municipality. 
+
+
 ### Missed last week: Illegal parking reporting NYC
 
 {{< tweet 1091026922170142721 >}}
@@ -177,9 +186,17 @@ The San Diego Regional Library updated their crime data collection with files fo
 
 ## Tools
 
+### [Dedupe](https://dedupe.io)
+
+Dedupe got a design refresh and an explainer video.
+
+{{< youtube UcXaBnTb_t8 >}}
+
 <hr />
 
 ## Tweets
+
+{{< tweets >}}
 
 <hr />
 
@@ -194,3 +211,4 @@ The San Diego Regional Library updated their crime data collection with files fo
 ## Upcoming Events
 
 - [GO CODE COLORADO 2019](https://gocode.colorado.gov)
+- [Hackathon CHARLOTTE NC,22.-23.3.2019](http://hackathonclt.org)

@@ -141,6 +141,26 @@ _But I am not sure about the color usage. Darker hues usually refer to more and 
 
 ## Open Data
 
+### [Toronto Fire Services releases high-rise violations inspections data – with notable holes](https://signaltoronto.com/toronto-fire-services-releases-high-rise-violations-inspections-data-with-notable-holes/)
+
+> Toronto Fire Services released the results of “fire prevention inspections” of high-rise residential buildings in 2017 on the city’s website on late Tuesday afternoon.
+
+I wanted to make a visualization out of it, but did not find the time yet. The data is not immediately visible and Open Data but I found the underlying data:  
+[Data Link](https://secure.toronto.ca/c3api_data/v2/DataAccess.svc/fireprevention/extractProperty)
+
+Hopefully later this week I can update this post and maybe share a more detailed one how I used the data.
+
+### [Since Parkland](https://github.com/mcclatchy/gun-deaths)
+A very sad but important dataset, released by McClatchy, the Miami Herald and The Trace. 
+> The organizations pulled information on gun-involved deaths of school-age children from the nonprofit research group Gun Violence Archive, which culls reports of gun-involved incidents from more than 2,000 media sources. To compare deaths in the year since Parkland to those before, McClatchy classified each year as starting on Feb. 14 and ending on Feb. 13.
+
+[Story](https://www.miamiherald.com/news/nation-world/national/article225548170.html)
+[Dataset](https://github.com/mcclatchy/gun-deaths)
+
+### Missed last week: Illegal parking reporting NYC
+
+{{< tweet 1091026922170142721 >}}
+
 <hr />
 
 ## Articles

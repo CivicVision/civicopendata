@@ -180,7 +180,11 @@ The San Diego Regional Library updated their crime data collection with files fo
 
 ### Civic Tech/Community
 
+{{< articles "Civic tech/Community" >}}
+
 ### Open Government/Open Data
+
+{{< articles "Open Data/Open Government" >}}
 
 <hr />
 
@@ -197,14 +201,6 @@ Dedupe got a design refresh and an explainer video.
 ## Tweets
 
 {{< tweets >}}
-
-<hr />
-
-## Videos
-
-<hr />
-
-## Jobs
 
 <hr />
 

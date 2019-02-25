@@ -58,11 +58,14 @@ You can guide or even influence your audience with your color choices.**
 
 ![](https://res.cloudinary.com/civicvision/image/upload/v1551006511/Volume%206/homicide-baltimore.png)
 
-A Dashboard from the Baltimore Sun about homicides in Baltimore. And the corresponding [Article](https://www.baltimoresun.com/news/maryland/crime/bs-md-ci-homicide-record-numbers-20190222-story.html).
+A Dashboard from the Baltimore Sun about homicides in Baltimore. And the corresponding [Article](https://www.baltimoresun.com/news/maryland/crime/bs-md-ci-homicide-record-numbers-20190222-story.html). Too bad they did not include the map or the chart in the news article. There is potential to increase the effectifeness of the article.
 
-The cool thing about this is, they included the code for their analysis in a [GitHub repository](https://github.com/baltimore-sun-data/2019-shootings-analysis).
+_Taking a closer look at the dashboard a few things come to mind that could be improved. The charts are bit too cluttered. There is not enough emphasis on the important parts. by using color more sparingly it would make it easier for the reader to grasp the meaning. The question that immediately pops into my mind, for whom is the dashboard for?_ 
 
-**Takeaway:**
+_The cool thing about this is, they included the code for their analysis in a_ [_GitHub repository_](https://github.com/baltimore-sun-data/2019-shootings-analysis)_._
+
+**Takeaway:  
+Don't clutter your charts too much, use color as a highlight mechanism.** 
 
 ### Speed Limits & Fatal crashes in Germany
 

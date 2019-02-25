@@ -1,5 +1,5 @@
 +++
-calendar_week_published = 20
+calendar_week_published = 8
 categories = ["This Week in Civic Tech"]
 date = "2019-02-24T16:53:05+01:00"
 draft = true
@@ -20,9 +20,9 @@ title = "Establish rules to manage data collected from smart city technology, To
 url = "https://www.thestar.com/news/gta/2019/02/20/establish-rules-to-manage-data-collected-from-smart-city-technology-toronto-councillor-urges.html"
 
 +++
-## Visualizations
-
 This week we have more articles than usual from newspapers using data-driven journalism. I really like that part of journalism and hope that more newspapers go that route. Especially the ones that publish their analysis so it can be reproduced or other newspapers can adapt it for their city.
+
+## Visualizations
 
 ### [Chicago Middle-class is shrinking.](https://www.wbez.org/shows/wbez-news/the-middle-class-is-shrinking-everywhere-in-chicago-its-almost-gone/e63cb407-5d1e-41b1-9124-a717d4fb1b0b?utm_source=&utm_medium=&utm_campaign=)
 

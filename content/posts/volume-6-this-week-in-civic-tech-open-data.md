@@ -140,11 +140,11 @@ This is similar to the first entry in the visualization section about Honolulu's
 
 ### Civic Tech/Community
 
+{{< articles "Civic tech/Community" >}}
+
 ### Open Government/Open Data
 
-<hr />
-
-## Tools
+{{< articles "Open Data/Open Government" >}}
 
 <hr />
 
@@ -154,12 +154,10 @@ This is similar to the first entry in the visualization section about Honolulu's
 
 <hr />
 
-## Videos
-
-<hr />
-
 ## Jobs
 
 <hr />
 
 ## Upcoming Events
+
+* Open Data Day around the world: March 2nd. 

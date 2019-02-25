@@ -45,7 +45,12 @@ Dashboards should be clear and one number is usually enough.**
 
 ![](https://res.cloudinary.com/civicvision/image/upload/v1551023847/Volume%206/zoning-chicago.jpg)
 
-A map from [Steve]() who usally creates great maps for Chicago. This one is about density zoning. As you can see on the map most of the city is red (low density zoning) and only a few parts of the city is green (aka allows condos and appartements). 
+A map from [Steve]( "Steven Vance") who usally creates great maps for Chicago. This one is about density zoning. As you can see on the map most of the city is red (low density zoning) and only a few parts of the city is green (aka allows condos and appartements).
+
+_This map paints a clear picture and probably show the authors opinion. The color choices, red for low density and green for high density indicates to me that the author likes to see more high density zones_. _The legend is clearly marked and available. It's only a picture but I would have liked to state the data source. I assume it's an open dataset from the city of Chicago._ 
+
+**Takeaway:  
+You can guide or even influence your audience with your color choices.** 
 
 ### [Response Outreach Area Mapper](https://gis-portal.data.census.gov/arcgis/apps/webappviewer/index.html?id=64f6a4d47e864b9699af6ce6338d49bd)
 

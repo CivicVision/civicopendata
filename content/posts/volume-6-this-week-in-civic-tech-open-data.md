@@ -15,6 +15,10 @@ volume = 6
 
 ### [Chicago Middleclass is shrinking](https://www.wbez.org/shows/wbez-news/the-middle-class-is-shrinking-everywhere-in-chicago-its-almost-gone/e63cb407-5d1e-41b1-9124-a717d4fb1b0b?utm_source=&utm_medium=&utm_campaign=)
 
+WBEZ Radio Chicago uses data and graphs from the Nathalie P. Voorhees Center for Neighborhood and Community Improvement at the University of Illinois at Chicago to produce an article with the title: __"The Middle Class Is Shrinking Everywhere — In Chicago It’s Almost Gone"__
+
+
+
 ![](https://res.cloudinary.com/civicvision/image/upload/v1551004750/Volume%206/chicago-middleclass.png)
 
 ### [Honululu Dashboard](http://www.honolulu.gov/dashboard)
@@ -36,6 +40,8 @@ volume = 6
 ![](https://res.cloudinary.com/civicvision/image/upload/v1551006511/Volume%206/homicide-baltimore.png)
 
 A Dashboard from the Baltimore Sun. And the corresponding [Article](https://www.baltimoresun.com/news/maryland/crime/bs-md-ci-homicide-record-numbers-20190222-story.html).
+
+[Code](https://github.com/baltimore-sun-data/2019-shootings-analysis)
 
 ### Speed Limits & Fatal crashes in Germany
 

@@ -69,7 +69,7 @@ You can guide or even influence your audience with your color choices.**
 
 A Dashboard from the Baltimore Sun about homicides in Baltimore. And the corresponding [Article](https://www.baltimoresun.com/news/maryland/crime/bs-md-ci-homicide-record-numbers-20190222-story.html). Too bad they did not include the map or the chart in the news article. There is potential to increase the effectiveness of the article.
 
-_Taking a closer look at the dashboard a few things come to mind that could be improved. The charts are a bit too cluttered. There is not enough emphasis on the important parts. by using color more sparingly it would make it easier for the reader to grasp the meaning. The question that immediately pops into my mind, for whom is the dashboard for?_
+_Taking a closer look at the dashboard a few things come to mind that could be improved. The charts are a bit too cluttered. There is not enough emphasis on the crucial parts. By using color more sparingly, it would make it easier for the reader to grasp the meaning. The question that immediately pops into my mind, for whom is the dashboard for?_
 
 _The cool thing about this is, they included the code for their analysis in a_ [_GitHub repository_](https://github.com/baltimore-sun-data/2019-shootings-analysis)_._
 
@@ -80,7 +80,7 @@ Don't clutter your charts too much, use color as a highlight mechanism.**
 
 ![](https://res.cloudinary.com/civicvision/image/upload/v1551004929/Volume%206/speed-limit-germany.png)
 
-This is a visualization from an article of the German weekly newspaper _"Der Spiegel"_. It is about speed limits and the effect on crashes and fatalities. The blue are the ones with speed limit the red bars are without speed limit. On the left crashes with severe injuries and on the right with fatality. The numbers are crashes for every billion mile. So 13.45 crashes with severe injuries for every billion mile driven.
+This is a visualization from an article of the German weekly newspaper _"Der Spiegel"_. It is about speed limits and the effect on crashes and fatalities. The blue are the ones with speed limit the red bars are without speed limit. On the left crashes with severe injuries and on the right with a fatality. The numbers are crashes for every billion miles. So 13.45 crashes with severe injuries for every billion miles driven.
 
 _I like that they published their results and clearly state the source of their analysis and compare it with other sources. It's an R notebook so you can import it and run it yourself. But they could have used color more precise. The headline is: 140 deaths could be prevented with speed limits. That's why I would emphasize the bar without speed limits._
 
@@ -91,12 +91,12 @@ _I like that they published their results and clearly state the source of their 
 
 ![](https://res.cloudinary.com/civicvision/image/upload/v1551006279/Volume%206/environmental-hotspots-bay-area.png)
 
-Student project from the University of Berkeley Journalism school for a course called ["Introduction to Data Visualization"](https://journalism.berkeley.edu/course-section/j221introduction-to-data-visualization-1-fall-2017-2/).
+A student project from the University of Berkeley Journalism school for a course called ["Introduction to Data Visualization"](https://journalism.berkeley.edu/course-section/j221introduction-to-data-visualization-1-fall-2017-2/).
 
 > Using data and indicators aggregated by the California Office of Environmental Health Hazard Assessment (OEHHA), the map above and the charts below explore where environmental conditions are the worst (and best) in the Bay Area and how class and race relate to those conditions. This first set of charts shows the relationship between poverty and pollution.
 
-_It is a nice start for a journalism student that's why I included it in my roundup. It is a very interesting dataset and the source should have been included on the site.  
-I would assume that the red areas have bad environmental conditions but no way to know_. _The legend is clearly missing and it is not very obvious what the areas represent. Are these census tracts? Or measurement points, are the values aggregated for the area. A lot of questions to be answered. But a nice first take for a student project. Keep up the good work._
+_It is an excellent start for a journalism student; that's why I included it in my roundup. It is a very interesting dataset, and the source should have been included on the site.  
+I would assume that the red areas have bad environmental conditions but no way to know_. _The legend is clearly missing, and it is not very obvious what the areas represent. Are these census tracts? Or measurement points, are the values aggregated for the area. A lot of questions to be answered. But a nice first take for a student project. Keep up the good work._
 
 **Takeway:**  
 **Always include your legend that people can understand your color choices and scale.**

@@ -68,7 +68,7 @@ The cool thing about this is, they included the code for their analysis in a [Gi
 
 ![](https://res.cloudinary.com/civicvision/image/upload/v1551004929/Volume%206/speed-limit-germany.png)
 
-This is a visualization from an article of the German weekly newspaper _"Der Spiegel"_. It is about speed limits and the effect on crashes and fatalities. The blue are the ones with speed limit the red bars are without speed limit. On the left crashes with severe injuries and on the right with fatality. The numbers are crashes for every billion mile. So 13.45 crashes with severe injuries for every billion mile driven. 
+This is a visualization from an article of the German weekly newspaper _"Der Spiegel"_. It is about speed limits and the effect on crashes and fatalities. The blue are the ones with speed limit the red bars are without speed limit. On the left crashes with severe injuries and on the right with fatality. The numbers are crashes for every billion mile. So 13.45 crashes with severe injuries for every billion mile driven.
 
 _I like that they published their results and clearly state the source of their analysis and compare it with other sources. It's an R notebook so you can import it and run it yourself. But they could have used color more precise. The headline is: 140 deaths could be prevented with speed limits. That's why I would emphasize the bar without speed limits._
 
@@ -79,9 +79,14 @@ _I like that they published their results and clearly state the source of their 
 
 ![](https://res.cloudinary.com/civicvision/image/upload/v1551006279/Volume%206/environmental-hotspots-bay-area.png)
 
-Student project from the University of ...
+Student project from the University of Berkeley Journalism school for a course called ["Introduction to Data Visualization"](https://journalism.berkeley.edu/course-section/j221introduction-to-data-visualization-1-fall-2017-2/).
 
-**Takeway:**   
+> Using data and indicators aggregated by the California Office of Environmental Health Hazard Assessment (OEHHA), the map above and the charts below explore where environmental conditions are the worst (and best) in the Bay Area and how class and race relate to those conditions. This first set of charts shows the relationship between poverty and pollution.
+
+_It is a nice start for a journalism student that's why I included it in my roundup. It is a very interesting dataset and the source should have been included on the site.   
+I would assume that the red areas have bad environmental conditions but no way to know_. _The legend is clearly missing and it is not very obvious what the areas represent. Are these census tracts? Or measurement points, are the values aggregated for the area. A lot of questions to be answered. But a nice first take for a student project. Keep up the good work._ 
+
+**Takeway:**  
 **Always include your legend that people can understand your color choices and scale.**
 
 ### [Response Outreach Area Mapper](https://gis-portal.data.census.gov/arcgis/apps/webappviewer/index.html?id=64f6a4d47e864b9699af6ce6338d49bd)

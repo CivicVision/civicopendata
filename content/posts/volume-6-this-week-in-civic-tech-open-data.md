@@ -1,5 +1,4 @@
 +++
-articles = []
 calendar_week_published = 20
 categories = ["This Week in Civic Tech"]
 date = "2019-02-24T16:53:05+01:00"
@@ -7,8 +6,18 @@ draft = true
 hero = ""
 tags = ["civic tech", "open data"]
 title = "Volume 6: This Week in Civic Tech/Open Data"
-tweets = []
+tweets = ["1099300932066586624", "1097529926742233088", "1097957361958948865", "1099019262310658049", "1093523233721274368"]
 volume = 6
+[[articles]]
+category = "Civic tech/Community"
+template = "article"
+title = "10 OPPORTUNITIES FOR IMPACT MEASUREMENT IN CIVIC TECH"
+url = "https://civichall.org/civicist/10opportunities-for-impact-measurement-in-civic-tech/.XGVx-GrGt2U.twitter"
+[[articles]]
+category = "Civic tech/Community"
+template = "article"
+title = "Establish rules to manage data collected from smart city technology, Toronto councillor urges"
+url = "https://www.thestar.com/news/gta/2019/02/20/establish-rules-to-manage-data-collected-from-smart-city-technology-toronto-councillor-urges.html"
 
 +++
 ## Visualizations
@@ -101,6 +110,31 @@ I would assume that the red areas have bad environmental conditions but no way t
 <hr />
 
 ## Open Data
+
+### [New tool for city leaders and urban planners to ‘get ready for data’]()
+
+> With huge amounts of data available – and increasingly sophisticated techniques for data collection and analysis – it can be hard to know where to start when you’re planning the data strategy for a new policy initiative.
+
+[Open Data Institute Tool](https://theodi.org/article/new-tool-for-city-leaders-and-urban-planners-to-get-ready-for-data/)
+
+### Consultations on Ontario’s Data Strategy are out. Have your say before March 7: 
+
+[http://ontario.ca/DataStrategy](Voice your opinion).
+
+### [Virginia Beach is fueling its future with open data. Here’s how](https://southsidedaily.com/local-news/2019/02/19/virginia-beach-is-fueling-its-future-with-open-data-heres-how/)
+
+> The Open Performance Site is a portal that was created to provide quick and easy ways to access the performance of the community and the city, officials said.
+
+This is similar to the first entry in the visualization section about Honolulu's dashboard. But this one is not as visual as the one above.
+
+[Performance Dashboard](https://performance.vbgov.com)
+[Article](https://southsidedaily.com/local-news/2019/02/19/virginia-beach-is-fueling-its-future-with-open-data-heres-how/)
+
+
+### [A new data portal for the City of Kingston: From increasing transparency to engaging citizens](https://www.opendatasoft.com/2019/01/16/a-new-data-portal-for-the-city-of-kingston-from-increasing-transparency-to-engaging-citizens/)
+
+> Earlier this year the City of Kingston (Canada) launched a new data portal and we organized an interview with Scott Tulk, Technology Solutions Architect in Information Systems and Technology, to learn more about this local data initiative.
+
 
 <hr />
 

@@ -13,7 +13,7 @@ volume = 6
 +++
 ## Visualizations
 
-This week we have more articles than usual from newspapers using data-driven journalism. I really like that part of journalism and hope that more newspapers go that route. Especially the ones that publish their analysis so it can be reproduced or other newspapers can adopt it for their city. 
+This week we have more articles than usual from newspapers using data-driven journalism. I really like that part of journalism and hope that more newspapers go that route. Especially the ones that publish their analysis so it can be reproduced or other newspapers can adopt it for their city.
 
 ### [Chicago Middleclass is shrinking](https://www.wbez.org/shows/wbez-news/the-middle-class-is-shrinking-everywhere-in-chicago-its-almost-gone/e63cb407-5d1e-41b1-9124-a717d4fb1b0b?utm_source=&utm_medium=&utm_campaign=)
 
@@ -62,14 +62,18 @@ A Dashboard from the Baltimore Sun about homicides in Baltimore. And the corresp
 
 The cool thing about this is, they included the code for their analysis in a [GitHub repository](https://github.com/baltimore-sun-data/2019-shootings-analysis).
 
+**Takeaway:**
+
 ### Speed Limits & Fatal crashes in Germany
 
 ![](https://res.cloudinary.com/civicvision/image/upload/v1551004929/Volume%206/speed-limit-germany.png)
 
-This is a visualization from an article of the German weekly newspaper _"Der Spiegel"_. It is about speed limits and the effect on crashes and fatalities. 
+This is a visualization from an article of the German weekly newspaper _"Der Spiegel"_. It is about speed limits and the effect on crashes and fatalities. The blue are the ones with speed limit the red bars are without speed limit. On the left crashes with severe injuries and on the right with fatality. The numbers are crashes for every billion mile. So 13.45 crashes with severe injuries for every billion mile driven. 
 
-__Takeaway:__
-__Use color sparingly and highlight the bars you want your readers to focus on.__
+_I like that they published their results and clearly state the source of their analysis and compare it with other sources. It's an R notebook so you can import it and run it yourself. But they could have used color more precise. The headline is: 140 deaths could be prevented with speed limits. That's why I would emphasize the bar without speed limits._
+
+**Takeaway:**
+**Use color sparingly and highlight the bars you want your readers to focus on.**
 
 ### [Environmental Hotspots in the Bay Area](https://j221-dataviz.github.io/drew-costley/)
 
@@ -77,8 +81,8 @@ __Use color sparingly and highlight the bars you want your readers to focus on._
 
 Student project from the University of ...
 
-__Takeway:__
-__Always include your legend that people can understand your color choices and scale.
+**Takeway:**   
+**Always include your legend that people can understand your color choices and scale.**
 
 ### [Response Outreach Area Mapper](https://gis-portal.data.census.gov/arcgis/apps/webappviewer/index.html?id=64f6a4d47e864b9699af6ce6338d49bd)
 

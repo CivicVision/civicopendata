@@ -6,10 +6,20 @@
     <description>Recent content on Civic Open Data</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 16 Feb 2019 17:39:46 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 24 Feb 2019 16:53:05 +0100</lastBuildDate>
     
 	<atom:link href="https://civicopendata.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Volume 6: This Week in Civic Tech/Open Data</title>
+      <link>https://civicopendata.com/posts/volume-6-this-week-in-civic-tech-open-data/</link>
+      <pubDate>Sun, 24 Feb 2019 16:53:05 +0100</pubDate>
+      
+      <guid>https://civicopendata.com/posts/volume-6-this-week-in-civic-tech-open-data/</guid>
+      <description>This week we have more articles than usual from newspapers using data-driven journalism. I really like that part of journalism and hope that more newspapers go that route. Especially the ones that publish their analysis so it can be reproduced or other newspapers can adapt it for their city.
+Visualizations Chicago Middle-class is shrinking. WBEZ Radio Chicago uses data and graphs from the Nathalie P. Voorhees Center for Neighborhood and Community Improvement at the University of Illinois at Chicago to produce an article with the title: &amp;ldquo;The Middle Class Is Shrinking Everywhere — In Chicago It’s Almost Gone&amp;rdquo;</description>
+    </item>
     
     <item>
       <title>Volume 5: This Week in Civic Tech/Open Data</title>

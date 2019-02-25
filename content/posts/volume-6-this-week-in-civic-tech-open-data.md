@@ -25,25 +25,27 @@ And if you look at the last map they produced it shows a different picture. 29% 
 
 ![](https://res.cloudinary.com/civicvision/image/upload/c_scale,h_300/v1551093603/Volume%206/three-cities_redyellowblue.png)
 
-**Takeaway**:   
+**Takeaway**:  
 **Methodology is an important part of your project for others to understand your visualization.**
 
 ### [Honululu Dashboard](http://www.honolulu.gov/dashboard)
 
-![](https://res.cloudinary.com/civicvision/image/upload/v1551004756/Volume%206/hawaii-dashboard.png)
+![](https://res.cloudinary.com/civicvision/image/upload/v1551097935/Volume%206/hawaii-dashboard.png)
 
 > The Honolulu Dashboard monitors performance data in four priority areas: Homelessness, Affordable Housing, Streets and Lights, and Kākou for Parks.
 >
 > Ultimately, Mayor Caldwell’s major priorities and other selected community interests will be tracked on Honolulu Dashboard. This site provides an "at-a-glance" view of these topic areas.
 
-This is a great use of civic tech. A dashboard that let's you and the mayor look at key indicators and the performance of the city. It increases transparency and allows to measure the city on the issues the mayor itself prioritized. And I'm a fan of dashboards that increases transparency and only focusses on one number. 
+This is a great use of civic tech. A dashboard that let's you and the mayor look at key indicators and the performance of the city. It increases transparency and allows to measure the city on the issues the mayor itself prioritized. And I'm a fan of dashboards that increases transparency and only focusses on one number.
 
 **Takeway:  
-Dashboards should be clear and one number is usually enough.** 
+Dashboards should be clear and one number is usually enough.**
 
 ### Low Density Zoning Chicago
 
 ![](https://res.cloudinary.com/civicvision/image/upload/v1551023847/Volume%206/zoning-chicago.jpg)
+
+A map from [Steve]() who usally creates great maps for Chicago. This one is about density zoning. As you can see on the map most of the city is red (low density zoning) and only a few parts of the city is green (aka allows condos and appartements). 
 
 ### [Response Outreach Area Mapper](https://gis-portal.data.census.gov/arcgis/apps/webappviewer/index.html?id=64f6a4d47e864b9699af6ce6338d49bd)
 

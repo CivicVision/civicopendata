@@ -15,11 +15,18 @@ volume = 6
 
 ### [Chicago Middleclass is shrinking](https://www.wbez.org/shows/wbez-news/the-middle-class-is-shrinking-everywhere-in-chicago-its-almost-gone/e63cb407-5d1e-41b1-9124-a717d4fb1b0b?utm_source=&utm_medium=&utm_campaign=)
 
-WBEZ Radio Chicago uses data and graphs from the Nathalie P. Voorhees Center for Neighborhood and Community Improvement at the University of Illinois at Chicago to produce an article with the title: __"The Middle Class Is Shrinking Everywhere — In Chicago It’s Almost Gone"__
-
-
-
 ![](https://res.cloudinary.com/civicvision/image/upload/v1551004750/Volume%206/chicago-middleclass.png)
+
+WBEZ Radio Chicago uses data and graphs from the _Nathalie P. Voorhees Center for Neighborhood and Community Improvement_ at the University of Illinois at Chicago to produce an article with the title: **"The Middle Class Is Shrinking Everywhere — In Chicago It’s Almost Gone"**
+
+What I liked about the whole article is that they have explanations baked into it. For example: _what is the middle class?#  
+I'm missing the methodology of the maps the center produced. The income levels are weighted income levels relative to seven country metro areas. But no explanation beyond that.  
+And if you look at the last map they produced it shows a different picture. 29% of tracts are considered City 2 (Income level increase or decrease of less than 20%)._
+
+![](https://res.cloudinary.com/civicvision/image/upload/c_scale,h_300/v1551093603/Volume%206/three-cities_redyellowblue.png)
+
+**Takeaway**:   
+**Methodology is an important part of your project for others to understand your visualization.**
 
 ### [Honululu Dashboard](http://www.honolulu.gov/dashboard)
 

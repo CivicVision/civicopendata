@@ -13,6 +13,8 @@ volume = 6
 +++
 ## Visualizations
 
+This week we have more articles than usual from newspapers using data-driven journalism. I really like that part of journalism and hope that more newspapers go that route. Especially the ones that publish their analysis so it can be reproduced or other newspapers can adopt it for their city. 
+
 ### [Chicago Middleclass is shrinking](https://www.wbez.org/shows/wbez-news/the-middle-class-is-shrinking-everywhere-in-chicago-its-almost-gone/e63cb407-5d1e-41b1-9124-a717d4fb1b0b?utm_source=&utm_medium=&utm_campaign=)
 
 ![](https://res.cloudinary.com/civicvision/image/upload/v1551004750/Volume%206/chicago-middleclass.png)
@@ -47,17 +49,10 @@ Dashboards should be clear and one number is usually enough.**
 
 A map from [Steven Vance](https://twitter.com/stevevance/status/1097708462748905473) who usally creates great maps for Chicago. This one is about density zoning. As you can see on the map most of the city is red (low density zoning) and only a few parts of the city is green (aka allows condos and appartements).
 
-_This map paints a clear picture and probably show the authors opinion. The color choices, red for low density and green for high density indicates to me that the author likes to see more high density zones_. _The legend is clearly marked and available. It's only a picture but I would have liked to state the data source. I assume it's an open dataset from the city of Chicago._ 
+_This map paints a clear picture and probably show the authors opinion. The color choices, red for low density and green for high density indicates to me that the author likes to see more high density zones_. _The legend is clearly marked and available. It's only a picture but I would have liked to state the data source. I assume it's an open dataset from the city of Chicago._
 
 **Takeaway:  
-You can guide or even influence your audience with your color choices.** 
-
-### [Response Outreach Area Mapper](https://gis-portal.data.census.gov/arcgis/apps/webappviewer/index.html?id=64f6a4d47e864b9699af6ce6338d49bd)
-
-![](https://res.cloudinary.com/civicvision/image/upload/v1551026481/Volume%206/response-outreach-mapper.png)
-
-> The Census Bureau has released an online tool called ROAM (Response Outreach Area Mapper), an application that uses American Community Survey data to measure how hard-to-count each census tract might be, assigning each a score. Now cities and states are building on top of that base with local insight.
-
+You can guide or even influence your audience with your color choices.**
 
 ### [Homicides Baltimore](https://homicides.news.baltimoresun.com/)
 
@@ -65,17 +60,31 @@ You can guide or even influence your audience with your color choices.**
 
 A Dashboard from the Baltimore Sun about homicides in Baltimore. And the corresponding [Article](https://www.baltimoresun.com/news/maryland/crime/bs-md-ci-homicide-record-numbers-20190222-story.html).
 
-The cool thing about this is, they included the code for their analysis in a [GitHub repository](https://github.com/baltimore-sun-data/2019-shootings-analysis). 
+The cool thing about this is, they included the code for their analysis in a [GitHub repository](https://github.com/baltimore-sun-data/2019-shootings-analysis).
 
 ### Speed Limits & Fatal crashes in Germany
 
 ![](https://res.cloudinary.com/civicvision/image/upload/v1551004929/Volume%206/speed-limit-germany.png)
+
+This is a visualization from an article of the German weekly newspaper _"Der Spiegel"_. It is about speed limits and the effect on crashes and fatalities. 
+
+__Takeaway:__
+__Use color sparingly and highlight the bars you want your readers to focus on.__
 
 ### [Environmental Hotspots in the Bay Area](https://j221-dataviz.github.io/drew-costley/)
 
 ![](https://res.cloudinary.com/civicvision/image/upload/v1551006279/Volume%206/environmental-hotspots-bay-area.png)
 
 Student project from the University of ...
+
+__Takeway:__
+__Always include your legend that people can understand your color choices and scale.
+
+### [Response Outreach Area Mapper](https://gis-portal.data.census.gov/arcgis/apps/webappviewer/index.html?id=64f6a4d47e864b9699af6ce6338d49bd)
+
+![](https://res.cloudinary.com/civicvision/image/upload/v1551026481/Volume%206/response-outreach-mapper.png)
+
+> The Census Bureau has released an online tool called ROAM (Response Outreach Area Mapper), an application that uses American Community Survey data to measure how hard-to-count each census tract might be, assigning each a score. Now cities and states are building on top of that base with local insight.
 
 <hr />
 

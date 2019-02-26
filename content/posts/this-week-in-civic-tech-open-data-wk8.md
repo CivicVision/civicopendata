@@ -58,6 +58,16 @@ category = "Open Data/Open Government"
 template = "article"
 title = "Finding the Magic Line Below Which Cities Can Buy Stuff Easily"
 url = "http://www.govtech.com/biz/data/Finding-the-Magic-Line-Below-Which-Cities-Can-Buy-Stuff-Easily.html"
+[[articles]]
+category = "Civic tech/Community"
+template = "article"
+title = "GRIT Toronto: Putting the ‘Us’ in Usability Testing"
+url = "https://medium.com/code-for-canada/grit-toronto-putting-the-us-in-usability-testing-62c6f47f7264"
+[[articles]]
+category = "Open Data/Open Government"
+template = "article"
+title = "Boston Increases Size of Popular Digital Equity Fund"
+url = "http://www.govtech.com/civic/Boston-Increases-Size-of-Popular-Digital-Equity-Fund.html"
 
 +++
 This week we have more articles than usual from newspapers using data-driven journalism. I really like that part of journalism and hope that more newspapers go that route. Especially the ones that publish their analysis so it can be reproduced or other newspapers can adapt it for their city.

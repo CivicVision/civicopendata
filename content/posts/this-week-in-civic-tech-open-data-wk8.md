@@ -6,7 +6,7 @@ hero = "https://res.cloudinary.com/civicvision/image/upload/c_fill,h_600,w_800/c
 images = ["https://res.cloudinary.com/civicvision/image/upload/c_fill,h_600,w_800/c_fill,h_600,w_800,x_800,l_Volume 6:hawaii-dashboard/c_fill,h_600,w_800,x_-400,y_600,l_Volume 6:speed-limit-germany/c_fill,h_600,w_800,x_400,y_300,l_Volume 6:environmental-hotspots-bay-area/Volume 6/three-cities_redyellowblue"]
 tags = ["civic tech", "open data"]
 title = "Volume 6: This Week in Civic Tech/Open Data"
-tweets = ["1099300932066586624", "1097529926742233088", "1097957361958948865", "1099019262310658049", "1093523233721274368"]
+tweets = ["1098745214259417088", "1097980409881739265", "1098327698890461186", "1099300932066586624", "1097529926742233088", "1097957361958948865", "1099019262310658049", "1093523233721274368"]
 volume = 6
 [[articles]]
 category = "Civic tech/Community"
@@ -18,6 +18,46 @@ category = "Civic tech/Community"
 template = "article"
 title = "Establish rules to manage data collected from smart city technology, Toronto councillor urges"
 url = "https://www.thestar.com/news/gta/2019/02/20/establish-rules-to-manage-data-collected-from-smart-city-technology-toronto-councillor-urges.html"
+[[articles]]
+category = "Open Data/Open Government"
+template = "article"
+title = "Nassau County, N.Y., Opens Up Finances Amid Corruption Scandal"
+url = "http://www.govtech.com/civic/Nassau-County-NY-Opens-Up-Finances-Amid-Corruption-Scandal.html"
+[[articles]]
+category = "Open Data/Open Government"
+template = "article"
+title = "Gridics Announces 3D Zoning Map and Text Tool CodeHUB"
+url = "http://www.govtech.com/biz/Gridics-Announces-3D-Zoning-Map-and-Text-Tool-CodeHUB.html"
+[[articles]]
+category = "Open Data/Open Government"
+template = "article"
+title = "California Water District Opens Spigots for Tech Upgrade"
+url = "http://www.govtech.com/fs/infrastructure/California-Water-District-Opens-Spigots-for-Tech-Upgrade.html"
+[[articles]]
+category = "Open Data/Open Government"
+template = "article"
+title = "Meeting the Workforce Challenge: Strategies from Kansas City and Massachusetts"
+url = "http://www.govtech.com/fs/infrastructure/California-Water-District-Opens-Spigots-for-Tech-Upgrade.html"
+[[articles]]
+category = "Open Data/Open Government"
+template = "article"
+title = "Device-as-a-Service Opens the Door to IT Efficiency (Contributed)"
+url = "http://www.govtech.com/computing/Device-as-a-Service-Opens-the-Door-to-IT-Efficiency-Contributed.html"
+[[articles]]
+category = "Civic tech/Community"
+template = "article"
+title = "New York City launches urban tech community program"
+url = "https://statescoop.com/new-york-city-launches-urban-tech-community-program/?utm_campaign=StateScoop%20-%20Editorial&utm_content=84723280&utm_medium=social&utm_source=twitter&hss_channel=tw-987600932"
+[[articles]]
+category = "Open Data/Open Government"
+template = "article"
+title = "CityGrows Permit Platform Bets on Do-It-Yourself Simplicity"
+url = "http://www.govtech.com/biz/CityGrows-Permit-Platform-Bets-on-Do-It-Yourself-Simplicity.html"
+[[articles]]
+category = "Open Data/Open Government"
+template = "article"
+title = "Finding the Magic Line Below Which Cities Can Buy Stuff Easily"
+url = "http://www.govtech.com/biz/data/Finding-the-Magic-Line-Below-Which-Cities-Can-Buy-Stuff-Easily.html"
 
 +++
 This week we have more articles than usual from newspapers using data-driven journalism. I really like that part of journalism and hope that more newspapers go that route. Especially the ones that publish their analysis so it can be reproduced or other newspapers can adapt it for their city.
@@ -160,4 +200,4 @@ This is similar to the first entry in the visualization section about Honolulu's
 
 ## Upcoming Events
 
-* Open Data Day around the world: March 2nd. 
+* Open Data Day around the world: March 2nd.

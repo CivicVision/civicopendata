@@ -1,0 +1,25 @@
+form#survey onsubmit="event.preventDefault(); sendSurveyResponse('survey');"
+  label for="topic" What topics are you most interested in
+  input type="checkbox" id="civic-tech" name="topic" value="Civic Tech"
+  label for="civic-tech" Civic Tech
+  input type="checkbox" id="open-data" name="topic" value="Open Data"
+  label for="open-data" Open Data
+  input type="checkbox" id="topic" name="topic" value="Mastercard"
+
+  label for="professional" Do you work professionally in Civic Tech/Open Government/Open Data?
+  input type="radio" id="yes" name="professional" value="true"
+  label for="yes" Yes
+  input type="radio" id="no" name="professional" value="false"
+  label for="no" No
+
+  label for="use_dataviz" How often do use data viz?
+  input type="radio" id="every_day" name="use_dataviz" value="Every Day"
+  label for="every_day" Every Day
+  input type="radio" id="time-to-time" name="use_dataviz" value="Time to time"
+  label for="every_day" From time to time
+  input type="radio" id="interested" name="use_dataviz" value="Interested"
+  label for="every_day" I'm interested in data visualization
+  input type="radio" id="not-interested" name="use_dataviz" value="Not Interested"
+  label for="every_day" I'm not interested in data visualization
+
+  button type="submit" Submit

@@ -47,7 +47,7 @@ Another nice looking heatmap. You can almost see the segregation in NY as well a
 
 ![](https://res.cloudinary.com/civicvision/image/upload/v1551523546/shortroute.png)
 
-_According to research, travel preferences vary among urban commuters; some want to take the fastest route, some prefer to have the least walking or minimized interchanges, yet others prefer minimal waiting outdoors. Thus our challenge is to visualize and present transportation possibilities on smartphones according to the passenger’s needs._
+> According to research, travel preferences vary among urban commuters; some want to take the fastest route, some prefer to have the least walking or minimized interchanges, yet others prefer minimal waiting outdoors. Thus our challenge is to visualize and present transportation possibilities on smartphones according to the passenger’s needs.
 
 The article behind this new approach is fascinating and worth a read. It is not specifically for Civic Tech but visualizing public transit is a challenge and I love the result that they came up with.
 

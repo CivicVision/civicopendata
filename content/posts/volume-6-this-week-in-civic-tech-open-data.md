@@ -16,7 +16,7 @@ This week seem to be a slow week in visualizations and articles. But still there
 
 ## Visualizations
 
-### **Where the Subway Limits New Yorkers With Disabilities - The New York Times**
+### [Where the Subway Limits New Yorkers With Disabilities - The New York Times](https://www.nytimes.com/interactive/2019/02/11/nyregion/nyc-subway-access.html)
 
 ![](https://res.cloudinary.com/civicvision/image/upload/v1551523130/nyc-subway-access-promo-1549826224432-facebookJumbo-v4.jpg.jpg)
 

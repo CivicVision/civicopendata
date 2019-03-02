@@ -35,6 +35,17 @@ Nothing too fancy about the map. And there are more where this is coming from._
 **Takeaway:  
 Heatmaps work best if you don’t show the underlying city or if you need to because the data does not cover much of the city make it light.**
 
+  
+**Taxi Trips NYC**
+
+Another nice looking heatmap. You can almost see the segregation in NY as well as you have seen in the runners map. It‘s not as obvious as the other but still visible. It is an old article that last week popped up again.
+
+### **New way to visualize Public transit routes**
+
+_According to research, travel preferences vary among urban commuters; some want to take the fastest route, some prefer to have the least walking or minimized interchanges, yet others prefer minimal waiting outdoors. Thus our challenge is to visualize and present transportation possibilities on smartphones according to the passenger’s needs._
+
+The article behind this new approach is fascinating and worth a read. It is not specifically for Civic Tech but visualizing public transit is a challenge and I love the result that they came up with.
+
 <hr />
 
 ## Open Data

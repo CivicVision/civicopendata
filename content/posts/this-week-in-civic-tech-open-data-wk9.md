@@ -25,8 +25,8 @@ title = "Census Bureau Unveils New Data Tools and Apps at Technology Demo Day"
 url = "https://www.census.gov/newsroom/press-releases/2019/tops.html"
 
 +++
-This week seem to be a slow week in visualizations and articles. But still there were some interesting pieces. They mostly relate to transit but all cover different angles. We have Subway desserts in NY, runner data displaying segregation in Baltimore and a new way to visualize transit trips.  
-Next week will include all the awesome things that happened on Sunday the 2nd around the world on Open Data Day!
+This week seem to be a slow week in visualizations and articles. But still, there were some interesting pieces. They mostly relate to transit but all cover different angles. We have Subway desserts in NY, runner data displaying segregation in Baltimore and a new way to visualize transit trips.  
+Next week will include all the awesome things that happened on Saturday,  March 2nd around the world on Open Data Day!
 
 ## Visualizations
 
@@ -39,7 +39,7 @@ I‘m a sucker for maps. And especially the ones designed by the NYT. They have 
 And dessert maps (as I refer to this kind of maps) always make me smile. Although they typically are very sad maps since they show the lack of access to something.
 
 **Takeaway**:  
-**If you have the space use annotations to highlight certain areas and add explanations.**
+**If you have the space use annotations to highlight specific areas and add explanations.**
 
 ### [Baltimore’s so Segregated, Even Strava Shows It. These Runners Want to Change That](https://www.runnersworld.com/runners-stories/a26131774/baltimore-segregated-strava-heatmap/)
 
@@ -57,16 +57,16 @@ Heatmaps work best if you don’t show the underlying city or if you need to bec
 
 ![](https://res.cloudinary.com/civicvision/image/upload/v1551631027/Volume%207/taxi-trips-ny.png)
 
-Another nice looking heatmap. You can almost see the segregation in NY as well as you have seen in the runners map. It‘s not as obvious as the other but still visible. It is an old article that last week popped up again. The article includes more infos on how the data was selected and aggregated.
+Another nice looking heatmap. You can almost see the segregation in NY as well as you have seen in the runner's map. It‘s not as apparent as the other but still visible. It is an old article that last week popped up again. The article includes more info on how the data was selected and aggregated.
 
 ### [Flood risk and more](https://www.buzzfeednews.com/article/peteraldhous/hurricane-michael-latest-path-rainfall)
 
 ![](https://res.cloudinary.com/civicvision/image/upload/v1551630445/Volume%207/flood-risk-us.png)
 
-This is another older article but the maps do update regularly. They were built by BuzzFeed for Hurricane Michael in 2018.   
-The direct data source is not cited but the data comes from [National Centers for Environmental Prediction and NESDIS Center for Satellite Applications and Research](https://www.ncep.noaa.gov). They look nice and give a good overview, but if you view only the map the data source is missing and even the article does not contain too much information. 
+This is another older article, but the maps do update regularly. They were built by BuzzFeed for Hurricane Michael in 2018.  
+The direct data source is not cited but the data comes from the [National Centers for Environmental Prediction and NESDIS Center for Satellite Applications and Research](https://www.ncep.noaa.gov). They look nice and give a good overview, but if you view only the map the data source is missing, and even the article does not contain too much information.
 
-**Takeaway:**   
+**Takeaway:**  
 **Always include the data source in your map as well, not only in the corresponding article. You might share the map later without the article.**
 
 [Full Map](https://data.buzzfeed.com/projects/hurricane-files/us-flood.html)
@@ -78,7 +78,7 @@ The direct data source is not cited but the data comes from [National Centers fo
 
 > According to research, travel preferences vary among urban commuters; some want to take the fastest route, some prefer to have the least walking or minimized interchanges, yet others prefer minimal waiting outdoors. Thus our challenge is to visualize and present transportation possibilities on smartphones according to the passenger’s needs.
 
-The article behind this new approach is fascinating and worth a read. It is not specifically for Civic Tech but visualizing public transit is a challenge and I love the result that they came up with.
+The article behind this new approach is fascinating and worth a read. It is not specifically for Civic Tech but visualizing public transit is a challenge, and I love the result that they came up with.
 
 <hr />
 

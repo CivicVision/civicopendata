@@ -2,7 +2,6 @@
 calendar_week_published = 9
 categories = ["This Week in Civic Tech"]
 date = "2019-02-24T16:53:05+01:00"
-draft = true
 hero = ""
 images = ["https://res.cloudinary.com/civicvision/image/upload/c_fill,h_600,w_800/c_fill,h_600,w_800,x_800,l_Volume 6:hawaii-dashboard/c_fill,h_600,w_800,x_-400,y_600,l_Volume 6:speed-limit-germany/c_fill,h_600,w_800,x_400,y_300,l_Volume 6:environmental-hotspots-bay-area/Volume 6/three-cities_redyellowblue"]
 tags = ["civic tech", "open data"]

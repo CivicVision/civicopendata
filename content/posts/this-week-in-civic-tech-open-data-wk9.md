@@ -56,13 +56,16 @@ Heatmaps work best if you don’t show the underlying city or if you need to bec
 
 ### [Taxi Trips NYC](https://towardsdatascience.com/if-taxi-trips-were-fireflies-1-3-billion-nyc-taxi-trips-plotted-b34e89f96cfa)
 
+![](https://res.cloudinary.com/civicvision/image/upload/v1551631027/Volume%207/taxi-trips-ny.png)
+
 Another nice looking heatmap. You can almost see the segregation in NY as well as you have seen in the runners map. It‘s not as obvious as the other but still visible. It is an old article that last week popped up again. The article includes more infos on how the data was selected and aggregated.
 
 ### [Flood risk and more](https://www.buzzfeednews.com/article/peteraldhous/hurricane-michael-latest-path-rainfall)
 
 ![](https://res.cloudinary.com/civicvision/image/upload/v1551630445/Volume%207/flood-risk-us.png)
 
-This is another older article but the maps do update regularly.
+This is another older article but the maps do update regularly. They were built by BuzzFeed for Hurricane Michael in 2018.   
+The direct data source is not cited but the data comes from [National Centers for Environmental Prediction and NESDIS Center for Satellite Applications and Research](https://www.ncep.noaa.gov). They look nice and give a good overview, but if you view only the map the data source is missing and even the article does not contain too much information. 
 
 **Takeaway:**   
 **Always include the data source in your map as well, not only in the corresponding article. You might share the map later without the article.**
@@ -77,10 +80,6 @@ This is another older article but the maps do update regularly.
 > According to research, travel preferences vary among urban commuters; some want to take the fastest route, some prefer to have the least walking or minimized interchanges, yet others prefer minimal waiting outdoors. Thus our challenge is to visualize and present transportation possibilities on smartphones according to the passenger’s needs.
 
 The article behind this new approach is fascinating and worth a read. It is not specifically for Civic Tech but visualizing public transit is a challenge and I love the result that they came up with.
-
-<hr />
-
-## Open Data
 
 <hr />
 

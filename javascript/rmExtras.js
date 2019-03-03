@@ -36,3 +36,7 @@ window.readPost = function(post) {
 
 	localStorage.setItem('rmCachedPosts', JSON.stringify(cachedPosts));
 };
+
+window.sendToRM = function(key, value) {
+	window.rmExtras[key] = value;
+};

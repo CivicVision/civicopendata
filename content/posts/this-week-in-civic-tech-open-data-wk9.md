@@ -23,6 +23,41 @@ category = "Civic tech/Community"
 template = "article"
 title = "Census Bureau Unveils New Data Tools and Apps at Technology Demo Day"
 url = "https://www.census.gov/newsroom/press-releases/2019/tops.html"
+[[articles]]
+category = "Open Data/Open Government"
+template = "article"
+title = "How Tech Helped Chicago Police Solve the Jussie Smollett Case"
+url = "http://www.govtech.com/analytics/How-Tech-Helped-Chicago-Police-Solve-the-Jussie-Smollett-Case.html?utm_term=Jussie%20Smollett%3A%20How%20Tech%20Helped%20Chicago%20Police%20Undo%20His%20Claims&utm_campaign=GovTech%27s%20Best%20of%20the%20Week%20&utm_content=email&utm_source=Act-On+Software&utm_medium=email"
+[[articles]]
+category = "Open Data/Open Government"
+template = "article"
+title = "New River Thames pollution data finds majority of litter found is single-use"
+url = "https://www.discoverwildlife.com/news/river-thames-pollution-single-use/?mc_cid=0353ab0a0e&mc_eid=c3c98abe1e"
+[[articles]]
+category = "Open Data/Open Government"
+template = "article"
+title = "Evergov Wants to Make Local Government Services More Searchable"
+url = "http://www.govtech.com/gov-experience/EverGov-Wants-to-Make-Local-Government-Services-More-Searchable.html?utm_term=Evergov%20Wants%20to%20Make%20Local%20Government%20Services%20More%20Searchable&utm_campaign=Honolulu%20Turns%20to%20Remix%20to%20Plan%20for%20Its%20Future%20Transportation%20Needs&utm_content=email&utm_source=Act-On+Software&utm_medium=email"
+[[articles]]
+category = "Open Data/Open Government"
+template = "article"
+title = "Honolulu Turns to Remix to Plan Future Transportation Needs"
+url = "http://www.govtech.com/fs/transportation/Honolulu-Turns-to-Remix-to-Plan-Future-Transportation-Needs.html?utm_term=Honolulu%20Turns%20to%20Remix%20to%20Plan%20Future%20Transportation%20Needs&utm_campaign=Honolulu%20Turns%20to%20Remix%20to%20Plan%20for%20Its%20Future%20Transportation%20Needs&utm_content=email&utm_source=Act-On+Software&utm_medium=email"
+[[articles]]
+category = "Open Data/Open Government"
+template = "article"
+title = "New App Helps Los Angeles Area Residents Breathe Easier"
+url = "http://www.govtech.com/analytics/New-App-Helps-Los-Angeles-Area-Residents-Breathe-Easier.html?utm_term=New%20App%20Helps%20Los%20Angeles%20Area%20Residents%20Breathe%20Easier&utm_campaign=App%20Helps%20Los%20Angeles%20Area%20Residents%20Breathe%20Easier&utm_content=email&utm_source=Act-On+Software&utm_medium=email"
+[[articles]]
+category = "Open Data/Open Government"
+template = "article"
+title = "Growing Metros Need Tech, Transit to Reduce Congestion"
+url = "http://www.govtech.com/fs/transportation/Growing-Metros-Need-Tech-Transit-to-Reduce-Congestion.html?utm_term=Growing%20Metros%20Need%20Tech%2C%20Transit%20to%20Reduce%20Congestion&utm_campaign=App%20Helps%20Los%20Angeles%20Area%20Residents%20Breathe%20Easier&utm_content=email&utm_source=Act-On+Software&utm_medium=email"
+[[articles]]
+category = "Open Data/Open Government"
+template = "article"
+title = "San Francisco Gets Smarter About Trash Management"
+url = "http://www.govtech.com/fs/infrastructure/San-Francisco-Gets-Smarter-About-Trash-Management.html?utm_term=San%20Francisco%20Gets%20Smarter%20About%20Trash%20Management&utm_campaign=App%20Helps%20Los%20Angeles%20Area%20Residents%20Breathe%20Easier&utm_content=email&utm_source=Act-On+Software&utm_medium=email"
 
 +++
 This week seem to be a slow week in visualizations and articles. But still, there were some interesting pieces. They mostly relate to transit but all cover different angles. We have Subway desserts in NY, runner data displaying segregation in Baltimore and a new way to visualize transit trips.  

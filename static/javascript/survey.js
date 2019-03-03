@@ -5,7 +5,7 @@ var getFormValue = function(id) {
 }
 var getFormValues = function(name) {
   var values = [];
-  document.querySelectorAll('input[name='+name+']').forEach((function(currentValue, currentIndex, listObj) { 
+  document.querySelectorAll('input[name='+name+']').forEach((function(currentValue, currentIndex, listObj) {
     if(listObj[currentIndex].checked) {
       values.push(currentValue.value);
     }
@@ -19,26 +19,23 @@ window.sendSurveyResponse = function(id) {
   var form = document.getElementById(id);
   var topics = getFormValues('topic')
   var use_dataviz = getFormValues('use_dataviz')[0]
-  console.log(use_dataviz)
-  /**
+  var create_dataviz = getFormValues('create_dataviz')[0]
+  var professional = getFormValues('professional')[0]
+  var oneQuestion = getFormValue('one-question')
+  var excitingArea = getFormValue('exciting-area')
 
   base('Responses').create({
-    "CK Name": "other name",
-    "One": "Very logn answer",
-    "CK ID": "rhfh224re",
-    "RM ID": "fvbgjw345f",
-    "Topic": [
-      "Civic Tech",
-      "Data Visualization"
-    ],
-    "Professional": true,
-    "Area": "kjkjkjk\n",
-    "use_dataviz": "Every day",
-    "create_dataviz": "Time to time"
+    "CK ID": window.localStorage.getItem('rmpanda.sources.convertkit.subscriberId'),
+    "RM ID": window.localStorage.getItem('rmpanda.sources.metrics.visitorId'),
+    "Topic": topics,
+    "Professional": (professional === "true"),
+    "Area": excitingArea,
+    "use_dataviz": use_dataviz,
+    "create_dataviz": create_dataviz,
+    "One": oneQuestion
   }, function(err, record) {
       if (err) { console.error(err); return; }
-      document.getElementById(id).style('display: none;');
-      document.getElementById(id+'-reponse').style('display: block;');
+      document.getElementById(id).style.display= 'none';
+      document.getElementById(id+'-response').style.visibility= 'bvisible';
   });
-  **/
 };

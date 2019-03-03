@@ -6,20 +6,10 @@
     <description>Recent content in Posts on Civic Open Data</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 02 Mar 2019 16:53:05 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 24 Feb 2019 16:53:05 +0100</lastBuildDate>
     
 	<atom:link href="https://civicopendata.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Volume 7: This Week in Civic Tech/Open Data</title>
-      <link>https://civicopendata.com/posts/this-week-in-civic-tech-open-data-wk9/</link>
-      <pubDate>Sat, 02 Mar 2019 16:53:05 +0100</pubDate>
-      
-      <guid>https://civicopendata.com/posts/this-week-in-civic-tech-open-data-wk9/</guid>
-      <description>This week seem to be a slow week in visualizations and articles. But still, there were some interesting pieces. They mostly relate to transit but all cover different angles. We have Subway desserts in NY, runner data displaying segregation in Baltimore and a new way to visualize transit trips.
-Next week will include all the awesome things that happened on Saturday, March 2nd around the world on Open Data Day!</description>
-    </item>
     
     <item>
       <title>Volume 6: This Week in Civic Tech/Open Data</title>
@@ -29,6 +19,16 @@ Next week will include all the awesome things that happened on Saturday, March 2
       <guid>https://civicopendata.com/posts/this-week-in-civic-tech-open-data-wk8/</guid>
       <description>This week we have more articles than usual from newspapers using data-driven journalism. I really like that part of journalism and hope that more newspapers go that route. Especially the ones that publish their analysis so it can be reproduced or other newspapers can adapt it for their city.
 Visualizations Chicago Middle-class is shrinking. WBEZ Radio Chicago uses data and graphs from the Nathalie P. Voorhees Center for Neighborhood and Community Improvement at the University of Illinois at Chicago to produce an article with the title: &amp;ldquo;The Middle Class Is Shrinking Everywhere — In Chicago It’s Almost Gone&amp;rdquo;</description>
+    </item>
+    
+    <item>
+      <title>Volume 7: This Week in Civic Tech/Open Data</title>
+      <link>https://civicopendata.com/posts/this-week-in-civic-tech-open-data-wk9/</link>
+      <pubDate>Sun, 24 Feb 2019 16:53:05 +0100</pubDate>
+      
+      <guid>https://civicopendata.com/posts/this-week-in-civic-tech-open-data-wk9/</guid>
+      <description>This week seem to be a slow week in visualizations and articles. But still, there were some interesting pieces. They mostly relate to transit but all cover different angles. We have Subway desserts in NY, runner data displaying segregation in Baltimore and a new way to visualize transit trips.
+Next week will include all the awesome things that happened on Saturday, March 2nd around the world on Open Data Day!</description>
     </item>
     
     <item>

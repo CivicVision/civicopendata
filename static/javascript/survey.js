@@ -24,6 +24,13 @@ window.sendSurveyResponse = function(id) {
   var oneQuestion = getFormValue('one-question')
   var excitingArea = getFormValue('exciting-area')
 
+  window.sendToRM('survey.topics', topics);
+  window.sendToRM('survey.use_dataviz', use_dataviz);
+  window.sendToRM('survey.create_dataviz', create_dataviz);
+  window.sendToRM('survey.professional', professional);
+  window.sendToRM('survey.one-question', oneQuestion);
+  window.sendToRM('survey.exciting-area', excitingArea);
+
   base('Responses').create({
     "CK ID": window.localStorage.getItem('rmpanda.sources.convertkit.subscriberId'),
     "RM ID": window.localStorage.getItem('rmpanda.sources.metrics.visitorId'),

@@ -54,6 +54,10 @@ Nothing too fancy about the map. And there are more where this is coming from._
 **Takeaway:  
 Heatmaps work best if you don’t show the underlying city or if you need to because the data does not cover much of the city make it light.**
 
+### [Flood risk and more](https://www.buzzfeednews.com/article/peteraldhous/hurricane-michael-latest-path-rainfall)
+
+
+
 ### [Taxi Trips NYC](https://towardsdatascience.com/if-taxi-trips-were-fireflies-1-3-billion-nyc-taxi-trips-plotted-b34e89f96cfa)
 
 Another nice looking heatmap. You can almost see the segregation in NY as well as you have seen in the runners map. It‘s not as obvious as the other but still visible. It is an old article that last week popped up again. The article includes more infos on how the data was selected and aggregated.

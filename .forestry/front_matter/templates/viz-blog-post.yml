@@ -19,4 +19,5 @@ fields:
   name: hero
   label: Hero Image
 pages:
+- content/posts/toronto-high-rise-building-inspection.md
 - content/posts/mapping-with-d3.md

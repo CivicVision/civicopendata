@@ -6,10 +6,20 @@
     <description>Recent content in Civic Tech on Civic Open Data</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 02 Mar 2019 16:53:05 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 05 Mar 2019 07:03:27 +0100</lastBuildDate>
     
 	<atom:link href="https://civicopendata.com/tags/civic-tech/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Toronto High Rise Building inspection</title>
+      <link>https://civicopendata.com/posts/toronto-high-rise-building-inspection/</link>
+      <pubDate>Tue, 05 Mar 2019 07:03:27 +0100</pubDate>
+      
+      <guid>https://civicopendata.com/posts/toronto-high-rise-building-inspection/</guid>
+      <description>In Volume 6 of my weekly roundup I highlighted some newly released data from the city of Toronto about Highrisers Building Inspection data. The newspaper that reported about it was not happy about the format that it was available. And I agree it is not very searchable or does not provide too much information.
+But: They use an API to show the data in the table. And it turns out, I can use the API as well.</description>
+    </item>
     
     <item>
       <title>Volume 7: This Week in Civic Tech/Open Data</title>

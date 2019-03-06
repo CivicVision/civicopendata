@@ -1,10 +1,9 @@
 +++
 categories = []
 date = "2019-03-05T07:03:27+01:00"
-draft = true
 has_visualization = false
 hero = ""
-tags = []
+tags = ["civic tech"]
 title = "Toronto High Rise Building inspection"
 
 +++

@@ -1,7 +1,6 @@
 ---
 label: This week in Civic Tech
 hide_body: false
-is_partial: false
 fields:
 - type: text
   default: 'Volume : This Week in Civic Tech/Open Data'

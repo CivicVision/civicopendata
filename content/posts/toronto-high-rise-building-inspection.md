@@ -46,7 +46,7 @@ The most reported violation type is: 2.2.3.2 Maintenance of closures.
 
 This was the next question I asked the data. I love maps and a nice overview of where the most violations occur. One thing that is missing from the data that would have made the map even more useful would be the amount of HighRise Buildings per ward. But we don‘t have that information.
 
-![](https://res.cloudinary.com/civicvision/image/upload/v1551765769/Toronto%20Highrise/violations-per-inspection-map.png)
+![](https://res.cloudinary.com/civicvision/image/upload/v1551973255/Toronto%20Highrise/violations-per-inspection-map-annotated.png)
 
 I created an Observable Notebook for everyone to try it out. I reached out to the initial source of this information. When they get back to me I will update this post.
 

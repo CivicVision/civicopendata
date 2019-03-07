@@ -2,6 +2,7 @@
 date = "2018-11-01T12:09:56+00:00"
 title = "About"
 undefined = "jiji"
+type = "static"
 
 +++
 **What is this all about?**

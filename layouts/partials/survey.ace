@@ -31,7 +31,7 @@ form#survey onsubmit="event.preventDefault(); sendSurveyResponse('survey');"
 
   fieldset
     label.legend for="excited-area" 
-      | What is the most exciting area within 
+      | What is the most exciting area for you within 
       span#one-question-topic Civic Tech/Open Data/Open Government
     textarea name="excited-area" id="exciting-area" rows=5
 
@@ -44,14 +44,17 @@ form#survey onsubmit="event.preventDefault(); sendSurveyResponse('survey');"
       input type="radio" id="every_day" name="use_dataviz" value="Every Day"
       label for="every_day" Every Day
     .row
+      input type="radio" id="use_every_week" name="use_dataviz" value="Every Week"
+      label for="use_every_week" Every Week
+    .row
       input type="radio" id="time-to-time" name="use_dataviz" value="Time to time"
       label for="every_day" From time to time
     .row
       input type="radio" id="interested" name="use_dataviz" value="Interested"
-      label for="every_day" I'm interested in data visualization
+      label for="every_day" I'm interested in using data visualization
     .row
       input type="radio" id="not-interested" name="use_dataviz" value="Not Interested"
-      label for="every_day" I'm not interested in data visualization
+      label for="every_day" I'm not interested in using data visualization
 
   fieldset
     legend
@@ -62,14 +65,17 @@ form#survey onsubmit="event.preventDefault(); sendSurveyResponse('survey');"
       input type="radio" id="create_every_day" name="create_dataviz" value="Every Day"
       label for="create_every_day" Every Day
     .row
+      input type="radio" id="create_every_week" name="create_dataviz" value="Every Week"
+      label for="create_every_week" Every Week
+    .row
       input type="radio" id="create_time-to-time" name="create_dataviz" value="Time to time"
       label for="create_time-to-time" From time to time
     .row
       input type="radio" id="create_interested" name="create_dataviz" value="Interested"
-      label for="create_interested" I'm interested in data visualization
+      label for="create_interested" I'm interested in creating data visualization
     .row
       input type="radio" id="create_not-interested" name="create_dataviz" value="Not Interested"
-      label for="create_not-interested" I'm not interested in data visualization
+      label for="create_not-interested" I'm not interested in creating data visualization
 
   button type="submit" Submit
 #survey-response Thank you for filling out the survey. Have a great day!

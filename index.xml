@@ -142,16 +142,14 @@ A few not so supering facts are that not fully open licenes still dominate the f
     
     <item>
       <title>Thank you for subscribing - I want to get to know you better!</title>
-      <link>https://civicopendata.com/survey/</link>
+      <link>https://civicopendata.com/subscribe/survey/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://civicopendata.com/survey/</guid>
-      <description>Thanks for subscribing to the Civic Open Data Newsletter. I email you weekly with the latest in Civic tech, Open Data and Open Government.
-To get to know you a little better I would love if you could fill out this short survey. All answers are optional but I would love to get to know you as best as possible.
-You can always email me as well.
-Thanks.
-Mila
-What topics are you most interested inCivic TechOpen DataData VisualizationOpen GovernmentWhat’s you number one question about Civic Tech/Open Data/Open GovernmentDo you work professionally in Civic Tech/Open Government/Open Data?</description>
+      <guid>https://civicopendata.com/subscribe/survey/</guid>
+      <description>Thanks for subscribing to the Civic Open Data Newsletter.
+Check your email, you need to confirm your subscription.
+I email you at least weekly with the latest in Civic Tech, Open Data and Open Government.
+To get to know you a little better I would love if you could fill out this short survey. All answers are optional but I would love to get to know you as best as possible.</description>
     </item>
     
   </channel>

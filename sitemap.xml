@@ -67,6 +67,10 @@
   </url>
   
   <url>
+    <loc>https://civicopendata.com/subscribe/</loc>
+  </url>
+  
+  <url>
     <loc>https://civicopendata.com/</loc>
     <lastmod>2019-03-05T07:03:27+01:00</lastmod>
     <priority>0</priority>
@@ -109,7 +113,7 @@
   </url>
   
   <url>
-    <loc>https://civicopendata.com/survey/</loc>
+    <loc>https://civicopendata.com/subscribe/survey/</loc>
   </url>
   
   <url>

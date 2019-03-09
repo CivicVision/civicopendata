@@ -27,6 +27,10 @@ The layer switcher should have a legend included, so the color of the lines shou
 **Takeaway**:  
 **Don't overload your map. Show the most important thing first and educate your user how they can find more.**
 
+### [Atlas of Inequality](https://inequality.media.mit.edu)
+
+![](https://res.cloudinary.com/civicvision/image/upload/v1552112269/Volume%208/atlas-of-inequality.png)
+
 <hr />
 
 ## Open Data

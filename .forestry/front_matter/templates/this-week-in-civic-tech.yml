@@ -38,6 +38,7 @@ fields:
   name: hero
   label: hero image
 pages:
+- content/posts/volume-8-this-week-in-civic-tech-open-data.md
 - content/posts/this-week-in-civic-tech-open-data-wk9.md
 - content/posts/this-week-in-civic-tech-open-data-wk9.md
 - content/posts/this-week-in-civic-tech-open-data-wk8.md

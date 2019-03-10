@@ -36,6 +36,16 @@ The layer switcher should have a legend included, so the color of the lines shou
 This is a great looking map. The dot density style works really nice and they included a how to use the map right from the start:  
 ![](https://res.cloudinary.com/civicvision/image/upload/v1552113573/Volume%208/atlast-of-inequality-explanation.png)
 
+### Cats in the World
+
+![](https://res.cloudinary.com/civicvision/image/upload/v1552227793/Volume%208/cats-in-the-world.png)
+
+> This project explores two uses of the internet: one that promotes sharing for the sociable and humorous appreciation of domesticated felines, and one in which the status quo of personal data usage is exploited by startups and international mega-corporations, who are riding the wave of decreased privacy for all. 
+
+The project is a great civic tech project and is funny and creepy at the same time. I'm sorry to use them but their charts offer a great way to shoe some something. 
+
+The maps for one are population maps and do not show where cats live but mostly where their owners life. On a global scale you can see that there are not as many cats in India or China although they have a high population. If you would have used a cat per 1000 resident or similar it would gave you more insight. 
+
 <hr />
 
 ## Open Data

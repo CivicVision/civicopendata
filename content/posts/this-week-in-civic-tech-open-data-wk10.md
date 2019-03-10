@@ -17,7 +17,7 @@ volume = 8
 
 ![](https://res.cloudinary.com/civicvision/image/upload/v1552111402/Volume%208/syracuse-snow-map.png)
 
-What I love about this project is this comprehensive writeup of how they built it: [http://www.innovatesyracuse.com/blog/snowplowmapdevelopment](http://www.innovatesyracuse.com/blog/snowplowmapdevelopment "http://www.innovatesyracuse.com/blog/snowplowmapdevelopment")
+What I love about this project is this comprehensive writeup of how they built it: [http://www.innovatesyracuse.com/blog/snowplowmapdevelopment](http://www.innovatesyracuse.com/blog/snowplowmapdevelopment)
 
 And everything is Open Source on [GitHub](https://github.com/CityofSyracuse/snowmap)
 
@@ -36,15 +36,25 @@ The layer switcher should have a legend included, so the color of the lines shou
 This is a great looking map. The dot density style works really nice and they included a how to use the map right from the start:  
 ![](https://res.cloudinary.com/civicvision/image/upload/v1552113573/Volume%208/atlast-of-inequality-explanation.png)
 
+**Takeaway**:  
+**If you have a lot of stuff going on in your map including an explanation right at the start helps your users understand how to interact with your interactive.** 
+
 ### Cats in the World
 
 ![](https://res.cloudinary.com/civicvision/image/upload/v1552227793/Volume%208/cats-in-the-world.png)
 
-> This project explores two uses of the internet: one that promotes sharing for the sociable and humorous appreciation of domesticated felines, and one in which the status quo of personal data usage is exploited by startups and international mega-corporations, who are riding the wave of decreased privacy for all. 
+> This project explores two uses of the internet: one that promotes sharing for the sociable and humorous appreciation of domesticated felines, and one in which the status quo of personal data usage is exploited by startups and international mega-corporations, who are riding the wave of decreased privacy for all.
 
-The project is a great civic tech project and is funny and creepy at the same time. I'm sorry to use them but their charts offer a great way to shoe some something. 
+The project is a great civic tech project and is funny and creepy at the same time. I'm sorry to use them but their charts offer a great way to shoe some something.
 
-The maps for one are population maps and do not show where cats live but mostly where their owners life. On a global scale you can see that there are not as many cats in India or China although they have a high population. If you would have used a cat per 1000 resident or similar it would gave you more insight. 
+The maps for one are population maps and do not show where cats live but mostly where their owners life. On a global scale you can see that there are not as many cats in India or China although they have a high population. If you would have used a cat per 1000 resident or similar it would gave you more insight.
+
+**Takeaway**:  
+**If you have data that can closely be related to population use a ratio scale and not an absolute scale otherwise you make a population map.**
+
+### Height and growth trend of skyscrapers in 9 US metro areas
+
+I like the data and the way it is represented. The small multiple approach works great to see at first glance, the city with the highest buildings and the trend of building heights over the years. There are a few points though: The first year label is 1925, but there is data available for a few cities for earlier years. I would have either removed the data and start by 1925 or start with the correct label. The space between the axis and the year 1925 is confusing. The labels of the cities are too close to the previous chart which confused me the first time I saw the chart. Either increase the space between the charts or move the headline closer to the chart it represents. The black line which represents the smoothing of the data should have been labeled; otherwise you have to guess as a reader. For the source, Wikipedia is a very broad source description. I get that the available space is limited, but something more descriptive would be great. And metro areas are also not as clear to an outsider (especially people living overseas).
 
 <hr />
 

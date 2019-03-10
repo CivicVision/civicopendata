@@ -19,10 +19,10 @@ volume = 8
 
 What I love about this project is this comprehensive writeup of how they built it: [http://www.innovatesyracuse.com/blog/snowplowmapdevelopment](http://www.innovatesyracuse.com/blog/snowplowmapdevelopment)
 
-And everything is Open Source on [GitHub](https://github.com/CityofSyracuse/snowmap)
+And everything is Open Source on [GitHub](https://github.com/CityofSyracuse/snowmap) available for everyone to check out the code or reimplement it. 
 
-It would be great if they included the link to the explanation on the map somewhere. The colors, especially the one for "Not yet plowed" does not work great with the basemap. It's hard to see.  
-The layer switcher should have a legend included, so the color of the lines should be next to the labels. And I would not turn on everything. Maybe start with the plowed streets and guide the user to click the others.
+_It would be great if they included the link to the explanation on the map somewhere. The colors, especially the one for "Not yet plowed" does not work great with the basemap. It's hard to see.  
+The layer switcher should have a legend included, so the color of the lines should be next to the labels. And I would not turn on everything by default. Maybe start with the plowed streets and guide the user to click the others._
 
 **Takeaway**:  
 **Don't overload your map. Show the most important thing first and educate your user how they can find more.**
@@ -36,6 +36,10 @@ The layer switcher should have a legend included, so the color of the lines shou
 This is a great looking map. The dot density style works really nice and they included a how to use the map right from the start:  
 ![](https://res.cloudinary.com/civicvision/image/upload/v1552113573/Volume%208/atlast-of-inequality-explanation.png)
 
+They also included their research method and more explanation how the data was produced and presented.
+
+_The only critique that I would have is that labels are not readable and do not add any value._ 
+
 **Takeaway**:  
 **If you have a lot of stuff going on in your map including an explanation right at the start helps your users understand how to interact with your interactive.** 
 
@@ -47,14 +51,17 @@ This is a great looking map. The dot density style works really nice and they in
 
 The project is a great civic tech project and is funny and creepy at the same time. I'm sorry to use them but their charts offer a great way to shoe some something.
 
-The maps for one are population maps and do not show where cats live but mostly where their owners life. On a global scale you can see that there are not as many cats in India or China although they have a high population. If you would have used a cat per 1000 resident or similar it would gave you more insight.
+_The maps for one are population maps and do not show where cats live but mostly where their owners life. On a global scale you can see that there are not as many cats in India or China although they have a high population. If you would have used a cat per 1000 resident or similar it would gave you more insight.  
+These charts are a good example to write a more comprehensive post._ 
 
 **Takeaway**:  
 **If you have data that can closely be related to population use a ratio scale and not an absolute scale otherwise you make a population map.**
 
 ### Height and growth trend of skyscrapers in 9 US metro areas
 
-I like the data and the way it is represented. The small multiple approach works great to see at first glance, the city with the highest buildings and the trend of building heights over the years. There are a few points though: The first year label is 1925, but there is data available for a few cities for earlier years. I would have either removed the data and start by 1925 or start with the correct label. The space between the axis and the year 1925 is confusing. The labels of the cities are too close to the previous chart which confused me the first time I saw the chart. Either increase the space between the charts or move the headline closer to the chart it represents. The black line which represents the smoothing of the data should have been labeled; otherwise you have to guess as a reader. For the source, Wikipedia is a very broad source description. I get that the available space is limited, but something more descriptive would be great. And metro areas are also not as clear to an outsider (especially people living overseas).
+I like the data and the way it is represented. The small multiple approach works great to see at first glance, the city with the highest buildings and the trend of building heights over the years. 
+
+There are a few points though: The first year label is 1925, but there is data available for a few cities for earlier years. I would have either removed the data and start by 1925 or start with the correct label. The space between the axis and the year 1925 is confusing. The labels of the cities are too close to the previous chart which confused me the first time I saw the chart. Either increase the space between the charts or move the headline closer to the chart it represents. The black line which represents the smoothing of the data should have been labeled; otherwise you have to guess as a reader. For the source, Wikipedia is a very broad source description. I get that the available space is limited, but something more descriptive would be great. And metro areas are also not as clear to an outsider (especially people living overseas).
 
 <hr />
 

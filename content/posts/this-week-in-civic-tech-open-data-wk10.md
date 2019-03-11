@@ -36,7 +36,7 @@ The layer switcher should have a legend included, so the color of the lines shou
 This is a great looking map. The dot density style works really nice and they included a how to use the map right from the start:  
 ![](https://res.cloudinary.com/civicvision/image/upload/v1552113573/Volume%208/atlast-of-inequality-explanation.png)
 
-They also included their research method and more explanation how the data was produced and presented.
+They also included their research method and more explanation of how the data was produced and presented.
 
 _The only critique that I would have is that labels are not readable and do not add any value._
 
@@ -51,11 +51,11 @@ _The only critique that I would have is that labels are not readable and do not 
 
 The project is a great civic tech project and is funny and creepy at the same time. I'm sorry to use them but their charts offer a great way to shoe some something.
 
-_The maps for one are population maps and do not show where cats live but mostly where their owners life. On a global scale you can see that there are not as many cats in India or China although they have a high population. If you would have used a cat per 1000 resident or similar it would gave you more insight.  
-These charts are a good example to write a more comprehensive post._
+_The maps for one are population maps and do not show where cats live but mostly where their owner's life. On a global scale, you can see that there are not as many cats in India or China although they have a high population. If you had used a cat per 1000 resident or similar, it would give you more insight.  
+These charts are a good example for a more comprehensive post._ 
 
 **Takeaway**:  
-**If you have data that can closely be related to population use a ratio scale and not an absolute scale otherwise you make a population map.**
+**If you have data that can closely be related to population use a ratio scale and not an absolute scale; otherwise you make a population map.**
 
 ### Height and growth trend of skyscrapers in 9 US metro areas
 
@@ -64,7 +64,7 @@ These charts are a good example to write a more comprehensive post._
 _There are a few points though:   
 The first year label is 1925, but there is data available for a few cities for earlier years. I would have either removed the data and start by 1925 or start with the correct label. The space between the axis and the year 1925 is confusing.   
 The labels of the cities are too close to the previous chart which confused me the first time I saw the chart. Either increase the space between the charts or move the headline closer to the chart it represents.   
-The black line which represents the smoothing of the data should have been labeled; otherwise you have to guess as a reader.   
+The black line which represents the smoothing of the data should have been labeled; otherwise, you have to guess as a reader.   
 For the source, Wikipedia is a very broad source description. I get that the available space is limited, but something more descriptive would be great. And metro areas are also not as clear to an outsider (especially people living overseas)._
 
 <hr />

@@ -96,6 +96,8 @@ The labels of the cities are too close to the previous chart which confused me t
 The black line which represents the smoothing of the data should have been labeled; otherwise, you have to guess as a reader.   
 For the source, Wikipedia is a very broad source description. I get that the available space is limited, but something more descriptive would be great. And metro areas are also not as clear to an outsider (especially people living overseas)._
 
+**Takeaway**:  
+**Be careful where your labels are.**
 <hr />
 
 ## Open Data

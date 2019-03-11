@@ -2,7 +2,6 @@
 calendar_week_published = 10
 categories = ["This Week in Civic Tech"]
 date = "2019-03-09T07:02:09+01:00"
-draft = true
 hero = ""
 tags = ["civic tech", "open data"]
 title = "Volume 8: This Week in Civic Tech/Open Data"

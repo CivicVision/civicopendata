@@ -1,5 +1,4 @@
 +++
-articles = []
 calendar_week_published = 10
 categories = ["This Week in Civic Tech"]
 date = "2019-03-09T07:02:09+01:00"
@@ -7,8 +6,38 @@ draft = true
 hero = ""
 tags = ["civic tech", "open data"]
 title = "Volume 8: This Week in Civic Tech/Open Data"
-tweets = []
+tweets = ["1103024836396359680", "1104112055945175045", "1100416579676844032", "1102681373964414979", "1103650491978969088"]
 volume = 8
+[[articles]]
+category = "Open Data/Open Government"
+template = "article"
+title = "US takes tentative steps toward opening up government data"
+url = "https://gcn.com/articles/2019/03/07/open-data.aspx"
+[[articles]]
+category = "Open Data/Open Government"
+template = "article"
+title = "How Tech Helped Chicago Police Solve the Jussie Smollett Case"
+url = "http://www.govtech.com/analytics/How-Tech-Helped-Chicago-Police-Solve-the-Jussie-Smollett-Case.html"
+[[articles]]
+category = "Civic tech/Community"
+template = "article"
+title = "Proof Points for Human-Centered Benefits Administration"
+url = "https://medium.com/code-for-america/proof-points-for-human-centered-benefits-administration-8832c63a4034"
+[[articles]]
+category = "Open Data/Open Government"
+template = "article"
+title = "E-Scooter Bans Show Cities Are Hesitant to Embrace Innovation"
+url = "http://www.govtech.com/opinion/E-Scooter-Bans-Show-Cities-Are-Hesitant-to-Embrace-Innovation.html"
+[[articles]]
+category = "Open Data/Open Government"
+template = "article"
+title = "Why States Need a Data Officers Leadership Network (Contributed)"
+url = "http://www.govtech.com/opinion/Why-States-Need-a-Data-Officers-Leadership-Network-Contributed.html"
+[[articles]]
+category = "Open Data/Open Government"
+template = "article"
+title = "Little Rock Uses Community Data to Light Underserved Areas"
+url = "http://www.govtech.com/civic/Little-Rock-Uses-Community-Data-to-Light-Underserved-Areas.html"
 
 +++
 ## Visualizations
@@ -86,7 +115,7 @@ One particular project was about helping returning veterans find registered appr
 
 Presented at the Open Data Day the City of Miami released a new Open Data portal featuring mostly geospatial datasets! Welcome! 
 
-### Student Data Challenge: Make an Impact with Open Data
+### [Student Data Challenge: Make an Impact with Open Data](https://www.tableau.com/impact-open-data?utm_content=buffer6c683&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 
 A great initiative by Tableau and Mapbox. 
 
@@ -110,21 +139,11 @@ Go check it out and participate if you're a student or share with a student.
 {{< articles "Open Data/Open Government" >}}
 <hr />
 
-## Tools
-
-<hr />
-
 ## Tweets
 
 {{< tweets >}}
 <hr />
 
-## Videos
-
-<hr />
 
 ## Jobs
-
-<hr />
-
-## Upcoming Events
+<{{ tweet 1098660264751226880 }}>

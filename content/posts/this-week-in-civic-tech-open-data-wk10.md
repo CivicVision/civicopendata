@@ -72,7 +72,7 @@ _The only critique that I would have is that labels are not readable and do not 
 **Takeaway**:  
 **If you have a lot of stuff going on in your map including an explanation right at the start helps your users understand how to interact with your interactive.**
 
-### Cats in the World
+### [Cats in the World](https://iknowwhereyourcatlives.com/)
 
 ![](https://res.cloudinary.com/civicvision/image/upload/v1552227793/Volume%208/cats-in-the-world.png)
 
@@ -86,7 +86,7 @@ These charts are a good example for a more comprehensive post._
 **Takeaway**:  
 **If you have data that can closely be related to population use a ratio scale and not an absolute scale; otherwise you make a population map.**
 
-### Height and growth trend of skyscrapers in 9 US metro areas
+### [Height and growth trend of skyscrapers in 9 US metro areas](https://twitter.com/dooluoz/status/1099722900658098176)
 
 ![](https://res.cloudinary.com/civicvision/image/upload/v1552214548/Volume%208/building-height-us-metros.jpg)I like the data and the way it is represented. The small multiple approach works great to see at first glance, the city with the highest buildings and the trend of building heights over the years.
 
@@ -146,4 +146,4 @@ Go check it out and participate if you're a student or share with a student.
 
 
 ## Jobs
-<{{ tweet 1098660264751226880 }}>
+{{< tweet 1098660264751226880 >}}

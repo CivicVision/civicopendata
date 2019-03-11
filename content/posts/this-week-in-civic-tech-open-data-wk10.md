@@ -71,15 +71,20 @@ For the source, Wikipedia is a very broad source description. I get that the ava
 
 ## Open Data
 
-### Predicting E. coli concentrations using limited qPCR deployments at Chicago beaches
+### [Predicting E. coli concentrations using limited qPCR deployments at Chicago beaches](https://www.sciencedirect.com/science/article/pii/S2589914718300161)
 
-### For the OpportunityProject, Applied Data Scientist @NathanZencey built a demo for @USDOL to assist veterans with their job search
+A group of civic activists with the City of Chicago published a paper about a project they did in Chicago in cooperation with Chicago Hacknight and the City. The whole project is a huge success and well known in the civic tech world. But that they published a paper about it is pretty awesome. Congrats. 
 
-help returning veterans find registered apprenticeships.
+### [Assist veterans with their job search through the Opportiunity Project](https://medium.com/civis-analytics/the-opportunity-project-a-new-model-for-civic-tech-1ca6846d2e82)
 
-### Miami Open Data Portal
+> The Opportunity Project is a process for engaging government, communities, and the technology industry to create digital tools that address our greatest challenges as a nation. This process helps to empower people with technology, make government data more accessible and user-friendly, and facilitate cross-sector collaboration to build new digital solutions with open data.
+https://opportunity.census.gov
 
-Presented at the Open Data Day 
+One particular project was about helping returning veterans find registered apprenticeships. Go check out the blog post form the creators.
+
+### [Miami Open Data Portal](http://datahub-miamigis.opendata.arcgis.com)
+
+Presented at the Open Data Day the City of Miami released a new Open Data portal featuring mostly geospatial datasets! Welcome! 
 
 ### Student Data Challenge: Make an Impact with Open Data
 
@@ -90,7 +95,9 @@ The topics are
 * Veteran Education Benefits
 * Homelessness
 
-  <hr />
+Go check it out and participate if you're a student or share with a student. 
+
+<hr />
 
 ## Articles
 

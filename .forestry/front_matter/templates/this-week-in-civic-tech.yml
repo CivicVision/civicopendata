@@ -37,6 +37,13 @@ fields:
 - type: file
   name: hero
   label: hero image
+- type: list
+  name: images
+  label: images
+  config:
+    use_select: false
+    source:
+      type: simple
 pages:
 - content/posts/this-week-in-civic-tech-open-data-wk10.md
 - content/posts/this-week-in-civic-tech-open-data-wk9.md

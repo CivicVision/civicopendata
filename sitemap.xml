@@ -99,6 +99,12 @@
   </url>
   
   <url>
+    <loc>https://civicopendata.com/categories/maps/</loc>
+    <lastmod>2019-03-14T09:27:08+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://civicopendata.com/tags/open-data/</loc>
     <lastmod>2019-03-09T07:02:09+01:00</lastmod>
     <priority>0</priority>

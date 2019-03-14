@@ -1,5 +1,5 @@
 +++
-categories = []
+categories = ["Maps"]
 date = "2019-03-14T09:27:08+01:00"
 has_visualization = false
 hero = ""

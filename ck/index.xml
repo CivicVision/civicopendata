@@ -1,0 +1,463 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Civic Open Data</title>
+    <link>https://civicopendata.com/ck/index.xml</link>
+    <description>Recent content on Civic Open Data</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+        <atom:link href="https://civicopendata.com/ck/index.xml" rel="self" type="application/rss+xml" />
+    
+		
+		
+			<item>
+				<title>What should be included with a map</title>
+				<link>https://civicopendata.com/posts/what-should-be-included-with-a-map/</link>
+				<pubDate>Thu, 14 Mar 2019 09:27:08 +0100</pubDate>
+				
+				<guid>https://civicopendata.com/posts/what-should-be-included-with-a-map/</guid>
+				<description>
+
+&lt;p&gt;Maps are a great way to visualize data that has a spatial component, and I love creating maps. There are a few things though that you should keep in mind when creating maps. These tips will help your readers to understand your map better and help you remember when and why you created the map.&lt;/p&gt;
+
+&lt;p&gt;Most of the time there are two kinds of maps: static maps and interactive maps. A static map can be an image but can also be zoomable but just not &amp;ldquo;interactable&amp;rdquo; map.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Must-Haves&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;In this post, I explain what I consider must-haves for maps. Every map should have them in one form or the other.&lt;/p&gt;
+
+&lt;h3 id=&#34;data-source&#34;&gt;Data Source&lt;/h3&gt;
+
+&lt;p&gt;The most critical aspect is your data source. Always include a link or a description of your data source so others can look it up if it is freely available. However, even if it&amp;rsquo;s not freely available, you should include some description where this data comes from and maybe include it in your methodology description you should be writing :)&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/civicvision/image/upload/v1552585943/Included%20in%20Map/sources.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;attributions&#34;&gt;Attributions&lt;/h3&gt;
+
+&lt;p&gt;If you use a basemap, you should include attribution for the source of your basemap. In most of my projects, I use some form of OSM data and always include the attribution to the source. Alternatively, if you have a static map without a basemap add some information about the source of your boundaries.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/civicvision/image/upload/v1552585943/Included%20in%20Map/attributions.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;title&#34;&gt;Title&lt;/h3&gt;
+
+&lt;p&gt;Not to forget is to include a title on your map. Moreover, the title should reflect your intent for creating the map. Make it descriptive, and then you can leave out the description :)&lt;/p&gt;
+
+&lt;p&gt;There is always room for the title.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/civicvision/image/upload/v1552585933/Included%20in%20Map/title.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;projection&#34;&gt;Projection&lt;/h3&gt;
+
+&lt;p&gt;Think about your projection. Don’t use the default of the library or tool you’re using. It is almost always wrong for your data. Don’t know much about projections? Take a look here.&lt;/p&gt;
+
+&lt;p&gt;As a general rule: please don’t use the default Mercator projection everyone used to use. All libraries now support different better-suited projections.&lt;/p&gt;
+</description>
+			</item>
+			
+		
+		
+		
+		
+			<item>
+				<title>Toronto High Rise Building inspection</title>
+				<link>https://civicopendata.com/posts/toronto-high-rise-building-inspection/</link>
+				<pubDate>Tue, 05 Mar 2019 07:03:27 +0100</pubDate>
+				
+				<guid>https://civicopendata.com/posts/toronto-high-rise-building-inspection/</guid>
+				<description>
+
+&lt;p&gt;In Volume 6 of my weekly roundup I highlighted some newly released data from the city of Toronto about Highrisers Building Inspection data. The newspaper that reported about it was not happy about the format that it was available. And I agree it is not very searchable or does not provide too much information.&lt;/p&gt;
+
+&lt;p&gt;But: They use an API to show the data in the table. And it turns out, I can use the API as well. It took some time to find out what type of API and database was involved to query the data. After a few hours of searching and trying out I succeeded.&lt;/p&gt;
+
+&lt;p&gt;The next step was to do some exploratory data analysis.&lt;/p&gt;
+
+&lt;h2 id=&#34;the-question&#34;&gt;The question&lt;/h2&gt;
+
+&lt;p&gt;The question that I asked the dataset was:&lt;br /&gt;
+&lt;strong&gt;Which buildings have the highest amount of violations the public should know about.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;if-you-life-in-2-regal-rd-you-might-want-to-contact-your-landlord&#34;&gt;If you life in 2 Regal Rd you might want to contact your landlord&lt;/h2&gt;
+
+&lt;p&gt;As of this writing the most violations occurred on 2 Regal Rd. After looking at the &lt;a href=&#34;https://www.toronto.ca/city-government/accountability-operations-customer-service/access-city-information-or-records/fire-prevention-inspection-results-for-high-rise-residential-buildings/#details/f42076c3-6075-485e-b766-dd6c8e2b8434&#34;&gt;table&lt;/a&gt; these 30 violations occurred on 2 inspections. They all got resolved but this might be a sign to inspect more often.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://maps.googleapis.com/maps/api/streetview?size=400x400&amp;amp;location=40.720032,-73.988354&amp;amp;fov=100&amp;amp;heading=210&amp;amp;pitch=40&amp;amp;key=AIzaSyAqlRInIcBkVjRRCl3usLYlbnmuRLSQ-i0&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.google.de/maps/place/2+Regal+Rd,+Toronto,+ON+M6H+2J4,+Kanada/@43.6756197,-79.4333534,17z/data=&#34; title=&#34;https://www.google.de/maps/place/2+Regal+Rd,+Toronto,+ON+M6H+2J4,+Kanada/@43.6756197,-79.4333534,17z/data=&#34;&gt;https://www.google.de/maps/place/2+Regal+Rd,+Toronto,+ON+M6H+2J4,+Kanada/@43.6756197,-79.4333534,17z/data=&lt;/a&gt;&lt;a href=&#34;https://www.google.de/maps/place/2+Regal+Rd,+Toronto,+ON+M6H+2J4,+Kanada/@43.6756197,-79.4333534,17z/data=!4m2!3m1!1s0x882b347baec4f25f:0x5e576b821b01c4ea&#34;&gt;!4m2!3m1!1s0x882b347baec4f25f:0x5e576b821b01c4ea&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Here are the top 5 buildings with the most violations:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/civicvision/image/upload/v1551765572/Toronto%20Highrise/building-violations.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;the-overall-picture&#34;&gt;The overall picture&lt;/h2&gt;
+
+&lt;p&gt;The data is from Janaury 2017 until today. In total there were ~12000 violations in that time period. That is about 500 per month and x per inspection. Nice job to inspect the right houses.&lt;/p&gt;
+
+&lt;p&gt;The most reported violation type is: 2.2.3.2 Maintenance of closures.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/civicvision/image/upload/v1551765572/Toronto%20Highrise/code-violations.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;2.2.3.2. (1) Closures in fire separations shall be maintained to ensure that they are operable at all times by (a) keeping fusible links and heat or smoke-actuated devices undamaged and free of paint and dirt, (b) keeping guides, bearings and stay rolls clean and lubricated, &amp;copy; making necessary adjustments and repairs to door hardware and accessories to ensure proper closing and latching, and (d) repairing or replacing inoperative parts of hold-open devices and automatic releasing devices.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;(&lt;a href=&#34;https://www.ontario.ca/laws/regulation/070213&#34; title=&#34;https://www.ontario.ca/laws/regulation/070213&#34;&gt;https://www.ontario.ca/laws/regulation/070213&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;which-ward-has-the-most-violations&#34;&gt;Which Ward has the most violations?&lt;/h2&gt;
+
+&lt;p&gt;This was the next question I asked the data. I love maps and a nice overview of where the most violations occur. One thing that is missing from the data that would have made the map even more useful would be the amount of HighRise Buildings per ward. But we don‘t have that information.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/civicvision/image/upload/v1551973255/Toronto%20Highrise/violations-per-inspection-map-annotated.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I created an Observable Notebook for everyone to try it out. I reached out to the initial source of this information. When they get back to me I will update this post.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Do you have a similar problem. You find some data but are not able to really dive into the data because it is in a strange format or from a strange source. Reach out to me. I can help you.&lt;/em&gt;&lt;/p&gt;
+</description>
+			</item>
+			
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+			<item>
+				<title>Louisville Bird Data published</title>
+				<link>https://civicopendata.com/posts/lousiville-bird/</link>
+				<pubDate>Thu, 01 Nov 2018 06:08:58 +0000</pubDate>
+				
+				<guid>https://civicopendata.com/posts/lousiville-bird/</guid>
+				<description>
+
+&lt;p&gt;The City of Louisville in Kentucky is the first city to publish Bird Scooter Data as CSV in their &lt;a href=&#34;https://data.louisvilleky.gov/dataset/bird-scooter&#34;&gt;Open Data Portal&lt;/a&gt;. They updated their data three times already, so we should be in for a treat with monthly updates.&lt;/p&gt;
+
+&lt;p&gt;We have to thank the City of Louisville and Bird for releasing data so that we can finally study how people use scooters in cities.&lt;/p&gt;
+
+&lt;p&gt;This is just a partial analysis since we only have data for one city and only for a limited time frame. I used the first month of the released data because it appears to be very clean.&lt;/p&gt;
+
+&lt;p&gt;First let&amp;rsquo;s look at the time frame the analysis:&lt;/p&gt;
+
+&lt;p&gt;&lt;div id=&#34;days&#34; height=&#34;400&#34;&gt;&lt;/div&gt; &lt;script type=&#34;text/javascript&#34;&gt;
+	viz = function() {
+		
+		
+			
+		
+		
+		
+		vizSpec = {&#34;$schema&#34;:&#34;https://vega.github.io/schema/vega/v4.json&#34;,&#34;autosize&#34;:{&#34;contains&#34;:&#34;padding&#34;,&#34;type&#34;:&#34;fit&#34;},&#34;axes&#34;:[{&#34;encode&#34;:{&#34;labels&#34;:{&#34;update&#34;:{&#34;text&#34;:{&#34;signal&#34;:&#34;scale(&#39;xname&#39;, datum.value)&#34;}}}},&#34;labelColor&#34;:&#34;#383838&#34;,&#34;labelFont&#34;:&#34;Nunito Sans, Helvetica, sans-serif&#34;,&#34;labelFontSize&#34;:12,&#34;labelFontWeight&#34;:&#34;normal&#34;,&#34;labelPadding&#34;:10,&#34;orient&#34;:&#34;bottom&#34;,&#34;scale&#34;:&#34;xscale&#34;,&#34;tickSize&#34;:0,&#34;title&#34;:&#34;StartTime&#34;,&#34;titleColor&#34;:&#34;#686768&#34;,&#34;titleFont&#34;:&#34;Nunito Sans, Helvetica, sans-serif&#34;,&#34;titleFontSize&#34;:15,&#34;titleFontWeight&#34;:100,&#34;titlePadding&#34;:15},{&#34;labelColor&#34;:&#34;#383838&#34;,&#34;labelFont&#34;:&#34;Nunito Sans, Helvetica, sans-serif&#34;,&#34;labelFontSize&#34;:11,&#34;labelFontWeight&#34;:&#34;normal&#34;,&#34;labelOverlap&#34;:true,&#34;labelPadding&#34;:10,&#34;orient&#34;:&#34;left&#34;,&#34;scale&#34;:&#34;yscale&#34;,&#34;tickSize&#34;:3,&#34;title&#34;:&#34;count&#34;,&#34;titleColor&#34;:&#34;#686768&#34;,&#34;titleFont&#34;:&#34;Nunito Sans, Helvetica, sans-serif&#34;,&#34;titleFontSize&#34;:14,&#34;titleFontWeight&#34;:100,&#34;titlePadding&#34;:20}],&#34;background&#34;:&#34;white&#34;,&#34;data&#34;:[{&#34;name&#34;:&#34;table&#34;,&#34;values&#34;:[{&#34;bar&#34;:&#34;count&#34;,&#34;group&#34;:0,&#34;name&#34;:&#34;2018-08-09&#34;,&#34;y&#34;:295},{&#34;bar&#34;:&#34;count&#34;,&#34;group&#34;:1,&#34;name&#34;:&#34;2018-08-10&#34;,&#34;y&#34;:456},{&#34;bar&#34;:&#34;count&#34;,&#34;group&#34;:2,&#34;name&#34;:&#34;2018-08-11&#34;,&#34;y&#34;:256},{&#34;bar&#34;:&#34;count&#34;,&#34;group&#34;:3,&#34;name&#34;:&#34;2018-08-12&#34;,&#34;y&#34;:319},{&#34;bar&#34;:&#34;count&#34;,&#34;group&#34;:4,&#34;name&#34;:&#34;2018-08-13&#34;,&#34;y&#34;:167},{&#34;bar&#34;:&#34;count&#34;,&#34;group&#34;:5,&#34;name&#34;:&#34;2018-08-14&#34;,&#34;y&#34;:237},{&#34;bar&#34;:&#34;count&#34;,&#34;group&#34;:6,&#34;name&#34;:&#34;2018-08-15&#34;,&#34;y&#34;:200},{&#34;bar&#34;:&#34;count&#34;,&#34;group&#34;:7,&#34;name&#34;:&#34;2018-08-16&#34;,&#34;y&#34;:79},{&#34;bar&#34;:&#34;count&#34;,&#34;group&#34;:8,&#34;name&#34;:&#34;2018-08-17&#34;,&#34;y&#34;:344},{&#34;bar&#34;:&#34;count&#34;,&#34;group&#34;:9,&#34;name&#34;:&#34;2018-08-18&#34;,&#34;y&#34;:395},{&#34;bar&#34;:&#34;count&#34;,&#34;group&#34;:10,&#34;name&#34;:&#34;2018-08-19&#34;,&#34;y&#34;:316},{&#34;bar&#34;:&#34;count&#34;,&#34;group&#34;:11,&#34;name&#34;:&#34;2018-08-20&#34;,&#34;y&#34;:248},{&#34;bar&#34;:&#34;count&#34;,&#34;group&#34;:12,&#34;name&#34;:&#34;2018-08-21&#34;,&#34;y&#34;:382},{&#34;bar&#34;:&#34;count&#34;,&#34;group&#34;:13,&#34;name&#34;:&#34;2018-08-22&#34;,&#34;y&#34;:362},{&#34;bar&#34;:&#34;count&#34;,&#34;group&#34;:14,&#34;name&#34;:&#34;2018-08-23&#34;,&#34;y&#34;:358},{&#34;bar&#34;:&#34;count&#34;,&#34;group&#34;:15,&#34;name&#34;:&#34;2018-08-24&#34;,&#34;y&#34;:425},{&#34;bar&#34;:&#34;count&#34;,&#34;group&#34;:16,&#34;name&#34;:&#34;2018-08-25&#34;,&#34;y&#34;:385},{&#34;bar&#34;:&#34;count&#34;,&#34;group&#34;:17,&#34;name&#34;:&#34;2018-08-26&#34;,&#34;y&#34;:227},{&#34;bar&#34;:&#34;count&#34;,&#34;group&#34;:18,&#34;name&#34;:&#34;2018-08-27&#34;,&#34;y&#34;:311},{&#34;bar&#34;:&#34;count&#34;,&#34;group&#34;:19,&#34;name&#34;:&#34;2018-08-28&#34;,&#34;y&#34;:273},{&#34;bar&#34;:&#34;count&#34;,&#34;group&#34;:20,&#34;name&#34;:&#34;2018-08-29&#34;,&#34;y&#34;:301},{&#34;bar&#34;:&#34;count&#34;,&#34;group&#34;:21,&#34;name&#34;:&#34;2018-08-30&#34;,&#34;y&#34;:228},{&#34;bar&#34;:&#34;count&#34;,&#34;group&#34;:22,&#34;name&#34;:&#34;2018-08-31&#34;,&#34;y&#34;:270},{&#34;bar&#34;:&#34;count&#34;,&#34;group&#34;:23,&#34;name&#34;:&#34;2018-09-01&#34;,&#34;y&#34;:304},{&#34;bar&#34;:&#34;count&#34;,&#34;group&#34;:24,&#34;name&#34;:&#34;2018-09-02&#34;,&#34;y&#34;:835},{&#34;bar&#34;:&#34;count&#34;,&#34;group&#34;:25,&#34;name&#34;:&#34;2018-09-03&#34;,&#34;y&#34;:677},{&#34;bar&#34;:&#34;count&#34;,&#34;group&#34;:26,&#34;name&#34;:&#34;2018-09-04&#34;,&#34;y&#34;:363},{&#34;bar&#34;:&#34;count&#34;,&#34;group&#34;:27,&#34;name&#34;:&#34;2018-09-05&#34;,&#34;y&#34;:401},{&#34;bar&#34;:&#34;count&#34;,&#34;group&#34;:28,&#34;name&#34;:&#34;2018-09-06&#34;,&#34;y&#34;:462}]}],&#34;height&#34;:714,&#34;marks&#34;:[{&#34;encode&#34;:{&#34;enter&#34;:{&#34;x&#34;:{&#34;field&#34;:&#34;group&#34;,&#34;scale&#34;:&#34;xscale&#34;}}},&#34;from&#34;:{&#34;facet&#34;:{&#34;data&#34;:&#34;table&#34;,&#34;groupby&#34;:&#34;group&#34;,&#34;name&#34;:&#34;facet&#34;}},&#34;marks&#34;:[{&#34;encode&#34;:{&#34;enter&#34;:{&#34;fill&#34;:{&#34;field&#34;:&#34;bar&#34;,&#34;scale&#34;:&#34;color&#34;},&#34;width&#34;:{&#34;band&#34;:1,&#34;scale&#34;:&#34;pos&#34;},&#34;x&#34;:{&#34;field&#34;:&#34;bar&#34;,&#34;scale&#34;:&#34;pos&#34;},&#34;y&#34;:{&#34;field&#34;:&#34;y&#34;,&#34;scale&#34;:&#34;yscale&#34;},&#34;y2&#34;:{&#34;scale&#34;:&#34;yscale&#34;,&#34;value&#34;:0}}},&#34;from&#34;:{&#34;data&#34;:&#34;facet&#34;},&#34;name&#34;:&#34;bars&#34;,&#34;type&#34;:&#34;rect&#34;}],&#34;scales&#34;:[{&#34;domain&#34;:{&#34;data&#34;:&#34;facet&#34;,&#34;field&#34;:&#34;bar&#34;},&#34;name&#34;:&#34;pos&#34;,&#34;range&#34;:&#34;width&#34;,&#34;type&#34;:&#34;band&#34;}],&#34;signals&#34;:[{&#34;name&#34;:&#34;width&#34;,&#34;update&#34;:&#34;bandwidth(&#39;xscale&#39;)&#34;}],&#34;type&#34;:&#34;group&#34;}],&#34;scales&#34;:[{&#34;domain&#34;:{&#34;data&#34;:&#34;table&#34;,&#34;field&#34;:&#34;group&#34;},&#34;name&#34;:&#34;xscale&#34;,&#34;padding&#34;:0.15,&#34;range&#34;:&#34;width&#34;,&#34;type&#34;:&#34;band&#34;},{&#34;domain&#34;:{&#34;data&#34;:&#34;table&#34;,&#34;field&#34;:&#34;group&#34;},&#34;name&#34;:&#34;xname&#34;,&#34;range&#34;:[&#34;2018-08-09&#34;,&#34;&#34;,&#34;&#34;,&#34;&#34;,&#34;&#34;,&#34;&#34;,&#34;&#34;,&#34;&#34;,&#34;&#34;,&#34;&#34;,&#34;&#34;,&#34;2018-08-20&#34;,&#34;&#34;,&#34;&#34;,&#34;&#34;,&#34;&#34;,&#34;&#34;,&#34;&#34;,&#34;&#34;,&#34;&#34;,&#34;&#34;,&#34;2018-08-30&#34;,&#34;&#34;,&#34;&#34;,&#34;&#34;,&#34;&#34;,&#34;&#34;,&#34;&#34;,&#34;2018-09-06&#34;],&#34;type&#34;:&#34;ordinal&#34;},{&#34;domain&#34;:{&#34;data&#34;:&#34;table&#34;,&#34;field&#34;:&#34;y&#34;},&#34;name&#34;:&#34;yscale&#34;,&#34;nice&#34;:true,&#34;range&#34;:&#34;height&#34;,&#34;type&#34;:&#34;linear&#34;,&#34;zero&#34;:true},{&#34;domain&#34;:{&#34;data&#34;:&#34;table&#34;,&#34;field&#34;:&#34;bar&#34;},&#34;name&#34;:&#34;color&#34;,&#34;range&#34;:[&#34;#769bb0&#34;],&#34;type&#34;:&#34;ordinal&#34;}],&#34;title&#34;:{&#34;color&#34;:&#34;#383838&#34;,&#34;font&#34;:&#34;Nunito Sans, Helvetica, sans-serif&#34;,&#34;fontSize&#34;:20,&#34;fontWeight&#34;:&#34;normal&#34;,&#34;offset&#34;:15,&#34;text&#34;:&#34;Column Chart&#34;},&#34;width&#34;:2162};
+		opt = { mode: &#34;vega-lite&#34;, actions: false };
+		var width, clientWidth;
+		
+			width = parseInt(&#34;700&#34;);
+		
+		clientWidth = document.getElementById(&#39;days&#39;).clientWidth;
+		if(clientWidth &lt; width) {
+			width = clientWidth;
+		}
+		vizSpec[&#39;width&#39;] = width;
+		vizSpec[&#34;autosize&#34;] = {
+			&#34;type&#34;: &#34;fit&#34;,
+			&#34;contains&#34;: &#34;padding&#34;
+		};
+		vegaEmbed(&#39;#days&#39;, vizSpec, opt, function(error, result) {
+				return;
+		});
+	}
+	if(window.addEventListener){
+		window.addEventListener(&#39;load&#39;, viz);
+	}else{
+		window.attachEvent(&#39;onload&#39;, viz);
+	}
+&lt;/script&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Some results were expected, or at least I expected them. And there are others that were surprising.&lt;/p&gt;
+
+&lt;h3 id=&#34;let-s-begin-with-the-surprising-people-drive-far-with-their-scooters&#34;&gt;Let’s begin with the surprising: People drive far with their scooters.&lt;/h3&gt;
+
+&lt;p&gt;&lt;div id=&#34;trip_time&#34; height=&#34;400&#34;&gt;&lt;/div&gt; &lt;script type=&#34;text/javascript&#34;&gt;
+	viz = function() {
+		
+		
+			
+		
+		
+		
+		vizSpec = {&#34;$schema&#34;:&#34;https://vega.github.io/schema/vega-lite/v3.json&#34;,&#34;data&#34;:{&#34;values&#34;:[{&#34;bar&#34;:&#34;Sum of Group Size&#34;,&#34;group&#34;:0,&#34;name&#34;:&#34;\u003c 1&#34;,&#34;y&#34;:7888},{&#34;bar&#34;:&#34;Sum of Group Size&#34;,&#34;group&#34;:1,&#34;name&#34;:&#34;\u003c 2&#34;,&#34;y&#34;:1790},{&#34;bar&#34;:&#34;Sum of Group Size&#34;,&#34;group&#34;:2,&#34;name&#34;:&#34;\u003c 3&#34;,&#34;y&#34;:170},{&#34;bar&#34;:&#34;Sum of Group Size&#34;,&#34;group&#34;:3,&#34;name&#34;:&#34;\u003c 4&#34;,&#34;y&#34;:23},{&#34;bar&#34;:&#34;Sum of Group Size&#34;,&#34;group&#34;:4,&#34;name&#34;:&#34;\u003c 5&#34;,&#34;y&#34;:5}]},&#34;description&#34;:&#34;A simple bar chart with embedded data.&#34;,&#34;layer&#34;:[{&#34;encoding&#34;:{&#34;color&#34;:{&#34;value&#34;:&#34;#769bb0&#34;},&#34;x&#34;:{&#34;axis&#34;:{&#34;labelAngle&#34;:0},&#34;field&#34;:&#34;name&#34;,&#34;sort&#34;:{&#34;field&#34;:&#34;group&#34;},&#34;title&#34;:&#34;trip length in hour&#34;,&#34;type&#34;:&#34;ordinal&#34;},&#34;y&#34;:{&#34;axis&#34;:{&#34;labelColor&#34;:&#34;#383838&#34;,&#34;labelFont&#34;:&#34;Nunito Sans, Helvetica, sans-serif&#34;,&#34;labelFontSize&#34;:11,&#34;labelFontWeight&#34;:&#34;normal&#34;,&#34;labelPadding&#34;:10,&#34;title&#34;:&#34;# trips&#34;,&#34;titleColor&#34;:&#34;#686768&#34;,&#34;titleFont&#34;:&#34;Nunito Sans, Helvetica, sans-serif&#34;,&#34;titleFontSize&#34;:14,&#34;titleFontWeight&#34;:100,&#34;titlePadding&#34;:20},&#34;field&#34;:&#34;y&#34;,&#34;type&#34;:&#34;quantitative&#34;}},&#34;mark&#34;:&#34;bar&#34;}],&#34;title&#34;:{&#34;color&#34;:&#34;#383838&#34;,&#34;font&#34;:&#34;Nunito Sans, Helvetica, sans-serif&#34;,&#34;fontSize&#34;:20,&#34;fontWeight&#34;:&#34;normal&#34;,&#34;offset&#34;:15,&#34;text&#34;:&#34;Average Trip time&#34;},&#34;width&#34;:800};
+		opt = { mode: &#34;vega-lite&#34;, actions: false };
+		var width, clientWidth;
+		
+			width = parseInt(&#34;700&#34;);
+		
+		clientWidth = document.getElementById(&#39;trip_time&#39;).clientWidth;
+		if(clientWidth &lt; width) {
+			width = clientWidth;
+		}
+		vizSpec[&#39;width&#39;] = width;
+		vizSpec[&#34;autosize&#34;] = {
+			&#34;type&#34;: &#34;fit&#34;,
+			&#34;contains&#34;: &#34;padding&#34;
+		};
+		vegaEmbed(&#39;#trip_time&#39;, vizSpec, opt, function(error, result) {
+				return;
+		});
+	}
+	if(window.addEventListener){
+		window.addEventListener(&#39;load&#39;, viz);
+	}else{
+		window.attachEvent(&#39;onload&#39;, viz);
+	}
+&lt;/script&gt;
+&lt;/p&gt;
+
+&lt;p&gt;I would not have imagined that people drive a scooter for longer than 3 hours, but they do. I assume that people don&amp;rsquo;t ride for three hours continuously but take breaks now and then and don&amp;rsquo;t lock the scooter. It would be interesting to see if that were all either first rides (which are typically free) or maintenance rides that got falsely flagged as regular rides. But the data does not provide any meaningful insights here.&lt;/p&gt;
+
+&lt;p&gt;&lt;div id=&#34;distance&#34; height=&#34;400&#34;&gt;&lt;/div&gt; &lt;script type=&#34;text/javascript&#34;&gt;
+	viz = function() {
+		
+		
+			
+		
+		
+		
+		vizSpec = {&#34;$schema&#34;:&#34;https://vega.github.io/schema/vega/v4.json&#34;,&#34;autosize&#34;:{&#34;contains&#34;:&#34;padding&#34;,&#34;type&#34;:&#34;fit&#34;},&#34;axes&#34;:[{&#34;encode&#34;:{&#34;labels&#34;:{&#34;update&#34;:{&#34;text&#34;:{&#34;signal&#34;:&#34;scale(&#39;xname&#39;, datum.value)&#34;}}}},&#34;labelColor&#34;:&#34;#383838&#34;,&#34;labelFont&#34;:&#34;Nunito Sans, Helvetica, sans-serif&#34;,&#34;labelFontSize&#34;:12,&#34;labelFontWeight&#34;:&#34;normal&#34;,&#34;labelPadding&#34;:10,&#34;orient&#34;:&#34;bottom&#34;,&#34;scale&#34;:&#34;xscale&#34;,&#34;tickSize&#34;:0,&#34;title&#34;:&#34;trip distance (rounded)&#34;,&#34;titleColor&#34;:&#34;#686768&#34;,&#34;titleFont&#34;:&#34;Nunito Sans, Helvetica, sans-serif&#34;,&#34;titleFontSize&#34;:15,&#34;titleFontWeight&#34;:100,&#34;titlePadding&#34;:15},{&#34;labelColor&#34;:&#34;#383838&#34;,&#34;labelFont&#34;:&#34;Nunito Sans, Helvetica, sans-serif&#34;,&#34;labelFontSize&#34;:11,&#34;labelFontWeight&#34;:&#34;normal&#34;,&#34;labelOverlap&#34;:true,&#34;labelPadding&#34;:10,&#34;orient&#34;:&#34;left&#34;,&#34;scale&#34;:&#34;yscale&#34;,&#34;tickSize&#34;:3,&#34;title&#34;:&#34;# trips&#34;,&#34;titleColor&#34;:&#34;#686768&#34;,&#34;titleFont&#34;:&#34;Nunito Sans, Helvetica, sans-serif&#34;,&#34;titleFontSize&#34;:14,&#34;titleFontWeight&#34;:100,&#34;titlePadding&#34;:20}],&#34;background&#34;:&#34;white&#34;,&#34;data&#34;:[{&#34;name&#34;:&#34;table&#34;,&#34;values&#34;:[{&#34;bar&#34;:&#34;Group Size&#34;,&#34;group&#34;:0,&#34;name&#34;:&#34;1.0&#34;,&#34;y&#34;:4282},{&#34;bar&#34;:&#34;Group Size&#34;,&#34;group&#34;:1,&#34;name&#34;:&#34;2.0&#34;,&#34;y&#34;:2383},{&#34;bar&#34;:&#34;Group Size&#34;,&#34;group&#34;:2,&#34;name&#34;:&#34;3.0&#34;,&#34;y&#34;:1203},{&#34;bar&#34;:&#34;Group Size&#34;,&#34;group&#34;:3,&#34;name&#34;:&#34;4.0&#34;,&#34;y&#34;:700},{&#34;bar&#34;:&#34;Group Size&#34;,&#34;group&#34;:4,&#34;name&#34;:&#34;5.0&#34;,&#34;y&#34;:483},{&#34;bar&#34;:&#34;Group Size&#34;,&#34;group&#34;:5,&#34;name&#34;:&#34;6.0&#34;,&#34;y&#34;:259},{&#34;bar&#34;:&#34;Group Size&#34;,&#34;group&#34;:6,&#34;name&#34;:&#34;7.0&#34;,&#34;y&#34;:197},{&#34;bar&#34;:&#34;Group Size&#34;,&#34;group&#34;:7,&#34;name&#34;:&#34;8.0&#34;,&#34;y&#34;:102},{&#34;bar&#34;:&#34;Group Size&#34;,&#34;group&#34;:8,&#34;name&#34;:&#34;9.0&#34;,&#34;y&#34;:84},{&#34;bar&#34;:&#34;Group Size&#34;,&#34;group&#34;:9,&#34;name&#34;:&#34;10.0&#34;,&#34;y&#34;:51},{&#34;bar&#34;:&#34;Group Size&#34;,&#34;group&#34;:10,&#34;name&#34;:&#34;11.0&#34;,&#34;y&#34;:33},{&#34;bar&#34;:&#34;Group Size&#34;,&#34;group&#34;:11,&#34;name&#34;:&#34;12.0&#34;,&#34;y&#34;:12},{&#34;bar&#34;:&#34;Group Size&#34;,&#34;group&#34;:12,&#34;name&#34;:&#34;13.0&#34;,&#34;y&#34;:14},{&#34;bar&#34;:&#34;Group Size&#34;,&#34;group&#34;:13,&#34;name&#34;:&#34;14.0&#34;,&#34;y&#34;:6},{&#34;bar&#34;:&#34;Group Size&#34;,&#34;group&#34;:14,&#34;name&#34;:&#34;15.0&#34;,&#34;y&#34;:9},{&#34;bar&#34;:&#34;Group Size&#34;,&#34;group&#34;:15,&#34;name&#34;:&#34;16.0&#34;,&#34;y&#34;:2}]}],&#34;height&#34;:714,&#34;marks&#34;:[{&#34;encode&#34;:{&#34;enter&#34;:{&#34;x&#34;:{&#34;field&#34;:&#34;group&#34;,&#34;scale&#34;:&#34;xscale&#34;}}},&#34;from&#34;:{&#34;facet&#34;:{&#34;data&#34;:&#34;table&#34;,&#34;groupby&#34;:&#34;group&#34;,&#34;name&#34;:&#34;facet&#34;}},&#34;marks&#34;:[{&#34;encode&#34;:{&#34;enter&#34;:{&#34;fill&#34;:{&#34;field&#34;:&#34;bar&#34;,&#34;scale&#34;:&#34;color&#34;},&#34;width&#34;:{&#34;band&#34;:1,&#34;scale&#34;:&#34;pos&#34;},&#34;x&#34;:{&#34;field&#34;:&#34;bar&#34;,&#34;scale&#34;:&#34;pos&#34;},&#34;y&#34;:{&#34;field&#34;:&#34;y&#34;,&#34;scale&#34;:&#34;yscale&#34;},&#34;y2&#34;:{&#34;scale&#34;:&#34;yscale&#34;,&#34;value&#34;:0}}},&#34;from&#34;:{&#34;data&#34;:&#34;facet&#34;},&#34;name&#34;:&#34;bars&#34;,&#34;type&#34;:&#34;rect&#34;}],&#34;scales&#34;:[{&#34;domain&#34;:{&#34;data&#34;:&#34;facet&#34;,&#34;field&#34;:&#34;bar&#34;},&#34;name&#34;:&#34;pos&#34;,&#34;range&#34;:&#34;width&#34;,&#34;type&#34;:&#34;band&#34;}],&#34;signals&#34;:[{&#34;name&#34;:&#34;width&#34;,&#34;update&#34;:&#34;bandwidth(&#39;xscale&#39;)&#34;}],&#34;type&#34;:&#34;group&#34;}],&#34;scales&#34;:[{&#34;domain&#34;:{&#34;data&#34;:&#34;table&#34;,&#34;field&#34;:&#34;group&#34;},&#34;name&#34;:&#34;xscale&#34;,&#34;padding&#34;:0.15,&#34;range&#34;:&#34;width&#34;,&#34;type&#34;:&#34;band&#34;},{&#34;domain&#34;:{&#34;data&#34;:&#34;table&#34;,&#34;field&#34;:&#34;group&#34;},&#34;name&#34;:&#34;xname&#34;,&#34;range&#34;:[&#34;1.0&#34;,&#34;2.0&#34;,&#34;3.0&#34;,&#34;4.0&#34;,&#34;5.0&#34;,&#34;6.0&#34;,&#34;7.0&#34;,&#34;8.0&#34;,&#34;9.0&#34;,&#34;10.0&#34;,&#34;11.0&#34;,&#34;12.0&#34;,&#34;13.0&#34;,&#34;14.0&#34;,&#34;15.0&#34;,&#34;16.0&#34;],&#34;type&#34;:&#34;ordinal&#34;},{&#34;domain&#34;:{&#34;data&#34;:&#34;table&#34;,&#34;field&#34;:&#34;y&#34;},&#34;name&#34;:&#34;yscale&#34;,&#34;nice&#34;:true,&#34;range&#34;:&#34;height&#34;,&#34;type&#34;:&#34;linear&#34;,&#34;zero&#34;:true},{&#34;domain&#34;:{&#34;data&#34;:&#34;table&#34;,&#34;field&#34;:&#34;bar&#34;},&#34;name&#34;:&#34;color&#34;,&#34;range&#34;:[&#34;#769bb0&#34;],&#34;type&#34;:&#34;ordinal&#34;}],&#34;title&#34;:{&#34;color&#34;:&#34;#383838&#34;,&#34;font&#34;:&#34;Nunito Sans, Helvetica, sans-serif&#34;,&#34;fontSize&#34;:20,&#34;fontWeight&#34;:&#34;normal&#34;,&#34;offset&#34;:15,&#34;text&#34;:&#34;Distance per Trip&#34;},&#34;width&#34;:2162};
+		opt = { mode: &#34;vega-lite&#34;, actions: false };
+		var width, clientWidth;
+		
+			width = parseInt(&#34;700&#34;);
+		
+		clientWidth = document.getElementById(&#39;distance&#39;).clientWidth;
+		if(clientWidth &lt; width) {
+			width = clientWidth;
+		}
+		vizSpec[&#39;width&#39;] = width;
+		vizSpec[&#34;autosize&#34;] = {
+			&#34;type&#34;: &#34;fit&#34;,
+			&#34;contains&#34;: &#34;padding&#34;
+		};
+		vegaEmbed(&#39;#distance&#39;, vizSpec, opt, function(error, result) {
+				return;
+		});
+	}
+	if(window.addEventListener){
+		window.addEventListener(&#39;load&#39;, viz);
+	}else{
+		window.attachEvent(&#39;onload&#39;, viz);
+	}
+&lt;/script&gt;
+&lt;/p&gt;
+
+&lt;h3 id=&#34;another-surprising-maybe-not-so-surprising-thing-is-most-rides-begin-after-lunch-time&#34;&gt;Another surprising (maybe not so surprising) thing is most rides begin after lunch-time.&lt;/h3&gt;
+
+&lt;p&gt;I suspect that people work in downtowns but don’t live there, and most of the scooters get distributed downtown areas. Therefore they use them to drive to lunch and after work to drive home or to the next transit stop. But they cannot drive from home to work. Or at least that seems to be the case.&lt;/p&gt;
+
+&lt;p&gt;But again this dataset is very narrow, only three months of data and only one city.&lt;/p&gt;
+
+&lt;p&gt;&lt;div id=&#34;time&#34; height=&#34;400&#34;&gt;&lt;/div&gt;&lt;script type=&#34;text/javascript&#34;&gt;
+	viz = function() {
+		
+		
+			
+		
+		
+		
+		vizSpec = {&#34;$schema&#34;:&#34;https://vega.github.io/schema/vega/v4.json&#34;,&#34;autosize&#34;:{&#34;contains&#34;:&#34;padding&#34;,&#34;type&#34;:&#34;fit&#34;},&#34;axes&#34;:[{&#34;encode&#34;:{&#34;labels&#34;:{&#34;update&#34;:{&#34;text&#34;:{&#34;signal&#34;:&#34;scale(&#39;xname&#39;, datum.value)&#34;}}}},&#34;labelColor&#34;:&#34;#383838&#34;,&#34;labelFont&#34;:&#34;Nunito Sans, Helvetica, sans-serif&#34;,&#34;labelFontSize&#34;:12,&#34;labelFontWeight&#34;:&#34;normal&#34;,&#34;labelPadding&#34;:10,&#34;orient&#34;:&#34;bottom&#34;,&#34;scale&#34;:&#34;xscale&#34;,&#34;tickSize&#34;:0,&#34;title&#34;:&#34;start time&#34;,&#34;titleColor&#34;:&#34;#686768&#34;,&#34;titleFont&#34;:&#34;Nunito Sans, Helvetica, sans-serif&#34;,&#34;titleFontSize&#34;:15,&#34;titleFontWeight&#34;:100,&#34;titlePadding&#34;:15},{&#34;labelColor&#34;:&#34;#383838&#34;,&#34;labelFont&#34;:&#34;Nunito Sans, Helvetica, sans-serif&#34;,&#34;labelFontSize&#34;:11,&#34;labelFontWeight&#34;:&#34;normal&#34;,&#34;labelOverlap&#34;:true,&#34;labelPadding&#34;:10,&#34;orient&#34;:&#34;left&#34;,&#34;scale&#34;:&#34;yscale&#34;,&#34;tickSize&#34;:3,&#34;title&#34;:&#34;Number of trips&#34;,&#34;titleColor&#34;:&#34;#686768&#34;,&#34;titleFont&#34;:&#34;Nunito Sans, Helvetica, sans-serif&#34;,&#34;titleFontSize&#34;:14,&#34;titleFontWeight&#34;:100,&#34;titlePadding&#34;:20}],&#34;background&#34;:&#34;white&#34;,&#34;data&#34;:[{&#34;name&#34;:&#34;table&#34;,&#34;values&#34;:[{&#34;bar&#34;:&#34;count&#34;,&#34;group&#34;:0,&#34;name&#34;:&#34;04:00&#34;,&#34;y&#34;:2},{&#34;bar&#34;:&#34;count&#34;,&#34;group&#34;:1,&#34;name&#34;:&#34;05:00&#34;,&#34;y&#34;:11},{&#34;bar&#34;:&#34;count&#34;,&#34;group&#34;:2,&#34;name&#34;:&#34;06:00&#34;,&#34;y&#34;:34},{&#34;bar&#34;:&#34;count&#34;,&#34;group&#34;:3,&#34;name&#34;:&#34;07:00&#34;,&#34;y&#34;:99},{&#34;bar&#34;:&#34;count&#34;,&#34;group&#34;:4,&#34;name&#34;:&#34;08:00&#34;,&#34;y&#34;:204},{&#34;bar&#34;:&#34;count&#34;,&#34;group&#34;:5,&#34;name&#34;:&#34;09:00&#34;,&#34;y&#34;:289},{&#34;bar&#34;:&#34;count&#34;,&#34;group&#34;:6,&#34;name&#34;:&#34;10:00&#34;,&#34;y&#34;:393},{&#34;bar&#34;:&#34;count&#34;,&#34;group&#34;:7,&#34;name&#34;:&#34;11:00&#34;,&#34;y&#34;:773},{&#34;bar&#34;:&#34;count&#34;,&#34;group&#34;:8,&#34;name&#34;:&#34;12:00&#34;,&#34;y&#34;:925},{&#34;bar&#34;:&#34;count&#34;,&#34;group&#34;:9,&#34;name&#34;:&#34;13:00&#34;,&#34;y&#34;:996},{&#34;bar&#34;:&#34;count&#34;,&#34;group&#34;:10,&#34;name&#34;:&#34;14:00&#34;,&#34;y&#34;:929},{&#34;bar&#34;:&#34;count&#34;,&#34;group&#34;:11,&#34;name&#34;:&#34;15:00&#34;,&#34;y&#34;:943},{&#34;bar&#34;:&#34;count&#34;,&#34;group&#34;:12,&#34;name&#34;:&#34;16:00&#34;,&#34;y&#34;:986},{&#34;bar&#34;:&#34;count&#34;,&#34;group&#34;:13,&#34;name&#34;:&#34;17:00&#34;,&#34;y&#34;:942},{&#34;bar&#34;:&#34;count&#34;,&#34;group&#34;:14,&#34;name&#34;:&#34;18:00&#34;,&#34;y&#34;:912},{&#34;bar&#34;:&#34;count&#34;,&#34;group&#34;:15,&#34;name&#34;:&#34;19:00&#34;,&#34;y&#34;:796},{&#34;bar&#34;:&#34;count&#34;,&#34;group&#34;:16,&#34;name&#34;:&#34;20:00&#34;,&#34;y&#34;:638},{&#34;bar&#34;:&#34;count&#34;,&#34;group&#34;:17,&#34;name&#34;:&#34;21:00&#34;,&#34;y&#34;:4}]}],&#34;height&#34;:714,&#34;marks&#34;:[{&#34;encode&#34;:{&#34;enter&#34;:{&#34;x&#34;:{&#34;field&#34;:&#34;group&#34;,&#34;scale&#34;:&#34;xscale&#34;}}},&#34;from&#34;:{&#34;facet&#34;:{&#34;data&#34;:&#34;table&#34;,&#34;groupby&#34;:&#34;group&#34;,&#34;name&#34;:&#34;facet&#34;}},&#34;marks&#34;:[{&#34;encode&#34;:{&#34;enter&#34;:{&#34;fill&#34;:{&#34;field&#34;:&#34;group&#34;,&#34;scale&#34;:&#34;color&#34;},&#34;width&#34;:{&#34;band&#34;:1,&#34;scale&#34;:&#34;pos&#34;},&#34;x&#34;:{&#34;field&#34;:&#34;bar&#34;,&#34;scale&#34;:&#34;pos&#34;},&#34;y&#34;:{&#34;field&#34;:&#34;y&#34;,&#34;scale&#34;:&#34;yscale&#34;},&#34;y2&#34;:{&#34;scale&#34;:&#34;yscale&#34;,&#34;value&#34;:0}}},&#34;from&#34;:{&#34;data&#34;:&#34;facet&#34;},&#34;name&#34;:&#34;bars&#34;,&#34;type&#34;:&#34;rect&#34;}],&#34;scales&#34;:[{&#34;domain&#34;:{&#34;data&#34;:&#34;facet&#34;,&#34;field&#34;:&#34;bar&#34;},&#34;name&#34;:&#34;pos&#34;,&#34;range&#34;:&#34;width&#34;,&#34;type&#34;:&#34;band&#34;}],&#34;signals&#34;:[{&#34;name&#34;:&#34;width&#34;,&#34;update&#34;:&#34;bandwidth(&#39;xscale&#39;)&#34;}],&#34;type&#34;:&#34;group&#34;}],&#34;scales&#34;:[{&#34;domain&#34;:{&#34;data&#34;:&#34;table&#34;,&#34;field&#34;:&#34;group&#34;},&#34;name&#34;:&#34;xscale&#34;,&#34;padding&#34;:0.15,&#34;range&#34;:&#34;width&#34;,&#34;type&#34;:&#34;band&#34;},{&#34;domain&#34;:{&#34;data&#34;:&#34;table&#34;,&#34;field&#34;:&#34;group&#34;},&#34;name&#34;:&#34;xname&#34;,&#34;range&#34;:[&#34;04:00&#34;,&#34;05:00&#34;,&#34;06:00&#34;,&#34;07:00&#34;,&#34;08:00&#34;,&#34;09:00&#34;,&#34;10:00&#34;,&#34;11:00&#34;,&#34;12:00&#34;,&#34;13:00&#34;,&#34;14:00&#34;,&#34;15:00&#34;,&#34;16:00&#34;,&#34;17:00&#34;,&#34;18:00&#34;,&#34;19:00&#34;,&#34;20:00&#34;,&#34;21:00&#34;],&#34;type&#34;:&#34;ordinal&#34;},{&#34;domain&#34;:{&#34;data&#34;:&#34;table&#34;,&#34;field&#34;:&#34;y&#34;},&#34;name&#34;:&#34;yscale&#34;,&#34;nice&#34;:true,&#34;range&#34;:&#34;height&#34;,&#34;type&#34;:&#34;linear&#34;,&#34;zero&#34;:true},{&#34;domain&#34;:{&#34;data&#34;:&#34;table&#34;,&#34;field&#34;:&#34;group&#34;},&#34;name&#34;:&#34;color&#34;,&#34;range&#34;:[&#34;#769bb0&#34;,&#34;#769bb0&#34;,&#34;#769bb0&#34;,&#34;#769bb0&#34;,&#34;#769bb0&#34;,&#34;#769bb0&#34;,&#34;#769bb0&#34;,&#34;#769bb0&#34;,&#34;#e24f4a&#34;,&#34;#e24f4a&#34;,&#34;#e24f4a&#34;,&#34;#e24f4a&#34;,&#34;#e24f4a&#34;,&#34;#e24f4a&#34;,&#34;#e24f4a&#34;,&#34;#e24f4a&#34;,&#34;#e24f4a&#34;,&#34;#e24f4a&#34;],&#34;type&#34;:&#34;ordinal&#34;}],&#34;title&#34;:{&#34;color&#34;:&#34;#383838&#34;,&#34;font&#34;:&#34;Nunito Sans, Helvetica, sans-serif&#34;,&#34;fontSize&#34;:20,&#34;fontWeight&#34;:&#34;normal&#34;,&#34;offset&#34;:15,&#34;text&#34;:&#34;Bird trips by hour of day&#34;},&#34;width&#34;:2162};
+		opt = { mode: &#34;vega-lite&#34;, actions: false };
+		var width, clientWidth;
+		
+			width = parseInt(&#34;700&#34;);
+		
+		clientWidth = document.getElementById(&#39;time&#39;).clientWidth;
+		if(clientWidth &lt; width) {
+			width = clientWidth;
+		}
+		vizSpec[&#39;width&#39;] = width;
+		vizSpec[&#34;autosize&#34;] = {
+			&#34;type&#34;: &#34;fit&#34;,
+			&#34;contains&#34;: &#34;padding&#34;
+		};
+		vegaEmbed(&#39;#time&#39;, vizSpec, opt, function(error, result) {
+				return;
+		});
+	}
+	if(window.addEventListener){
+		window.addEventListener(&#39;load&#39;, viz);
+	}else{
+		window.attachEvent(&#39;onload&#39;, viz);
+	}
+&lt;/script&gt;
+&lt;/p&gt;
+
+&lt;h3 id=&#34;the-not-so-surprising-result-is-that-most-rides-occur-on-saturdays-weekends&#34;&gt;The not so surprising result is that most rides occur on Saturdays (Weekends).&lt;/h3&gt;
+
+&lt;p&gt;Again most scooters are probably downtown and get used more often when people are downtown, for example for lunch or on Saturday for shopping or wandering around.&lt;/p&gt;
+
+&lt;p&gt;&lt;div id=&#34;weekday&#34; height=&#34;400&#34;&gt;&lt;/div&gt;&lt;script type=&#34;text/javascript&#34;&gt;
+	viz = function() {
+		
+		
+			
+		
+		
+		
+		vizSpec = {&#34;$schema&#34;:&#34;https://vega.github.io/schema/vega-lite/v3.json&#34;,&#34;data&#34;:{&#34;url&#34;:&#34;https://gist.githubusercontent.com/milafrerichs/5cb8610d514ced82aa98c7ddfac585ef/raw/00cf00002e1695b34647f6284ee3649e5180763f/trip_time_weekday.csv&#34;},&#34;description&#34;:&#34;A simple bar chart with embedded data.&#34;,&#34;encoding&#34;:{&#34;color&#34;:{&#34;field&#34;:&#34;weekday&#34;,&#34;legend&#34;:null,&#34;scale&#34;:{&#34;domain&#34;:[&#34;Monday&#34;,&#34;Tuesday&#34;,&#34;Wednesday&#34;,&#34;Thursday&#34;,&#34;Friday&#34;,&#34;Saturday&#34;,&#34;Sunday&#34;],&#34;range&#34;:[&#34;#769bb0&#34;,&#34;#769bb0&#34;,&#34;#769bb0&#34;,&#34;#769bb0&#34;,&#34;#769bb0&#34;,&#34;#e24f4a&#34;,&#34;#e24f4a&#34;],&#34;type&#34;:&#34;ordinal&#34;},&#34;type&#34;:&#34;nominal&#34;},&#34;x&#34;:{&#34;field&#34;:&#34;weekday&#34;,&#34;sort&#34;:[&#34;Monday&#34;,&#34;Tuesday&#34;,&#34;Wednesday&#34;,&#34;Thursday&#34;,&#34;Friday&#34;,&#34;Saturday&#34;,&#34;Sunday&#34;],&#34;title&#34;:&#34;Weekday&#34;,&#34;type&#34;:&#34;ordinal&#34;},&#34;y&#34;:{&#34;field&#34;:&#34;count&#34;,&#34;title&#34;:&#34;# trips&#34;,&#34;type&#34;:&#34;quantitative&#34;}},&#34;mark&#34;:&#34;bar&#34;,&#34;width&#34;:600};
+		opt = { mode: &#34;vega-lite&#34;, actions: false };
+		var width, clientWidth;
+		
+			width = parseInt(&#34;700&#34;);
+		
+		clientWidth = document.getElementById(&#39;weekday&#39;).clientWidth;
+		if(clientWidth &lt; width) {
+			width = clientWidth;
+		}
+		vizSpec[&#39;width&#39;] = width;
+		vizSpec[&#34;autosize&#34;] = {
+			&#34;type&#34;: &#34;fit&#34;,
+			&#34;contains&#34;: &#34;padding&#34;
+		};
+		vegaEmbed(&#39;#weekday&#39;, vizSpec, opt, function(error, result) {
+				return;
+		});
+	}
+	if(window.addEventListener){
+		window.addEventListener(&#39;load&#39;, viz);
+	}else{
+		window.attachEvent(&#39;onload&#39;, viz);
+	}
+&lt;/script&gt;
+&lt;/p&gt;
+
+&lt;p&gt;This was a first exciting dive into the dataset, and I look forward to the release of more data and maybe even more cities releasing their data. Also interesting would be if Lime and other Scooter providers would release their data.&lt;/p&gt;
+</description>
+			</item>
+			
+		
+		
+			<item>
+				<title>Gov Data</title>
+				<link>https://civicopendata.com/posts/govdata/</link>
+				<pubDate>Tue, 30 Oct 2018 16:08:58 +0000</pubDate>
+				
+				<guid>https://civicopendata.com/posts/govdata/</guid>
+				<description>&lt;p&gt;While I was developing my government funded prototype „Automated City Open Data Census“ for Germany I was so deep into scrambling with metadata that I decided to take a closer look at the types and formats that get published.&lt;/p&gt;
+
+&lt;p&gt;So I used the CKAN API to get basic data from CKAN about licenses used, data formats and categories.&lt;/p&gt;
+
+&lt;p&gt;A few not so supering facts are that not fully open licenes still dominate the field and PDF is the most published data format in Germany.&lt;/p&gt;
+
+&lt;p&gt;And then I thought I could take a closer look into the US portal run by the federal government (data.gov) which is a CKAN based portal. And they aggregate data from states, counties and cities in the US.&lt;/p&gt;
+
+&lt;p&gt;It is fast and updates automatically because it is using the API rather than a static file.&lt;/p&gt;
+
+&lt;p&gt;The most used format is a blank format, which means the metadata is not correct. Which is unfortunate. The second most used data format is HTML. Which is weird as well. But I see this often with data portals, they just link to a page and not to a dataset and then CKAN assumes it is just HTML and not the actual data format.&lt;/p&gt;
+
+&lt;div id=&#34;govdata-formats&#34;&gt;&lt;/div&gt;
+
+&lt;script type=&#34;text/javascript&#34;&gt;
+	viz = function() {
+		
+		
+			
+		
+		
+		
+		vizSpec = {&#34;$schema&#34;:&#34;https://vega.github.io/schema/vega-lite/v2.json&#34;,&#34;data&#34;:{&#34;format&#34;:{&#34;property&#34;:&#34;result.search_facets.res_format.items&#34;,&#34;type&#34;:&#34;json&#34;},&#34;url&#34;:&#34;https://catalog.data.gov/api/3/action/package_search?facet.field=[%22res_format%22]&#34;},&#34;encoding&#34;:{&#34;x&#34;:{&#34;field&#34;:&#34;count&#34;,&#34;type&#34;:&#34;quantitative&#34;},&#34;y&#34;:{&#34;field&#34;:&#34;name&#34;,&#34;sort&#34;:{&#34;field&#34;:&#34;count&#34;,&#34;op&#34;:&#34;sum&#34;,&#34;order&#34;:&#34;descending&#34;},&#34;type&#34;:&#34;ordinal&#34;}},&#34;mark&#34;:&#34;bar&#34;};
+		opt = { mode: &#34;vega-lite&#34;, actions: false };
+		var width, clientWidth;
+		
+			width = parseInt(&#34;700&#34;);
+		
+		clientWidth = document.getElementById(&#39;govdata-formats&#39;).clientWidth;
+		if(clientWidth &lt; width) {
+			width = clientWidth;
+		}
+		vizSpec[&#39;width&#39;] = width;
+		vizSpec[&#34;autosize&#34;] = {
+			&#34;type&#34;: &#34;fit&#34;,
+			&#34;contains&#34;: &#34;padding&#34;
+		};
+		vegaEmbed(&#39;#govdata-formats&#39;, vizSpec, opt, function(error, result) {
+				return;
+		});
+	}
+	if(window.addEventListener){
+		window.addEventListener(&#39;load&#39;, viz);
+	}else{
+		window.attachEvent(&#39;onload&#39;, viz);
+	}
+&lt;/script&gt;
+
+
+&lt;p&gt;Or let&amp;rsquo;s take a look at the licences used by gov.data. The most used license is the us-pd which is the &lt;a href=&#34;https://www.usa.gov/government-works&#34;&gt;U.S. Government Works license&lt;/a&gt;.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;usually prepared by officers or employees of the United States government as part of their official duties&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Which is a great sign that most of the licenses in the US is an open license. That is not the case in Germany.&lt;/p&gt;
+
+&lt;div id=&#34;govdata-licenses&#34;&gt;&lt;/div&gt;
+
+&lt;script type=&#34;text/javascript&#34;&gt;
+	viz = function() {
+		
+		
+			
+		
+		
+		
+		vizSpec = {&#34;$schema&#34;:&#34;https://vega.github.io/schema/vega-lite/v2.json&#34;,&#34;data&#34;:{&#34;format&#34;:{&#34;property&#34;:&#34;result.search_facets.license_id.items&#34;,&#34;type&#34;:&#34;json&#34;},&#34;url&#34;:&#34;https://catalog.data.gov/api/3/action/package_search?facet.field=[%22license_id%22]&#34;},&#34;encoding&#34;:{&#34;x&#34;:{&#34;field&#34;:&#34;count&#34;,&#34;type&#34;:&#34;quantitative&#34;},&#34;y&#34;:{&#34;field&#34;:&#34;name&#34;,&#34;sort&#34;:{&#34;field&#34;:&#34;count&#34;,&#34;op&#34;:&#34;sum&#34;,&#34;order&#34;:&#34;descending&#34;},&#34;type&#34;:&#34;ordinal&#34;}},&#34;mark&#34;:&#34;bar&#34;};
+		opt = { mode: &#34;vega-lite&#34;, actions: false };
+		var width, clientWidth;
+		
+			width = parseInt(&#34;700&#34;);
+		
+		clientWidth = document.getElementById(&#39;govdata-licenses&#39;).clientWidth;
+		if(clientWidth &lt; width) {
+			width = clientWidth;
+		}
+		vizSpec[&#39;width&#39;] = width;
+		vizSpec[&#34;autosize&#34;] = {
+			&#34;type&#34;: &#34;fit&#34;,
+			&#34;contains&#34;: &#34;padding&#34;
+		};
+		vegaEmbed(&#39;#govdata-licenses&#39;, vizSpec, opt, function(error, result) {
+				return;
+		});
+	}
+	if(window.addEventListener){
+		window.addEventListener(&#39;load&#39;, viz);
+	}else{
+		window.attachEvent(&#39;onload&#39;, viz);
+	}
+&lt;/script&gt;
+
+</description>
+			</item>
+			
+		
+		
+			<item>
+				<title>Posts</title>
+				<link>https://civicopendata.com/posts/</link>
+				<pubDate>Thu, 14 Mar 2019 09:27:08 +0100</pubDate>
+				
+				<guid>https://civicopendata.com/posts/</guid>
+				<description></description>
+			</item>
+			
+		
+  </channel>
+</rss>

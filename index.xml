@@ -6,57 +6,11 @@
     <description>Recent content on Civic Open Data</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 14 Mar 2019 09:27:08 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 09 Mar 2019 07:02:09 +0100</lastBuildDate>
     
         <atom:link href="https://civicopendata.com/index.xml" rel="self" type="application/rss+xml" />
     
 		
-		<item>
-			<title>What should be included with a map</title>
-			<link>https://civicopendata.com/posts/what-should-be-included-with-a-map/</link>
-			<pubDate>Thu, 14 Mar 2019 09:27:08 +0100</pubDate>
-			
-			<guid>https://civicopendata.com/posts/what-should-be-included-with-a-map/</guid>
-			<description>
-
-&lt;p&gt;Maps are a great way to visualize data that has a spatial component, and I love creating maps. There are a few things though that you should keep in mind when creating maps. These tips will help your readers to understand your map better and help you remember when and why you created the map.&lt;/p&gt;
-
-&lt;p&gt;Most of the time there are two kinds of maps: static maps and interactive maps. A static map can be an image but can also be zoomable but just not &amp;ldquo;interactable&amp;rdquo; map.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Must-Haves&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;In this post, I explain what I consider must-haves for maps. Every map should have them in one form or the other.&lt;/p&gt;
-
-&lt;h3 id=&#34;data-source&#34;&gt;Data Source&lt;/h3&gt;
-
-&lt;p&gt;The most critical aspect is your data source. Always include a link or a description of your data source so others can look it up if it is freely available. However, even if it&amp;rsquo;s not freely available, you should include some description where this data comes from and maybe include it in your methodology description you should be writing :)&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/civicvision/image/upload/v1552585943/Included%20in%20Map/sources.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;attributions&#34;&gt;Attributions&lt;/h3&gt;
-
-&lt;p&gt;If you use a basemap, you should include attribution for the source of your basemap. In most of my projects, I use some form of OSM data and always include the attribution to the source. Alternatively, if you have a static map without a basemap add some information about the source of your boundaries.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/civicvision/image/upload/v1552585943/Included%20in%20Map/attributions.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;title&#34;&gt;Title&lt;/h3&gt;
-
-&lt;p&gt;Not to forget is to include a title on your map. Moreover, the title should reflect your intent for creating the map. Make it descriptive, and then you can leave out the description :)&lt;/p&gt;
-
-&lt;p&gt;There is always room for the title.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/civicvision/image/upload/v1552585933/Included%20in%20Map/title.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;projection&#34;&gt;Projection&lt;/h3&gt;
-
-&lt;p&gt;Think about your projection. Don’t use the default of the library or tool you’re using. It is almost always wrong for your data. Don’t know much about projections? Take a look here.&lt;/p&gt;
-
-&lt;p&gt;As a general rule: please don’t use the default Mercator projection everyone used to use. All libraries now support different better-suited projections.&lt;/p&gt;
-</description>
-			<category domain="https://civicopendata.com/categories/maps">Maps</category>
-			
-		</item>
-    
 		<item>
 			<title>Volume 8: This Week in Civic Tech/Open Data</title>
 			<link>https://civicopendata.com/posts/this-week-in-civic-tech-open-data-wk10/</link>

@@ -23,11 +23,18 @@ A TALE OF FIVE CITIES AND HOW THEY GREW
 > Rail, roads, and real estate play a role in the physical shape of cities. So does geography. To track how metropolitan regions have developed, Shlomo Angel and his colleagues at New York University used historical maps and satellite imagery to create the Atlas of Urban Expansion. The atlas defines city parameters to include the entire built area beyond a city’s jurisdictional boundaries and into surrounding municipalities.
 
 **Takeaway:  
-Even very beautiful and hand-crafted maps have room for explanations and a legend :)** 
+Even very beautiful and hand-crafted maps have room for explanations and a legend :)**
 
 ### A day of transit in Melbourne, Australia
 
 ![](https://res.cloudinary.com/civicvision/image/upload/v1552926510/TWICT/Volume%209/melbourne-transit.png)
+
+Saw this one on LinkedIn and has no source or anything but it is beautiful to watch and since I was recently in Melbourne I found it fascinating. 
+
+_As I stated in my last post about "What should be included in a map" this map is missing all of it._ 
+
+**Takeaway:  
+At least include the source of your data on your map and a legend.** 
 
 ### Mayor's Plan to Climate-Proof Lower Manhattan
 
@@ -53,20 +60,6 @@ Even very beautiful and hand-crafted maps have room for explanations and a legen
 
 <hr />
 
-## Tools
-
-<hr />
-
 ## Tweets
 
 <hr />
-
-## Videos
-
-<hr />
-
-## Jobs
-
-<hr />
-
-## Upcoming Events

@@ -104,6 +104,8 @@ This is a nice visually appealing map with great use of annotations. Some of the
 
 ### [Vacant property demolishions in Baltimore](https://www.baltimoresun.com/news/maryland/politics/bs-md-ci-vacant-demolition-20190214-story.html)
 
+![](https://res.cloudinary.com/civicvision/image/upload/v1552926216/TWICT/Volume%209/vacant-demolished-baltimore.png)
+
 > The number of vacant houses in Baltimore has remained at almost 17,000 for years but housing officials have pledged to tear down large numbers of vacant buildings by June 30, 2020.
 
 I love that the Baltimore Sun is producing more data-driven content and sharing they're experience and code with all of us. Keep up the excellent work.
@@ -147,6 +149,7 @@ A well-done story about food assistance in California by Code for America.
 > But perhaps the most important part of Open Data Day is not the technology. It’s not the data, it’s not the APIs—it’s the people.
 
 ### [Findings from the Africa Open Data Index and Africa Data Revolution Report](https://blog.okfn.org/2019/03/05/how-open-is-government-data-in-africa/)
+
 > his regional version of our Global Open Data Index collected baseline data on open data publication in 30 African countries to provide input for the second Africa Data Revolution Report.
 
 <hr />

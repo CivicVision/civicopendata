@@ -1,5 +1,4 @@
 +++
-articles = []
 calendar_week_published = ""
 categories = ["This Week in Civic Tech"]
 date = "2019-03-18T17:51:49+01:00"
@@ -8,8 +7,63 @@ hero = ""
 images = []
 tags = ["civic tech", "open data"]
 title = "Volume 9: This Week in Civic Tech/Open Data"
-tweets = []
+tweets = ["1106271182305796096"]
 volume = 9
+[[articles]]
+category = "Open Data/Open Government"
+template = "article"
+title = "Getting the Work Done: What Government Innovation Really Looks Like"
+url = "https://www.newamerica.org/public-interest-technology/reports/problem-solving-government/"
+[[articles]]
+category = "Civic tech/Community"
+template = "article"
+title = "Mapping the impact of dockless vehicles"
+url = "https://www.smartcitiesdive.com/news/mapping-the-impact-of-dockless-vehicles/539263/"
+[[articles]]
+category = "Open Data/Open Government"
+template = "article"
+title = "Predictive Policing Using AI Tested by Bay Area Cops"
+url = "https://www.govtech.com/public-safety/Predictive-Policing-Using-AI-Tested-by-Bay-Area-Cops.html"
+[[articles]]
+category = "Open Data/Open Government"
+template = "article"
+title = "New Mexico Legislators Want Crime Data-Sharing Network"
+url = "https://www.govtech.com/public-safety/New-Mexico-Legislators-Want-Crime-Data-Sharing-Network.html"
+[[articles]]
+category = "Open Data/Open Government"
+template = "article"
+title = "A Different Kind of Smart City Project Revs Up in Lima, Ohio"
+url = "https://www.govtech.com/fs/A-Different-Kind-of-Smart-City-Project-Revs-Up-in-Lima-Ohio.html"
+[[articles]]
+category = "Open Data/Open Government"
+template = "article"
+title = "How data collected from mobile phones can help electricity planning"
+url = "https://thelivinglib.org/how-data-collected-from-mobile-phones-can-help-electricity-planning/"
+[[articles]]
+category = "Open Data/Open Government"
+template = "article"
+title = "Utah to shut down its innovation incubator"
+url = "https://statescoop.com/utah-to-shut-down-its-innovation-incubator/"
+[[articles]]
+category = "Civic tech/Community"
+template = "article"
+title = "The Value Proposition of Circular City Data for Economic Development GovLab Unveils Work at NewLab’s Circular City Public Showcase"
+url = "http://thegovlab.org/the-value-proposition-of-circular-city-data-for-economic-development-govlab-unveils-work-at-newlabs-circular-city-public-showcase/"
+[[articles]]
+category = "Civic tech/Community"
+template = "article"
+title = "Gov404: The Web Integrity Project’s Censorship Tracker"
+url = "https://sunlightfoundation.com/gov404/"
+[[articles]]
+category = "Open Data/Open Government"
+template = "article"
+title = "How open is your government? Find out."
+url = "https://www.muckrock.com/place/"
+[[articles]]
+category = "Open Data/Open Government"
+template = "article"
+title = "Eight years in, LAPD can’t measure PredPol’s effect on crime"
+url = "https://www.muckrock.com/news/archives/2019/mar/12/algorithms-lapd-predpol/"
 
 +++
 Not much was going on last week, so this roundup will be short and include some more data-driven journalism. The Baltimore Sun is busy producing data-driven stories, and I love that they share their process and code. The National Geographic is known for beautiful visualizations, and they show it off again :)
@@ -91,6 +145,9 @@ A well-done story about food assistance in California by Code for America.
 ### [Three Takeaways from Open Data Day 2019](https://medium.com/code-for-america/three-takeaways-from-open-data-day-2019-7929370e01e1?source=rss----5afc915f85d2---4)
 
 > But perhaps the most important part of Open Data Day is not the technology. It’s not the data, it’s not the APIs—it’s the people.
+
+### [Findings from the Africa Open Data Index and Africa Data Revolution Report](https://blog.okfn.org/2019/03/05/how-open-is-government-data-in-africa/)
+> his regional version of our Global Open Data Index collected baseline data on open data publication in 30 African countries to provide input for the second Africa Data Revolution Report.
 
 <hr />
 

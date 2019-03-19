@@ -45,7 +45,7 @@ fields:
     source:
       type: simple
 pages:
-- content/posts/volume-9-this-week-in-civic-tech-open-data.md
+- content/posts/this-week-in-civic-tech-open-data-wk11.md
 - content/posts/this-week-in-civic-tech-open-data-wk10.md
 - content/posts/this-week-in-civic-tech-open-data-wk9.md
 - content/posts/this-week-in-civic-tech-open-data-wk9.md

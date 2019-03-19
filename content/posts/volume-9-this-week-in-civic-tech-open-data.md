@@ -70,6 +70,8 @@ Very nice scrollytelling architecture critique with 3D animations by the NYT. Th
 
 ### Transit in Brooklyn
 
+![](https://res.cloudinary.com/civicvision/image/upload/v1552926721/TWICT/Volume%209/D1pb9cbX4AE12K6.jpg)
+
 > Interesting results from Bronx bus rider surveys conducted at MTA's workshops for redesigning the bus network.
 
 <hr />
@@ -100,12 +102,12 @@ A well-done story about food assistance in California by Code for America.
 
 ### Open Government/Open Data
 
-{{< articles "Open Data/Open Government" >}} 
+{{< articles "Open Data/Open Government" >}}
 
 <hr />
 
 ## Tweets
 
-{{< tweets >}} 
+{{< tweets >}}
 
 <hr />

@@ -6,11 +6,191 @@
     <description>Recent content on Civic Open Data</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 09 Mar 2019 07:02:09 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 18 Mar 2019 17:51:49 +0100</lastBuildDate>
     
         <atom:link href="https://civicopendata.com/index.xml" rel="self" type="application/rss+xml" />
     
 		
+		<item>
+			<title>Volume 9: This Week in Civic Tech/Open Data</title>
+			<link>https://civicopendata.com/posts/this-week-in-civic-tech-open-data-wk11/</link>
+			<pubDate>Mon, 18 Mar 2019 17:51:49 +0100</pubDate>
+			
+			<guid>https://civicopendata.com/posts/this-week-in-civic-tech-open-data-wk11/</guid>
+			<description>
+
+&lt;p&gt;Not much was going on last week, so this roundup will be short and include some more data-driven journalism. The Baltimore Sun is busy producing data-driven stories, and I love that they share their process and code. The National Geographic is known for beautiful visualizations, and they show it off again :)&lt;/p&gt;
+
+&lt;h2 id=&#34;visualizations&#34;&gt;Visualizations&lt;/h2&gt;
+
+&lt;h3 id=&#34;the-shape-of-cities-https-www-nationalgeographic-com-magazine-2019-04-maps-show-how-public-transit-and-geography-shape-cities&#34;&gt;&lt;a href=&#34;https://www.nationalgeographic.com/magazine/2019/04/maps-show-how-public-transit-and-geography-shape-cities/&#34;&gt;The Shape of cities&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/civicvision/image/upload/v1552926593/TWICT/Volume%209/shape-of-cities.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;A TALE OF FIVE CITIES AND HOW THEY GREW&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Rail, roads, and real estate play a role in the physical shape of cities. So does geography. To track how metropolitan regions have developed, Shlomo Angel and his colleagues at New York University used historical maps and satellite imagery to create the Atlas of Urban Expansion. The atlas defines city parameters to include the entire built area beyond a city’s jurisdictional boundaries and into surrounding municipalities.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;em&gt;These beautiful 4 maps of cities, three of them even with animation over time are nice to look at and show interesting patterns. The National Geographic has added some explanations to the graphs, and the dark theme works very well for the color scheme. Unfortunately, there is no information about the data sources they used.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Takeaway: Even wonderful and hand-crafted maps have room for explanations and a legend :)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;a-day-of-transit-in-melbourne-australia-https-www-notion-so-civicvision-438bce420d314a46b38f6d4a7cf39062-7eeab4f4b3bd4035bf7cd76e35ac76c5&#34;&gt;&lt;a href=&#34;https://www.notion.so/civicvision/438bce420d314a46b38f6d4a7cf39062#7eeab4f4b3bd4035bf7cd76e35ac76c5&#34;&gt;A day of transit in Melbourne, Australia&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/civicvision/image/upload/v1552926510/TWICT/Volume%209/melbourne-transit.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Saw this one on LinkedIn and has no source or anything but it is beautiful to watch, and since I was recently in Melbourne I found it fascinating to look at.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;I made a list in my last post about &amp;ldquo;What should be included in a map,&amp;rdquo; and this map is missing all of it.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Takeaway: At least include the source of your data on your map and a legend.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;mayor-s-plan-to-climate-proof-lower-manhattan&#34;&gt;[Mayor&amp;rsquo;s Plan to Climate-Proof Lower Manhattan]()&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/civicvision/image/upload/v1552926191/TWICT/Volume%209/ny-de-blasio-plan-flood.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Under the mayor’s new $10 billion plan, the waterfront of the Financial District will be built up to 500 feet into the East River to protect against flooding.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;This is a nice visually appealing map with great use of annotations. Some of them are harder to read and don&amp;rsquo;t offer too much information on their own, you have to read a text to know what&amp;rsquo;s going on with this map. I would have reduced the number of visible streets even further, they&amp;rsquo;re still distracting from the important data.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Takeaway: Too much supporting data can distract from your important data. Think about what needs to be included in a map and what might be a distraction.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;vacant-property-demolishions-in-baltimore-https-www-baltimoresun-com-news-maryland-politics-bs-md-ci-vacant-demolition-20190214-story-html&#34;&gt;&lt;a href=&#34;https://www.baltimoresun.com/news/maryland/politics/bs-md-ci-vacant-demolition-20190214-story.html&#34;&gt;Vacant property demolishions in Baltimore&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/civicvision/image/upload/v1552926216/TWICT/Volume%209/vacant-demolished-baltimore.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;The number of vacant houses in Baltimore has remained at almost 17,000 for years but housing officials have pledged to tear down large numbers of vacant buildings by June 30, 2020.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I love that the Baltimore Sun is producing more data-driven content and sharing they&amp;rsquo;re experience and code with all of us. Keep up the excellent work.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;I&amp;rsquo;m not sure how much value the point map adds here though. A heatmap or a hexmap would be more appropriate. It&amp;rsquo;s hard to see where significant clusters are. You can see it a little bit, but a different map type would have made the point more clearly. You would lose the interactivity but not sure it is necessary here. The map is embedded inside the story but is not referenced in the text.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Takeaway: Think about your map type choices. The default is often not the best choice. Think which type adds what kind of value to your data.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;hudson-yard-https-www-nytimes-com-interactive-2019-03-14-arts-design-hudson-yards-nyc-html&#34;&gt;&lt;a href=&#34;https://www.nytimes.com/interactive/2019/03/14/arts/design/hudson-yards-nyc.html&#34;&gt;Hudson Yard&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/civicvision/image/upload/v1552936522/TWICT/Volume%209/hudson-yard-nyt.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Hudson Yards Is Manhattan’s Biggest, Newest, Slickest Gated Community. Is This the Neighborhood New York Deserves?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Very nice scrollytelling architecture critique with 3D animations by the NYT. They zoom into each individual building and add explanations as shown above.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Takeaway: Scrollytelling is an excellent technique when done right.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;transit-in-brooklyn&#34;&gt;Transit in Brooklyn&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/civicvision/image/upload/v1552926721/TWICT/Volume%209/D1pb9cbX4AE12K6.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Interesting results from Bronx bus rider surveys conducted at MTA&amp;rsquo;s workshops for redesigning the bus network.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;civic-tech-open-data&#34;&gt;Civic Tech/Open Data&lt;/h2&gt;
+
+&lt;h3 id=&#34;why-californians-need-food-assistance-https-snapstories-codeforamerica-org&#34;&gt;&lt;a href=&#34;https://snapstories.codeforamerica.org/&#34;&gt;Why Californians need food assistance&lt;/a&gt;&lt;/h3&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Californians who receive food assistance come from all backgrounds, but many share a similar story: they were barely getting by financially when they were tipped into crisis by an unexpected expense or loss of income. This site shares their stories.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;A well-done story about food assistance in California by Code for America.&lt;/p&gt;
+
+&lt;h3 id=&#34;from-open-data-to-data-collaboratives-panel-reflects-on-the-case-for-data-stewardship-http-thegovlab-org-from-open-data-to-data-collaboratives-panel-reflects-on-the-case-for-data-stewardship&#34;&gt;&lt;a href=&#34;http://thegovlab.org/from-open-data-to-data-collaboratives-panel-reflects-on-the-case-for-data-stewardship/&#34;&gt;From Open Data to Data Collaboratives: Panel Reflects on the Case for Data Stewardship&lt;/a&gt;&lt;/h3&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;The GovLab hosted an official New York City Open Data Week panel on Monday, March 4th.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;three-takeaways-from-open-data-day-2019-https-medium-com-code-for-america-three-takeaways-from-open-data-day-2019-7929370e01e1-source-rss-5afc915f85d2-4&#34;&gt;&lt;a href=&#34;https://medium.com/code-for-america/three-takeaways-from-open-data-day-2019-7929370e01e1?source=rss----5afc915f85d2---4&#34;&gt;Three Takeaways from Open Data Day 2019&lt;/a&gt;&lt;/h3&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;But perhaps the most important part of Open Data Day is not the technology. It’s not the data, it’s not the APIs—it’s the people.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;findings-from-the-africa-open-data-index-and-africa-data-revolution-report-https-blog-okfn-org-2019-03-05-how-open-is-government-data-in-africa&#34;&gt;&lt;a href=&#34;https://blog.okfn.org/2019/03/05/how-open-is-government-data-in-africa/&#34;&gt;Findings from the Africa Open Data Index and Africa Data Revolution Report&lt;/a&gt;&lt;/h3&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;his regional version of our Global Open Data Index collected baseline data on open data publication in 30 African countries to provide input for the second Africa Data Revolution Report.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;articles&#34;&gt;Articles&lt;/h2&gt;
+
+&lt;h3 id=&#34;civic-tech-community&#34;&gt;Civic Tech/Community&lt;/h3&gt;
+
+&lt;div class=&#34;articles&#34;&gt;
+	&lt;ul&gt;
+		
+			&lt;li&gt;&lt;a href=&#34;https://www.smartcitiesdive.com/news/mapping-the-impact-of-dockless-vehicles/539263/&#34;&gt;Mapping the impact of dockless vehicles&lt;/a&gt;&lt;/li&gt;
+		
+			&lt;li&gt;&lt;a href=&#34;http://thegovlab.org/the-value-proposition-of-circular-city-data-for-economic-development-govlab-unveils-work-at-newlabs-circular-city-public-showcase/&#34;&gt;The Value Proposition of Circular City Data for Economic Development GovLab Unveils Work at NewLab’s Circular City Public Showcase&lt;/a&gt;&lt;/li&gt;
+		
+			&lt;li&gt;&lt;a href=&#34;https://sunlightfoundation.com/gov404/&#34;&gt;Gov404: The Web Integrity Project’s Censorship Tracker&lt;/a&gt;&lt;/li&gt;
+		
+	&lt;/ul&gt;
+&lt;/div&gt;
+
+
+&lt;h3 id=&#34;open-government-open-data&#34;&gt;Open Government/Open Data&lt;/h3&gt;
+
+&lt;div class=&#34;articles&#34;&gt;
+	&lt;ul&gt;
+		
+			&lt;li&gt;&lt;a href=&#34;https://www.newamerica.org/public-interest-technology/reports/problem-solving-government/&#34;&gt;Getting the Work Done: What Government Innovation Really Looks Like&lt;/a&gt;&lt;/li&gt;
+		
+			&lt;li&gt;&lt;a href=&#34;https://www.govtech.com/public-safety/Predictive-Policing-Using-AI-Tested-by-Bay-Area-Cops.html&#34;&gt;Predictive Policing Using AI Tested by Bay Area Cops&lt;/a&gt;&lt;/li&gt;
+		
+			&lt;li&gt;&lt;a href=&#34;https://www.govtech.com/public-safety/New-Mexico-Legislators-Want-Crime-Data-Sharing-Network.html&#34;&gt;New Mexico Legislators Want Crime Data-Sharing Network&lt;/a&gt;&lt;/li&gt;
+		
+			&lt;li&gt;&lt;a href=&#34;https://www.govtech.com/fs/A-Different-Kind-of-Smart-City-Project-Revs-Up-in-Lima-Ohio.html&#34;&gt;A Different Kind of Smart City Project Revs Up in Lima, Ohio&lt;/a&gt;&lt;/li&gt;
+		
+			&lt;li&gt;&lt;a href=&#34;https://thelivinglib.org/how-data-collected-from-mobile-phones-can-help-electricity-planning/&#34;&gt;How data collected from mobile phones can help electricity planning&lt;/a&gt;&lt;/li&gt;
+		
+			&lt;li&gt;&lt;a href=&#34;https://statescoop.com/utah-to-shut-down-its-innovation-incubator/&#34;&gt;Utah to shut down its innovation incubator&lt;/a&gt;&lt;/li&gt;
+		
+			&lt;li&gt;&lt;a href=&#34;https://www.muckrock.com/place/&#34;&gt;How open is your government? Find out.&lt;/a&gt;&lt;/li&gt;
+		
+			&lt;li&gt;&lt;a href=&#34;https://www.muckrock.com/news/archives/2019/mar/12/algorithms-lapd-predpol/&#34;&gt;Eight years in, LAPD can’t measure PredPol’s effect on crime&lt;/a&gt;&lt;/li&gt;
+		
+	&lt;/ul&gt;
+&lt;/div&gt;
+
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;tweets&#34;&gt;Tweets&lt;/h2&gt;
+
+
+  &lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;The Chicago Health Atlas with Kingsley from &lt;a href=&#34;https://twitter.com/ChiPublicHealth?ref_src=twsrc%5Etfw&#34;&gt;@ChiPublicHealth&lt;/a&gt;, Leslie from &lt;a href=&#34;https://twitter.com/CityTech_?ref_src=twsrc%5Etfw&#34;&gt;@CityTech_&lt;/a&gt; and Katy from &lt;a href=&#34;https://twitter.com/ClarityPartners?ref_src=twsrc%5Etfw&#34;&gt;@ClarityPartners&lt;/a&gt; at &lt;a href=&#34;https://twitter.com/hashtag/ChiHackNight?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#ChiHackNight&lt;/a&gt;.&lt;br&gt;&lt;br&gt;Check out where you can find over 170 health indicators for all 77 communities here:&lt;a href=&#34;https://t.co/fy5jLe7e9b&#34;&gt;https://t.co/fy5jLe7e9b&lt;/a&gt;&lt;a href=&#34;https://twitter.com/hashtag/publichealth?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#publichealth&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/web30?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#web30&lt;/a&gt; &lt;a href=&#34;https://t.co/6m7jI4BGmf&#34;&gt;pic.twitter.com/6m7jI4BGmf&lt;/a&gt;&lt;/p&gt;&amp;mdash; Raed Mansour (@reedmonseur) &lt;a href=&#34;https://twitter.com/reedmonseur/status/1105619082760646656?ref_src=twsrc%5Etfw&#34;&gt;March 12, 2019&lt;/a&gt;&lt;/blockquote&gt;
+
+
+
+
+  &lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;We&amp;#39;re teaming up w/&lt;a href=&#34;https://twitter.com/TomTomFest?ref_src=twsrc%5Etfw&#34;&gt;@TomTomFest&lt;/a&gt; to spread &lt;a href=&#34;https://twitter.com/hashtag/data?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#data&lt;/a&gt; best practices to more cities. &lt;a href=&#34;https://twitter.com/hashtag/TomTomFest?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#TomTomFest&lt;/a&gt; will give new cities that complete a WWC Certification assessment by 3/31 a ticket to its Civic Innovation Conference on 4/10. Get going on your assessment, here. ➡️ &lt;a href=&#34;https://t.co/FVRcr4nqEx&#34;&gt;https://t.co/FVRcr4nqEx&lt;/a&gt; &lt;a href=&#34;https://t.co/uAFEQjv168&#34;&gt;pic.twitter.com/uAFEQjv168&lt;/a&gt;&lt;/p&gt;&amp;mdash; What Works Cities (@WhatWorksCities) &lt;a href=&#34;https://twitter.com/WhatWorksCities/status/1106271182305796096?ref_src=twsrc%5Etfw&#34;&gt;March 14, 2019&lt;/a&gt;&lt;/blockquote&gt;
+
+
+
+
+
+
+&lt;hr /&gt;
+</description>
+			
+			<category domain="https://civicopendata.com/categories/this-week-in-civic-tech">This Week in Civic Tech</category>
+			
+		</item>
+    
 		<item>
 			<title>Volume 8: This Week in Civic Tech/Open Data</title>
 			<link>https://civicopendata.com/posts/this-week-in-civic-tech-open-data-wk10/</link>

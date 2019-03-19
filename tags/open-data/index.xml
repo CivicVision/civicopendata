@@ -6,10 +6,21 @@
     <description>Recent content in Open Data on Civic Open Data</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 09 Mar 2019 07:02:09 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 18 Mar 2019 17:51:49 +0100</lastBuildDate>
     
 	<atom:link href="https://civicopendata.com/tags/open-data/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Volume 9: This Week in Civic Tech/Open Data</title>
+      <link>https://civicopendata.com/posts/this-week-in-civic-tech-open-data-wk11/</link>
+      <pubDate>Mon, 18 Mar 2019 17:51:49 +0100</pubDate>
+      
+      <guid>https://civicopendata.com/posts/this-week-in-civic-tech-open-data-wk11/</guid>
+      <description>Not much was going on last week, so this roundup will be short and include some more data-driven journalism. The Baltimore Sun is busy producing data-driven stories, and I love that they share their process and code. The National Geographic is known for beautiful visualizations, and they show it off again :)
+Visualizations The Shape of cities A TALE OF FIVE CITIES AND HOW THEY GREW
+ Rail, roads, and real estate play a role in the physical shape of cities.</description>
+    </item>
     
     <item>
       <title>Volume 8: This Week in Civic Tech/Open Data</title>

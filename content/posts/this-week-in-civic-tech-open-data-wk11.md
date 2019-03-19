@@ -1,10 +1,9 @@
 +++
-calendar_week_published = ""
+calendar_week_published = 11
 categories = ["This Week in Civic Tech"]
 date = "2019-03-18T17:51:49+01:00"
-draft = true
 hero = ""
-images = []
+images = ["https://res.cloudinary.com/civicvision/image/upload/c_fill,h_600,w_800/c_fill,h_600,w_800,x_800,l_TWICT:Volume%209:melbourne-transit/c_fill,h_600,w_800,x_-400,y_600,l_TWICT:Volume%209:hudson-yard-nyt/c_fill,h_600,w_800,x_400,y_300,l_TWICT:Volume%209:ny-de-blasio-plan-flood/TWICT/Volume%209/shape-of-cities"]
 tags = ["civic tech", "open data"]
 title = "Volume 9: This Week in Civic Tech/Open Data"
 tweets = ["1105619082760646656", "1106271182305796096"]

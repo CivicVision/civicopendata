@@ -7,7 +7,7 @@ hero = ""
 images = []
 tags = ["civic tech", "open data"]
 title = "Volume 9: This Week in Civic Tech/Open Data"
-tweets = ["1106271182305796096"]
+tweets = ["1105619082760646656", "1106271182305796096"]
 volume = 9
 [[articles]]
 category = "Open Data/Open Government"

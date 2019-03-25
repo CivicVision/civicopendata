@@ -6,11 +6,190 @@
     <description>Recent content in This week in Civic Tech/Open Data on Civic Open Data</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 18 Mar 2019 17:51:49 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 25 Mar 2019 22:45:11 +0100</lastBuildDate>
     
         <atom:link href="https://civicopendata.com/categories/this-week-in-civic-tech/index.xml" rel="self" type="application/rss+xml" />
     
 		
+		<item>
+			<title>Volume 10: This Week in Civic Tech/Open Data</title>
+			<link>https://civicopendata.com/posts/this-week-in-civic-tech-open-data-wk12/</link>
+			<pubDate>Mon, 25 Mar 2019 22:45:11 +0100</pubDate>
+			
+			<guid>https://civicopendata.com/posts/this-week-in-civic-tech-open-data-wk12/</guid>
+			<description>
+
+&lt;p&gt;This Week was a slow week for visualizations, but we have a lot of tweets of what folks talked about in Civic Tech. And the Shifting Neighborhoods story makes up for it, because it is so great.&lt;/p&gt;
+
+&lt;h2 id=&#34;visualizations&#34;&gt;Visualizations&lt;/h2&gt;
+
+&lt;h3 id=&#34;shifting-neighborhoods-http-maps-ncrc-org-gentrificationreport-index-html&#34;&gt;&lt;a href=&#34;http://maps.ncrc.org/gentrificationreport/index.html&#34;&gt;SHIFTING NEIGHBORHOODS&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;Gentrification and cultural displacement in American cities&lt;/p&gt;
+
+&lt;p&gt;This report is sad but very well made. It looks at census tracts and their development over time and calculates if they are gentrified and if there is a social displacement happening as well.&lt;/p&gt;
+
+&lt;p&gt;There are a ton of graphics in this report that helps make the point.&lt;br /&gt;
+Let&amp;rsquo;s dive a little deeper, but I think this should be a separate post.&lt;/p&gt;
+
+&lt;p&gt;The next graphic is a little misleading or does not make an excellent point. Bigger cities tend to have more neighborhoods gentrified because they have more census tracts. They have identified 1000 census tracts to be gentrified. If a census tract has on average a population of 4000 (source), this means that 4,000,000 people or ~1% of the US population are facing or faced gentrification.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/civicvision/image/upload/v1553503380/TWICT/Volume%2010/shifting-neighborhoods-bublle-map.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;They have a graph later that would be much better suited for this map: &amp;ldquo;Cities with high percentages of eligible gentrifying neighborhoods.&amp;rdquo; And it paints a more nuanced picture.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/civicvision/image/upload/v1553504949/TWICT/Volume%2010/shifting-neighbourhoods-intensity.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;They also include an interactive version of their map but &amp;ldquo;only&amp;rdquo; for the tracts, not the bubble maps.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/civicvision/image/upload/v1553503385/TWICT/Volume%2010/shifting-neighborhoods-sandiego.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Takeaway:&lt;br /&gt;
+Be aware of population maps. Mapping an absolute number only makes sense in very limited cases.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;airbnb-data-https-data-opendatasoft-com-pages-airbnb&#34;&gt;&lt;a href=&#34;https://data.opendatasoft.com/pages/airbnb/&#34;&gt;AirBnB Data&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/civicvision/image/upload/v1553543174/TWICT/Volume%2010/airbnb-sandiego.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;New airbnb dashboard built on our open data network, showing valuable insights for cities real estate. How are prices evolving? The number of rooms available? Easily analyze over a million records worldwide&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;It&amp;rsquo;s excellent that AirBnB finally shares some more detailed data and I encourage everyone to check this out. There are a lot of cities available. But there is no legend for the colors. You need to click individual neighborhoods to see the underlying data.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Takeaway:&lt;br /&gt;
+Always include your legend. Make it easier for your users to understand  your map.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;civic-tech&#34;&gt;Civic Tech&lt;/h2&gt;
+
+&lt;h3 id=&#34;boston-birth-certificate-app-https-medium-com-innovation-and-technology-need-a-boston-birth-certificate-you-can-now-order-one-online-bef8efcf144&#34;&gt;&lt;a href=&#34;https://medium.com/innovation-and-technology/need-a-boston-birth-certificate-you-can-now-order-one-online-bef8efcf144&#34;&gt;Boston Birth Certificate App&lt;/a&gt;&lt;/h3&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Need a Boston birth certificate? You can now order one online.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Great writeup about the way the City of Boston built the Birth Certificate app.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;At the beginning of this project, we invested time researching the reasons why people get birth certificates. The goal was to understand who the audience for the application was, and to ensure our design met their needs.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;city-of-louisville-builds-open-source-traffic-tools-using-data-collaboration-and-the-cloud-https-aws-amazon-com-de-blogs-publicsector-city-of-louisville-builds-a-traffic-analysis-model-using-open-data-and-machine-learning&#34;&gt;&lt;a href=&#34;https://aws.amazon.com/de/blogs/publicsector/city-of-louisville-builds-a-traffic-analysis-model-using-open-data-and-machine-learning/&#34;&gt;City of Louisville Builds Open Source Traffic Tools using Data, Collaboration, and the Cloud&lt;/a&gt;&lt;/h3&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Using AWS, Schnuerle, and his team have created an open-source, cloud-based system for historic and real-time querying, analysis, API hooks, mapping, and integrations. Instead of paying $50,000 for a multi-week traffic study to see if your road configuration changes had an impact, you can use this Waze cloud database at no cost for instant, unlimited results.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;civic-tech-reads-of-the-week-https-www-citizenlab-co-blog-civic-engagement-civic-tech-reads-of-the-week-5-utm-source-twitter-utm-medium-smo-utm-campaign-general-blog&#34;&gt;&lt;a href=&#34;https://www.citizenlab.co/blog/civic-engagement/civic-tech-reads-of-the-week-5/?utm_source=twitter&amp;amp;utm_medium=smo&amp;amp;utm_campaign=general_blog&#34;&gt;Civic Tech Reads of the Week&lt;/a&gt;&lt;/h3&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;We’ve got quite the selection this week, ranging from the French gilets jaunes to the nature of online identities. Missed your last weekly dose of mind-boggling reads?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;new-dataset-detailed-manifest-all-incoming-containers-at-port-of-savannnah-2018-https-data-world-opensavannah-port-of-savannah-2018-bill-of-lading&#34;&gt;&lt;a href=&#34;https://data.world/opensavannah/port-of-savannah-2018-bill-of-lading&#34;&gt;New dataset: Detailed Manifest - All Incoming Containers at Port of Savannnah, 2018&lt;/a&gt;&lt;/h3&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;1.3 million records of all incoming bills of lading arriving at Port of Savannah during 2018.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;new-app-adapt-a-drain-durham-https-www-draindurham-org&#34;&gt;&lt;a href=&#34;https://www.draindurham.org/&#34;&gt;New App: Adapt a Drain Durham&lt;/a&gt;&lt;/h3&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;articles&#34;&gt;Articles&lt;/h2&gt;
+
+&lt;h3 id=&#34;civic-tech-community&#34;&gt;Civic Tech/Community&lt;/h3&gt;
+
+&lt;div class=&#34;articles&#34;&gt;
+	&lt;ul&gt;
+		
+			&lt;li&gt;&lt;a href=&#34;https://www.betterplace-lab.org/de/d%e2%80%a2lab-a-program-for-innovators-for-digital-democracy-from-ukraine/&#34;&gt;D•lab – a program for innovators for digital democracy from Ukraine&lt;/a&gt;&lt;/li&gt;
+		
+			&lt;li&gt;&lt;a href=&#34;https://government.diginomica.com/2019/03/21/participatory-budgeting-is-civic-techs-role-fuelling-disillusionment-with-democracy/&#34;&gt;Participatory budgeting – is civic tech’s role fuelling disillusionment with democracy?&lt;/a&gt;&lt;/li&gt;
+		
+			&lt;li&gt;&lt;a href=&#34;https://government.diginomica.com/2019/03/19/mysociety-civic-tech-needs-to-take-a-long-hard-look-at-itself/&#34;&gt;mySociety – ‘Civic Tech needs to take a long, hard look at itself’&lt;/a&gt;&lt;/li&gt;
+		
+			&lt;li&gt;&lt;a href=&#34;https://sunlightfoundation.com/2019/03/21/running-a-scope-a-thon-for-maximum-impact/&#34;&gt;Running a scope-a-thon for maximum impact&lt;/a&gt;&lt;/li&gt;
+		
+	&lt;/ul&gt;
+&lt;/div&gt;
+
+
+&lt;h3 id=&#34;open-government-open-data&#34;&gt;Open Government/Open Data&lt;/h3&gt;
+
+&lt;p&gt;&lt;div class=&#34;articles&#34;&gt;
+	&lt;ul&gt;
+		
+			&lt;li&gt;&lt;a href=&#34;https://www.nextgov.com/ideas/2019/03/getting-leaders-onboard-data-governance/155623/&#34;&gt;Getting Leaders Onboard for Data Governance&lt;/a&gt;&lt;/li&gt;
+		
+			&lt;li&gt;&lt;a href=&#34;https://www.nextgov.com/cio-briefing/2019/03/whats-next-government-data/155456/&#34;&gt;What’s Next for Government Data&lt;/a&gt;&lt;/li&gt;
+		
+			&lt;li&gt;&lt;a href=&#34;https://statescoop.com/how-the-nypd-is-using-machine-learning-to-spot-crime-patterns/&#34;&gt;How the NYPD is using machine learning to spot crime patterns&lt;/a&gt;&lt;/li&gt;
+		
+	&lt;/ul&gt;
+&lt;/div&gt;
+ &lt;hr /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;tweets&#34;&gt;Tweets&lt;/h2&gt;
+
+&lt;p&gt;
+  &lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;@DurhamStormH20 &lt;a href=&#34;https://twitter.com/CityofDurhamNC?ref_src=twsrc%5Etfw&#34;&gt;@CityofDurhamNC&lt;/a&gt; Help your community by adopting a drain during Creek Week at &lt;a href=&#34;https://t.co/Anw1fifHKc&#34;&gt;https://t.co/Anw1fifHKc&lt;/a&gt; .  It&amp;#39;s free and only takes a few minutes! &lt;a href=&#34;https://twitter.com/hashtag/stormwater?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#stormwater&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/durham?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#durham&lt;/a&gt;&lt;/p&gt;&amp;mdash; Code for Durham (@codefordurham) &lt;a href=&#34;https://twitter.com/codefordurham/status/1108362585462722560?ref_src=twsrc%5Etfw&#34;&gt;March 20, 2019&lt;/a&gt;&lt;/blockquote&gt;
+
+
+
+
+  &lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;The Office on Women’s Health (OWH) is seeking new ways to get health messages out to women and girls. $200,000 in prizes! &lt;a href=&#34;https://t.co/gR8j0C7RZD&#34;&gt;https://t.co/gR8j0C7RZD&lt;/a&gt;&lt;/p&gt;&amp;mdash; Code for Atlanta (@codeforatlanta) &lt;a href=&#34;https://twitter.com/codeforatlanta/status/1108464785094529024?ref_src=twsrc%5Etfw&#34;&gt;March 20, 2019&lt;/a&gt;&lt;/blockquote&gt;
+
+
+
+
+  &lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;From transparence to inclusivity and debate depolarisation, here are our 7 key takeaways from the &lt;a href=&#34;https://twitter.com/hashtag/TICTeC?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#TICTeC&lt;/a&gt; 2019 conference! &lt;a href=&#34;https://t.co/QRbEExgXFi&#34;&gt;https://t.co/QRbEExgXFi&lt;/a&gt; 🗒️ cc &lt;a href=&#34;https://twitter.com/mySociety?ref_src=twsrc%5Etfw&#34;&gt;@mySociety&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/civictech?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#civictech&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/digitaldemocracy?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#digitaldemocracy&lt;/a&gt;&lt;/p&gt;&amp;mdash; CitizenLab (@citizenlabco) &lt;a href=&#34;https://twitter.com/citizenlabco/status/1109083055623467008?ref_src=twsrc%5Etfw&#34;&gt;March 22, 2019&lt;/a&gt;&lt;/blockquote&gt;
+
+
+
+
+  &lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Thanks to Fellow &lt;a href=&#34;https://twitter.com/NevinTaylor?ref_src=twsrc%5Etfw&#34;&gt;@NevinTaylor&lt;/a&gt; for his impactful work at the &lt;a href=&#34;https://twitter.com/StateDept?ref_src=twsrc%5Etfw&#34;&gt;@StateDept&lt;/a&gt;. You too can join the &lt;a href=&#34;https://twitter.com/hashtag/CivicTechService?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#CivicTechService&lt;/a&gt;. We are growing and actively recruiting for our summer cohort----&amp;gt; &lt;a href=&#34;https://t.co/3HtJnSj2bZ&#34;&gt;https://t.co/3HtJnSj2bZ&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/CivicTech?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#CivicTech&lt;/a&gt; &lt;a href=&#34;https://t.co/CMiHa88DBb&#34;&gt;pic.twitter.com/CMiHa88DBb&lt;/a&gt;&lt;/p&gt;&amp;mdash; PIF (@InnovFellows) &lt;a href=&#34;https://twitter.com/InnovFellows/status/1109087573245337600?ref_src=twsrc%5Etfw&#34;&gt;March 22, 2019&lt;/a&gt;&lt;/blockquote&gt;
+
+
+
+
+  &lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;This week &lt;a href=&#34;https://twitter.com/luminategroup?ref_src=twsrc%5Etfw&#34;&gt;@luminategroup&lt;/a&gt; announced a shift in their approach to &lt;a href=&#34;https://twitter.com/hashtag/CivicTech?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#CivicTech&lt;/a&gt; funding, with increased focus on nontechnical advocacy. It may seem obvious, but it took civic tech groups a long time to learn that &amp;quot;technology is not the panacea for engagement&amp;quot;. &lt;a href=&#34;https://t.co/fUYRMQSFza&#34;&gt;https://t.co/fUYRMQSFza&lt;/a&gt;&lt;/p&gt;&amp;mdash; Soren Spicknall (@SorenSpicknall) &lt;a href=&#34;https://twitter.com/SorenSpicknall/status/1109098674217463809?ref_src=twsrc%5Etfw&#34;&gt;March 22, 2019&lt;/a&gt;&lt;/blockquote&gt;
+
+
+
+
+  &lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;&amp;quot;The goal of Government as a Platform must be able to enable radically better services for the public.&amp;quot;&lt;a href=&#34;https://twitter.com/richardjpope?ref_src=twsrc%5Etfw&#34;&gt;@richardjpope&lt;/a&gt; starts off a series on the emergence and implications of digital platforms in government. &lt;a href=&#34;https://t.co/T8n28nwj8X&#34;&gt;https://t.co/T8n28nwj8X&lt;/a&gt;&lt;/p&gt;&amp;mdash; Code for Canada 🇨🇦 (@code4ca) &lt;a href=&#34;https://twitter.com/code4ca/status/1109135167283695617?ref_src=twsrc%5Etfw&#34;&gt;March 22, 2019&lt;/a&gt;&lt;/blockquote&gt;
+
+
+
+
+  &lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;&amp;quot;The project intentionally does not look at path-dependencies of today’s governmental institutions. On the contrary, it opens up the imagination by exploring new future forms of government that are driven by the needs of diverse stakeholders.&amp;quot; &lt;a href=&#34;https://t.co/GAQ7NGEpOH&#34;&gt;https://t.co/GAQ7NGEpOH&lt;/a&gt; &lt;a href=&#34;https://twitter.com/g0vtw?ref_src=twsrc%5Etfw&#34;&gt;@g0vtw&lt;/a&gt;&lt;/p&gt;&amp;mdash; code-for-PDX (@codeForPDX) &lt;a href=&#34;https://twitter.com/codeForPDX/status/1109120081156411392?ref_src=twsrc%5Etfw&#34;&gt;March 22, 2019&lt;/a&gt;&lt;/blockquote&gt;
+
+
+
+
+  &lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;&amp;quot;How will citizens, together with other actors, shape governments, policies and democracy in 2030 and beyond?&amp;quot; &lt;a href=&#34;https://t.co/GAQ7NGEpOH&#34;&gt;https://t.co/GAQ7NGEpOH&lt;/a&gt; &lt;a href=&#34;https://twitter.com/PDXCityClub?ref_src=twsrc%5Etfw&#34;&gt;@PDXCityClub&lt;/a&gt; &lt;a href=&#34;https://twitter.com/comm_civic_life?ref_src=twsrc%5Etfw&#34;&gt;@comm_civic_life&lt;/a&gt;&lt;/p&gt;&amp;mdash; code-for-PDX (@codeForPDX) &lt;a href=&#34;https://twitter.com/codeForPDX/status/1109115875766894593?ref_src=twsrc%5Etfw&#34;&gt;March 22, 2019&lt;/a&gt;&lt;/blockquote&gt;
+
+
+
+
+  &lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Excited about &lt;a href=&#34;https://twitter.com/GavinNewsom?ref_src=twsrc%5Etfw&#34;&gt;@GavinNewsom&lt;/a&gt; &amp;#39;s proposed Office of Digital Innovation?  So are we! &lt;a href=&#34;https://t.co/8tFQ1cevWe&#34;&gt;https://t.co/8tFQ1cevWe&lt;/a&gt; … &lt;a href=&#34;https://twitter.com/StuartDrown?ref_src=twsrc%5Etfw&#34;&gt;@StuartDrown&lt;/a&gt; &lt;a href=&#34;https://twitter.com/Pete4CA?ref_src=twsrc%5Etfw&#34;&gt;@Pete4CA&lt;/a&gt; &lt;a href=&#34;https://twitter.com/patwater?ref_src=twsrc%5Etfw&#34;&gt;@patwater&lt;/a&gt; &lt;a href=&#34;https://twitter.com/ninakin9?ref_src=twsrc%5Etfw&#34;&gt;@ninakin9&lt;/a&gt; &lt;a href=&#34;https://twitter.com/JeanneHolm?ref_src=twsrc%5Etfw&#34;&gt;@JeanneHolm&lt;/a&gt; &lt;a href=&#34;https://twitter.com/pahlkadot?ref_src=twsrc%5Etfw&#34;&gt;@pahlkadot&lt;/a&gt; &lt;a href=&#34;https://twitter.com/LuzRivas?ref_src=twsrc%5Etfw&#34;&gt;@LuzRivas&lt;/a&gt; &lt;a href=&#34;https://twitter.com/laurafriedman43?ref_src=twsrc%5Etfw&#34;&gt;@laurafriedman43&lt;/a&gt; &lt;a href=&#34;https://twitter.com/CityGrows?ref_src=twsrc%5Etfw&#34;&gt;@CityGrows&lt;/a&gt;&lt;/p&gt;&amp;mdash; Catherine Geanuracos (@geanuracos) &lt;a href=&#34;https://twitter.com/geanuracos/status/1109200099538665472?ref_src=twsrc%5Etfw&#34;&gt;March 22, 2019&lt;/a&gt;&lt;/blockquote&gt;
+
+
+
+
+  &lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Connect with those who make water work this &lt;a href=&#34;https://twitter.com/hashtag/WorldWaterDay?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#WorldWaterDay&lt;/a&gt;, creating Smart Sewers, enabling Digital Engagement, Bridging Siloes to support global collaboration on our world&amp;#39;s water challenges:  &lt;a href=&#34;https://t.co/UX0K6wzXCP&#34;&gt;https://t.co/UX0K6wzXCP&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/WaterTech?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#WaterTech&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/CivicTech?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#CivicTech&lt;/a&gt;&lt;/p&gt;&amp;mdash; Mary Conley Eggert (@MaryEggert) &lt;a href=&#34;https://twitter.com/MaryEggert/status/1109118876246306819?ref_src=twsrc%5Etfw&#34;&gt;March 22, 2019&lt;/a&gt;&lt;/blockquote&gt;
+
+
+
+
+ &lt;hr /&gt;&lt;/p&gt;
+</description><category domain="https://civicopendata.com/categories/this-week-in-civic-tech">This Week in Civic Tech</category>
+			
+		</item>
+    
 		<item>
 			<title>Volume 9: This Week in Civic Tech/Open Data</title>
 			<link>https://civicopendata.com/posts/this-week-in-civic-tech-open-data-wk11/</link>

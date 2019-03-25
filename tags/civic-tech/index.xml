@@ -6,10 +6,21 @@
     <description>Recent content in Civic Tech on Civic Open Data</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 18 Mar 2019 17:51:49 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 25 Mar 2019 22:45:11 +0100</lastBuildDate>
     
 	<atom:link href="https://civicopendata.com/tags/civic-tech/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Volume 10: This Week in Civic Tech/Open Data</title>
+      <link>https://civicopendata.com/posts/this-week-in-civic-tech-open-data-wk12/</link>
+      <pubDate>Mon, 25 Mar 2019 22:45:11 +0100</pubDate>
+      
+      <guid>https://civicopendata.com/posts/this-week-in-civic-tech-open-data-wk12/</guid>
+      <description>This Week was a slow week for visualizations, but we have a lot of tweets of what folks talked about in Civic Tech. And the Shifting Neighborhoods story makes up for it, because it is so great.
+Visualizations SHIFTING NEIGHBORHOODS Gentrification and cultural displacement in American cities
+This report is sad but very well made. It looks at census tracts and their development over time and calculates if they are gentrified and if there is a social displacement happening as well.</description>
+    </item>
     
     <item>
       <title>Volume 9: This Week in Civic Tech/Open Data</title>

@@ -7,7 +7,7 @@ hero = ""
 images = []
 tags = ["civic tech", "open data"]
 title = "Volume 10: This Week in Civic Tech/Open Data"
-tweets = []
+tweets = ["1108362585462722560", "1108464785094529024", "1109083055623467008", "1109087573245337600", "1109098674217463809", "1109135167283695617", "1109120081156411392", "1109115875766894593", "1109200099538665472", "1109118876246306819"]
 volume = 10
 [[articles]]
 category = "Civic tech/Community"
@@ -46,6 +46,8 @@ title = "How the NYPD is using machine learning to spot crime patterns"
 url = "https://statescoop.com/how-the-nypd-is-using-machine-learning-to-spot-crime-patterns/"
 
 +++
+This Week was a slow week for visualizations, but we have a lot of tweets of what folks talked about in Civic Tech. And the Shifting Neighborhoods story makes up for it, because it is so great. 
+
 ## Visualizations
 
 ### [SHIFTING NEIGHBORHOODS](http://maps.ncrc.org/gentrificationreport/index.html)
@@ -54,7 +56,7 @@ Gentrification and cultural displacement in American cities
 
 This report is sad but very well made. It looks at census tracts and their development over time and calculates if they are gentrified and if there is a social displacement happening as well.
 
-There are a ton of graphics in this report that helps make the point.   
+There are a ton of graphics in this report that helps make the point.  
 Let's dive a little deeper, but I think this should be a separate post.
 
 The next graphic is a little misleading or does not make an excellent point. Bigger cities tend to have more neighborhoods gentrified because they have more census tracts. They have identified 1000 census tracts to be gentrified. If a census tract has on average a population of 4000 (source), this means that 4,000,000 people or \~1% of the US population are facing or faced gentrification.

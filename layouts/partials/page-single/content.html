@@ -1,3 +1,8 @@
+
+{{ $cloudinaryIn := "<img src=\"(https://res.cloudinary.com/.*/image/upload/)(.*)\" alt=\"(.*)\" />" }}
+{{ $cloudinaryOut := "<img sizes=\"(min-width: 30em) 28em, 100vw\" srcset=\"$1,dpr_auto,f_auto,q_70,w_256/$2 256w, $1,dpr_auto,f_auto,q_70,w_512/$2 512w, $1,dpr_auto,f_auto,q_70,w_768/$2 768w, $1,dpr_auto,f_auto,q_70,w_1024/$2 1024w, $1,dpr_auto,f_auto,q_70,w_1280/$2 1280w\" src=\"$1,dpr_auto,f_auto,q_70,w_512/$2\" alt=\"$3\" />" }}
+{{ $finalContent := .Content | replaceRE $cloudinaryIn $cloudinaryOut | safeHTML }}
+
 <article>
   <header>
     <h1>{{ .Title }}</h1>
@@ -21,7 +26,7 @@
   </div>
   {{ end }}
   <div class="post">
-    {{ .Content }}
+    {{ $finalContent }}
   </div>
   {{ partial "page-single/content-upgrade" . }}
   {{ partial "page-single/post-navigation.html" . }}

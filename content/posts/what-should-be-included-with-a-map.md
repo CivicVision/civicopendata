@@ -37,6 +37,6 @@ There is always room for the title.
 
 ### Projection
 
-Think about your projection. Don’t use the default of the library or tool you’re using. It is almost always wrong for your data. Don’t know much about projections? Take a look here.
+Think about your projection. Don’t use the default of the library or tool you’re using. It is almost always wrong for your data. Don’t know much about projections? [Take a look here.](https://mapschool.io/#projection)
 
 As a general rule: please don’t use the default Mercator projection everyone used to use. All libraries now support different better-suited projections.

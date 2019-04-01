@@ -49,7 +49,7 @@
 
 &lt;h3 id=&#34;projection&#34;&gt;Projection&lt;/h3&gt;
 
-&lt;p&gt;Think about your projection. Don’t use the default of the library or tool you’re using. It is almost always wrong for your data. Don’t know much about projections? Take a look here.&lt;/p&gt;
+&lt;p&gt;Think about your projection. Don’t use the default of the library or tool you’re using. It is almost always wrong for your data. Don’t know much about projections? &lt;a href=&#34;https://mapschool.io/#projection&#34;&gt;Take a look here.&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;As a general rule: please don’t use the default Mercator projection everyone used to use. All libraries now support different better-suited projections.&lt;/p&gt;
 </description><category domain="https://civicopendata.com/categories/maps">Maps</category>

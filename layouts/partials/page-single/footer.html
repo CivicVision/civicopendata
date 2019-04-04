@@ -28,3 +28,6 @@
 </script>
 {{ end }}
 {{ end }}
+{{ if $.Param "notebook"}}
+	{{ partial "observable" .}}
+{{ end }}

@@ -1,0 +1,18 @@
+<script type="module">
+	import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@4/dist/runtime.js";
+	{{range .Params.notebook }}
+		import {{.namespace}}_define from "https://api.observablehq.com/{{.link}}.js?v=3";
+
+		const {{.namespace}}_runtime = new Runtime();
+		const {{.namespace}}_observer = function(name) {
+			{{range .elements}}
+			if (name === "{{.name}}") {
+				return new Inspector(document.querySelector("#{{.id}}"));
+			}
+			{{end}}
+		}
+		const {{.namespace}}_main = {{.namespace}}_runtime.module({{.namespace}}_define, {{.namespace}}_observer);
+	{{end}}
+
+
+</script>

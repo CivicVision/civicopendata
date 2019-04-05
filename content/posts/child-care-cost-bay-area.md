@@ -24,15 +24,15 @@ I thought this visualization could be improved to bring the point across more cl
 A slope chart would be a great option.
 
 > A slope graph can be used to show a ‘before and after’ story of different values, based on comparing their values at different points in time. The related values are connected by slopes.
-
-([http://seeingdata.org/taketime/inside-the-chart-slope-graph/](http://seeingdata.org/taketime/inside-the-chart-slope-graph/ "http://seeingdata.org/taketime/inside-the-chart-slope-graph/"))
+>
+> [_http://seeingdata.org/taketime/inside-the-chart-slope-graph/_](http://seeingdata.org/taketime/inside-the-chart-slope-graph/ "http://seeingdata.org/taketime/inside-the-chart-slope-graph/")
 
 **I do not do this to offend anybody, just as an exercise for myself.**  
 Here is the resulting chart:
 
 <div id="chart"></div>
 
-I think it communicates more directly which Counties were hit the hardest with increase child care cost and makes it easier to read and understand without reading the numbers. 
+I think it communicates more directly which Counties were hit the hardest with increase child care cost and makes it easier to read and understand without reading the numbers.
 
 The original article with the visualization can be found [here](https://www.mercurynews.com/2019/02/03/you-think-bay-area-housing-is-expensive-childcare-costs-are-rising-too/)
 The original source is the [Insight Center for Community Economic Development](https://insightcced.org).

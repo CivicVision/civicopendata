@@ -18,6 +18,7 @@ fields:
   name: hero
   label: Hero Image
 pages:
+- content/posts/child-care-cost-bay-area.md
 - content/posts/what-should-be-included-with-a-map.md
 - content/posts/toronto-high-rise-building-inspection.md
 - content/posts/mapping-with-d3.md

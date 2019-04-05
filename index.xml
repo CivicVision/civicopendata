@@ -6,11 +6,47 @@
     <description>Recent content on Civic Open Data</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 25 Mar 2019 22:45:11 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 05 Apr 2019 18:12:47 +0200</lastBuildDate>
     
         <atom:link href="https://civicopendata.com/index.xml" rel="self" type="application/rss+xml" />
     
 		
+		<item>
+			<title>Child Care Cost: Bay Area</title>
+			<link>https://civicopendata.com/posts/child-care-cost-bay-area/</link>
+			<pubDate>Fri, 05 Apr 2019 18:12:47 +0200</pubDate>
+			
+			<guid>https://civicopendata.com/posts/child-care-cost-bay-area/</guid>
+			<description>&lt;p&gt;In &lt;a href=&#34;https://civicopendata.com/posts/this-week-in-civic-tech-open-data-wk-6/&#34;&gt;Volume 4&lt;/a&gt; of my weekly roundup, I stumbled across this exciting dataset about Childcare cost in the bay area.&lt;/p&gt;
+
+&lt;p&gt;Here is the graphic that I looked at:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/civicvision/image/upload/v1549897780/Volume%204/child-care-bay-area.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I thought this visualization could be improved to bring the point across more clearly.&lt;/p&gt;
+
+&lt;p&gt;A slope chart would be a great option.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;A slope graph can be used to show a ‘before and after’ story of different values, based on comparing their values at different points in time. The related values are connected by slopes.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;(&lt;a href=&#34;http://seeingdata.org/taketime/inside-the-chart-slope-graph/&#34; title=&#34;http://seeingdata.org/taketime/inside-the-chart-slope-graph/&#34;&gt;http://seeingdata.org/taketime/inside-the-chart-slope-graph/&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;I do not do this to offend anybody, just as an exercise for myself.&lt;/strong&gt;&lt;br /&gt;
+Here is the resulting chart:&lt;/p&gt;
+
+&lt;div id=&#34;chart&#34;&gt;&lt;/div&gt;
+
+&lt;p&gt;I think it communicates more directly which Counties were hit the hardest with increase child care cost and makes it easier to read and understand without reading the numbers.&lt;/p&gt;
+
+&lt;p&gt;The original article with the visualization can be found &lt;a href=&#34;https://www.mercurynews.com/2019/02/03/you-think-bay-area-housing-is-expensive-childcare-costs-are-rising-too/&#34;&gt;here&lt;/a&gt;
+The original source is the &lt;a href=&#34;https://insightcced.org&#34;&gt;Insight Center for Community Economic Development&lt;/a&gt;.
+I published the data on &lt;a href=&#34;https://data.world/milafrerichs/child-care-cost-bay-area/workspace/file?filename=child_care_bay_area_tidy.csv&#34;&gt;data.world&lt;/a&gt;&lt;/p&gt;
+</description>
+			
+		</item>
+    
 		<item>
 			<title>Volume 10: This Week in Civic Tech/Open Data</title>
 			<link>https://civicopendata.com/posts/this-week-in-civic-tech-open-data-wk12/</link>

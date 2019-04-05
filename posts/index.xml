@@ -6,10 +6,23 @@
     <description>Recent content in Posts on Civic Open Data</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 25 Mar 2019 22:45:11 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 05 Apr 2019 18:12:47 +0200</lastBuildDate>
     
 	<atom:link href="https://civicopendata.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Child Care Cost: Bay Area</title>
+      <link>https://civicopendata.com/posts/child-care-cost-bay-area/</link>
+      <pubDate>Fri, 05 Apr 2019 18:12:47 +0200</pubDate>
+      
+      <guid>https://civicopendata.com/posts/child-care-cost-bay-area/</guid>
+      <description>In Volume 4 of my weekly roundup, I stumbled across this exciting dataset about Childcare cost in the bay area.
+Here is the graphic that I looked at:
+I thought this visualization could be improved to bring the point across more clearly.
+A slope chart would be a great option.
+ A slope graph can be used to show a ‘before and after’ story of different values, based on comparing their values at different points in time.</description>
+    </item>
     
     <item>
       <title>Volume 10: This Week in Civic Tech/Open Data</title>

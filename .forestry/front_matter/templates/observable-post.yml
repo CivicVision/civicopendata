@@ -1,4 +1,12 @@
 ---
 label: Observable Post
 hide_body: false
-fields: []
+fields:
+- type: text
+  name: title
+  label: Title
+  config:
+    required: true
+- type: textarea
+  name: social_media_description
+  label: Social media Description

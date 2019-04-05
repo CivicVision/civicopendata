@@ -1,7 +1,6 @@
 +++
 categories = []
 date = "2019-04-05T18:12:47+02:00"
-draft = true
 has_visualization = false
 hero = ""
 tags = []

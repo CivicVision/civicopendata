@@ -6,6 +6,12 @@ has_visualization = false
 hero = ""
 tags = []
 title = "Child Care Cost: Bay Area"
+[[notebook]]
+	link = "@milafrerichs/child-care-cost-bay-area"
+	namespace = "ccc"
+[[notebook.elements]]
+name = "chart"
+id = "chart"
 
 +++
 In Volume x of my weekly roundup I stumbled across this interesting dataset about Child care cost in the bay area.
@@ -23,3 +29,9 @@ A slope chart would be a great option.
 > A slope graph can be used to show a ‘before and after’ story of different values, based on comparing their values at different points in time. The related values are connected by slopes.
 
 ([http://seeingdata.org/taketime/inside-the-chart-slope-graph/](http://seeingdata.org/taketime/inside-the-chart-slope-graph/ "http://seeingdata.org/taketime/inside-the-chart-slope-graph/"))
+
+<div id="chart"></div>
+
+The original article with the visualization can be found [here]()
+The original source is the [Insight Center for Community Economic Development](https://insightcced.org).
+I published the data on [data.world](https://data.world/milafrerichs/child-care-cost-bay-area/workspace/file?filename=child_care_bay_area_tidy.csv)

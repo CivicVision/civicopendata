@@ -6,11 +6,201 @@
     <description>Recent content in This week in Civic Tech/Open Data on Civic Open Data</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 25 Mar 2019 22:45:11 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 08 Apr 2019 16:33:41 +0200</lastBuildDate>
     
         <atom:link href="https://civicopendata.com/categories/this-week-in-civic-tech/index.xml" rel="self" type="application/rss+xml" />
     
 		
+		<item>
+			<title>Volume 11: This Week in Civic Tech/Open Data</title>
+			<link>https://civicopendata.com/posts/this-week-in-civic-tech-open-data-wk13/</link>
+			<pubDate>Mon, 08 Apr 2019 16:33:41 +0200</pubDate>
+			
+			<guid>https://civicopendata.com/posts/this-week-in-civic-tech-open-data-wk13/</guid>
+			<description>
+
+&lt;p&gt;This week is a short one. A lot of tweets though :)&lt;/p&gt;
+
+&lt;h2 id=&#34;visualizations&#34;&gt;Visualizations&lt;/h2&gt;
+
+&lt;h3 id=&#34;london-arts-map-https-maps-london-gov-uk-cim-index-html&#34;&gt;&lt;a href=&#34;https://maps.london.gov.uk/cim/index.html&#34;&gt;London Arts Map&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/civicvision/image/upload/v1554183582/TWICT/Volume%2011/london-arts-map.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;The collated data on the capital&amp;rsquo;s cultural locations is hoped to support local authorities, property developers and associations develop existing clusters and build creative infrastructure&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;em&gt;This map is a great start and typically for these kind of maps, where you throw a lot of data at the user. The clusters are a good way to convey the right amount of information. But once you click further these symbols appear and make it really hard to see and read the map.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Takeway: Be careful when to use symbols. Especially if you have a lot of data to show.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;mega-cities&#34;&gt;Mega Cities&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/civicvision/image/upload/v1554182333/TWICT/Volume%2011/megacities.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;This is a great looking map with an interesting projection that serves the data well.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Takeaway:&lt;br /&gt;
+Map Projections can help you display data differently and make data more readable.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;county-profiles-https-ce-naco-org&#34;&gt;&lt;a href=&#34;https://ce.naco.org/&#34;&gt;County profiles&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://res.cloudinary.com/civicvision/image/upload/v1554183185/TWICT/Volume%2011/county-profiles.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Takeaway:&lt;br /&gt;
+Sometimes your visualization needs more explanations. Make sure to include them.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;civic-tech-open-data&#34;&gt;Civic Tech/Open Data&lt;/h2&gt;
+
+&lt;h3 id=&#34;civic-tech-guide-https-civictech-guide&#34;&gt;&lt;a href=&#34;https://civictech.guide/&#34;&gt;Civic Tech Guide&lt;/a&gt;&lt;/h3&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Your guide to tech for public good. By @mstem, @mlsif, and people like you. A crowdsourced, global collection of civic tech tools and projects since 1994.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;If you haven&amp;rsquo;t seen it in the last weeks check out the Civic Tech Guide. They add more and more every week.&lt;/p&gt;
+
+&lt;h3 id=&#34;quarterly-post-about-civic-tech-in-canada-https-medium-com-code-for-canada-civic-tech-in-canada-q1-2019-2ba172f493ec&#34;&gt;&lt;a href=&#34;https://medium.com/code-for-canada/civic-tech-in-canada-q1-2019-2ba172f493ec&#34;&gt;Quarterly post about Civic tech in Canada&lt;/a&gt;&lt;/h3&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;These quarterly blog posts share the latest happenings from Canada’s civic tech groups, and highlight the benefits they’re delivering in their communities.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;overcoming-barriers-identifying-challenges-for-calfresh-applicants-without-stable-housing-https-medium-com-code-for-america-overcoming-barriers-identifying-challenges-for-calfresh-applicants-without-stable-housing-9b18bb98952f&#34;&gt;&lt;a href=&#34;https://medium.com/code-for-america/overcoming-barriers-identifying-challenges-for-calfresh-applicants-without-stable-housing-9b18bb98952f&#34;&gt;Overcoming Barriers: Identifying challenges for CalFresh applicants without stable housing&lt;/a&gt;&lt;/h3&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;We wanted to learn more about people experiencing homelessness and their experiences applying for CalFresh benefits online. To do so, we interviewed 40 GetCalFresh users experiencing homelessness about the enrollment process, conducted in-person outreach to help individuals living outside with their applications, and analyzed 62,000 applications submitted in 2018.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;g0v-grant-taiwan-s-the-homeless-helper-makes-best-use-of-every-resources-https-g0v-news-homelesshelper-8c7c145141be&#34;&gt;&lt;a href=&#34;https://g0v.news/homelesshelper-8c7c145141be&#34;&gt;g0v Grant: Taiwan’s The Homeless Helper makes best use of every resources.&lt;/a&gt;&lt;/h3&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Homeless is a project that tries to consolidate resources to solve the issue of uneven resource distribution.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;18f-s-four-favorite-projects-of-2018-https-18f-gsa-gov-2019-03-22-18f-5-anniv-fav-project&#34;&gt;&lt;a href=&#34;https://18f.gsa.gov/2019/03/22/18F-5-anniv-fav-project/&#34;&gt;18F’s four favorite projects of 2018&lt;/a&gt;&lt;/h3&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;To continue our birthday celebrations, we’re saluting those projects and partners that inspired our team to do their best to improve the user experience of government. We asked staff from acquisitions to strategy to share what project they loved working on during the past year. We received many fabulous nominations, and we’re sharing with you the top four submissions (in no particular order).&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;new-maryland-open-data-portal-cuts-down-duplicate-records-https-statescoop-com-new-maryland-open-data-portal-cuts-down-duplicate-records&#34;&gt;&lt;a href=&#34;https://statescoop.com/new-maryland-open-data-portal-cuts-down-duplicate-records/&#34;&gt;New Maryland open data portal cuts down duplicate records&lt;/a&gt;&lt;/h3&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;The Maryland Department of Information Technology announced Thursday a refresh of the state’s open data portal that’s expected to heighten access to government information for non-technical users and better organize the state’s internal data use.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;the-pathway-forward-for-mapping-broadband-speeds-in-america-https-medium-com-louisville-metro-opi2-the-pathway-forward-for-mapping-broadband-speeds-in-america-da7df35320c2&#34;&gt;&lt;a href=&#34;https://medium.com/louisville-metro-opi2/the-pathway-forward-for-mapping-broadband-speeds-in-america-da7df35320c2&#34;&gt;The Pathway Forward for Mapping Broadband Speeds in America&lt;/a&gt;&lt;/h3&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;As a country, we need to do a better job mapping broadband availability and speeds. Local policy makers and digital inclusion champions need this information to make decisions about where to focus their efforts and where additional broadband infrastructure should be built.&lt;/p&gt;
+
+&lt;p&gt;We are excited to share that the next step of development will kick off in April at Hack for a Cause in Eugene, Oregon.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;tweets&#34;&gt;Tweets&lt;/h2&gt;
+
+&lt;p&gt;
+  &lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;We&amp;#39;re working on an &lt;a href=&#34;https://twitter.com/hashtag/opendata?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#opendata&lt;/a&gt; policy for Buncombe County so that citizens can easily access more types of public data! Want to help? Come to &lt;a href=&#34;https://twitter.com/code4asheville?ref_src=twsrc%5Etfw&#34;&gt;@code4asheville&lt;/a&gt;&amp;#39;s project night, 5:30PM at Stephens Lee! &lt;a href=&#34;https://twitter.com/hashtag/avlgov?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#avlgov&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/avlnews?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#avlnews&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/transparency?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#transparency&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/civictech?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#civictech&lt;/a&gt; &lt;a href=&#34;https://t.co/q9jv3FYEFa&#34;&gt;https://t.co/q9jv3FYEFa&lt;/a&gt;&lt;/p&gt;&amp;mdash; Patrick Conant (@patrickconant) &lt;a href=&#34;https://twitter.com/patrickconant/status/1111257820522053632?ref_src=twsrc%5Etfw&#34;&gt;March 28, 2019&lt;/a&gt;&lt;/blockquote&gt;
+
+
+
+
+  &lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Here&amp;#39;s more on our award-winning collaboration with &lt;a href=&#34;https://twitter.com/cityofmelbourne?ref_src=twsrc%5Etfw&#34;&gt;@cityofmelbourne&lt;/a&gt;. GovCore is an open source information management system that was made for councils, by councils! &lt;a href=&#34;https://twitter.com/hashtag/CivicTech?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#CivicTech&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/DigitalGovernment?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#DigitalGovernment&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/LocalGovernment?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#LocalGovernment&lt;/a&gt;&lt;a href=&#34;https://t.co/6Se9RRDLrO&#34;&gt;https://t.co/6Se9RRDLrO&lt;/a&gt;&lt;/p&gt;&amp;mdash; Code for Australia (@CodeforAus) &lt;a href=&#34;https://twitter.com/CodeforAus/status/1111030195752886272?ref_src=twsrc%5Etfw&#34;&gt;March 27, 2019&lt;/a&gt;&lt;/blockquote&gt;
+
+
+
+
+  &lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Last Thursday, &lt;a href=&#34;https://twitter.com/Morchickit?ref_src=twsrc%5Etfw&#34;&gt;@Morchickit&lt;/a&gt; shared lessons learned from co-founding &lt;a href=&#34;https://twitter.com/OpenHeroines?ref_src=twsrc%5Etfw&#34;&gt;@OpenHeroines&lt;/a&gt;. She also shared their governance model and advice for men to be better allies to women in &lt;a href=&#34;https://twitter.com/hashtag/opengov?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#opengov&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/opendata?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#opendata&lt;/a&gt; &amp;amp; &lt;a href=&#34;https://twitter.com/hashtag/civictech?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#civictech&lt;/a&gt;. Thankfully, we took notes and made a recording. &lt;a href=&#34;https://t.co/epvAM50EgR&#34;&gt;https://t.co/epvAM50EgR&lt;/a&gt; &lt;a href=&#34;https://t.co/k5C5sbvKWn&#34;&gt;pic.twitter.com/k5C5sbvKWn&lt;/a&gt;&lt;/p&gt;&amp;mdash; Dirk Slater (@FabRider) &lt;a href=&#34;https://twitter.com/FabRider/status/1110577289480359936?ref_src=twsrc%5Etfw&#34;&gt;March 26, 2019&lt;/a&gt;&lt;/blockquote&gt;
+
+
+
+
+  &lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;This is a fantastic vision for &lt;a href=&#34;https://twitter.com/hashtag/opengov?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#opengov&lt;/a&gt; data from the Chief Data Officer of the &lt;a href=&#34;https://twitter.com/uscensusbureau?ref_src=twsrc%5Etfw&#34;&gt;@USCensusBureau&lt;/a&gt;. &lt;br&gt;&lt;br&gt;And I’m more than a little intrigued by the enumeration prototype that we heard about at &lt;a href=&#34;https://twitter.com/hashtag/GovSummitDC?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#GovSummitDC&lt;/a&gt;.&lt;a href=&#34;https://twitter.com/hashtag/opendata?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#opendata&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/civictech?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#civictech&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/oss?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#oss&lt;/a&gt; &lt;a href=&#34;https://t.co/DO88hPYYY5&#34;&gt;pic.twitter.com/DO88hPYYY5&lt;/a&gt;&lt;/p&gt;&amp;mdash; Alex Howard (@digiphile) &lt;a href=&#34;https://twitter.com/digiphile/status/1110595856720412673?ref_src=twsrc%5Etfw&#34;&gt;March 26, 2019&lt;/a&gt;&lt;/blockquote&gt;
+
+
+
+
+  &lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Today I learned the CONSUL citizen participation tool:  &lt;a href=&#34;https://t.co/4ZuChCyhvQ&#34;&gt;https://t.co/4ZuChCyhvQ&lt;/a&gt; is behind &lt;a href=&#34;https://twitter.com/nycgov?ref_src=twsrc%5Etfw&#34;&gt;@NYCgov&lt;/a&gt;&amp;#39;s participatory budgeting platform: &lt;a href=&#34;https://t.co/YxAdg0Jov6&#34;&gt;https://t.co/YxAdg0Jov6&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/OpenGov?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#OpenGov&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/OSS?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#OSS&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/CivicTech?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#CivicTech&lt;/a&gt; &lt;a href=&#34;https://t.co/QKQk7Oqpgw&#34;&gt;https://t.co/QKQk7Oqpgw&lt;/a&gt;&lt;/p&gt;&amp;mdash; Alex Howard (@digiphile) &lt;a href=&#34;https://twitter.com/digiphile/status/1110600081575682048?ref_src=twsrc%5Etfw&#34;&gt;March 26, 2019&lt;/a&gt;&lt;/blockquote&gt;
+
+
+
+
+  &lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;&lt;a href=&#34;https://twitter.com/hashtag/GovTech?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#GovTech&lt;/a&gt; vs &lt;a href=&#34;https://twitter.com/hashtag/CivicTech?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#CivicTech&lt;/a&gt;&lt;br&gt;&lt;br&gt;Compared to &lt;a href=&#34;https://twitter.com/hashtag/GovTech?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#GovTech&lt;/a&gt;, which includes technologies provided to governments to increase the efficiency of their internal operations, &lt;a href=&#34;https://twitter.com/hashtag/CivicTech?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#CivicTech&lt;/a&gt; has its focus on informing, engaging and connecting citizens with their government to improve public good. &lt;a href=&#34;https://t.co/hnLfo59JDA&#34;&gt;pic.twitter.com/hnLfo59JDA&lt;/a&gt;&lt;/p&gt;&amp;mdash; Pollicy (@PollicyOrg) &lt;a href=&#34;https://twitter.com/PollicyOrg/status/1110479265626247168?ref_src=twsrc%5Etfw&#34;&gt;March 26, 2019&lt;/a&gt;&lt;/blockquote&gt;
+
+
+
+
+  &lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;DIY local action in US cities that would involve coalition building between tech and legal aid, civil rights groups, organize and advocate: City ordinances to create moratoriums on dystopian surveillance technology &lt;a href=&#34;https://t.co/mI7Ceaj53V&#34;&gt;https://t.co/mI7Ceaj53V&lt;/a&gt;&lt;/p&gt;&amp;mdash; code-for-PDX (@codeForPDX) &lt;a href=&#34;https://twitter.com/codeForPDX/status/1109883895082684416?ref_src=twsrc%5Etfw&#34;&gt;March 24, 2019&lt;/a&gt;&lt;/blockquote&gt;
+
+
+
+
+  &lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;ICYMI: Learn how &lt;a href=&#34;https://twitter.com/hashtag/userresearch?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#userresearch&lt;/a&gt; is helping Code for Canada fellows at &lt;a href=&#34;https://twitter.com/Transport_gc?ref_src=twsrc%5Etfw&#34;&gt;@Transport_gc&lt;/a&gt; build tools to benefit &lt;a href=&#34;https://twitter.com/hashtag/drone?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#drone&lt;/a&gt; pilots. &lt;a href=&#34;https://t.co/zwWlWQTOZM&#34;&gt;https://t.co/zwWlWQTOZM&lt;/a&gt;&lt;a href=&#34;https://twitter.com/hashtag/digitaldronecollective?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#digitaldronecollective&lt;/a&gt; &lt;a href=&#34;https://t.co/Dtw8pxDKN7&#34;&gt;pic.twitter.com/Dtw8pxDKN7&lt;/a&gt;&lt;/p&gt;&amp;mdash; Code for Canada 🇨🇦 (@code4ca) &lt;a href=&#34;https://twitter.com/code4ca/status/1110232439908118529?ref_src=twsrc%5Etfw&#34;&gt;March 25, 2019&lt;/a&gt;&lt;/blockquote&gt;
+
+
+
+
+  &lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;&amp;quot;Today, we’re a lot less about &amp;#39;hacking&amp;#39; and a lot more about intentional humility.&amp;quot;&lt;a href=&#34;https://twitter.com/18F?ref_src=twsrc%5Etfw&#34;&gt;@18F&lt;/a&gt;, the US government&amp;#39;s digital services agency, shares what they&amp;#39;ve accomplished and learned in their first five years! 🎂&lt;a href=&#34;https://t.co/V3ApI0MYdh&#34;&gt;https://t.co/V3ApI0MYdh&lt;/a&gt;&lt;/p&gt;&amp;mdash; Code for Canada 🇨🇦 (@code4ca) &lt;a href=&#34;https://twitter.com/code4ca/status/1110266375401078787?ref_src=twsrc%5Etfw&#34;&gt;March 25, 2019&lt;/a&gt;&lt;/blockquote&gt;
+
+
+
+
+  &lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Here at &lt;a href=&#34;https://twitter.com/hashtag/CodeForDenver?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#CodeForDenver&lt;/a&gt;’s &lt;a href=&#34;https://twitter.com/hashtag/ProjectNight?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#ProjectNight&lt;/a&gt;, we’re hearing about ExitPlan, a project that aims to connect people who have left cults with resources and support. &lt;a href=&#34;https://t.co/gO9fhNaArA&#34;&gt;pic.twitter.com/gO9fhNaArA&lt;/a&gt;&lt;/p&gt;&amp;mdash; Code for Denver (@CodeForDenver) &lt;a href=&#34;https://twitter.com/CodeForDenver/status/1110342323735592960?ref_src=twsrc%5Etfw&#34;&gt;March 26, 2019&lt;/a&gt;&lt;/blockquote&gt;
+
+
+
+
+  &lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;CURS Faculty Fellow &lt;a href=&#34;https://twitter.com/JBStephens1?ref_src=twsrc%5Etfw&#34;&gt;@JBStephens1&lt;/a&gt; writes on &lt;a href=&#34;https://twitter.com/hashtag/civictech?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#civictech&lt;/a&gt; in &lt;a href=&#34;https://twitter.com/hashtag/NorthCarolina?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#NorthCarolina&lt;/a&gt;: where volunteers use government open data to address community needs through creating free apps or other IT products. &lt;a href=&#34;https://t.co/XrbouK0ihT&#34;&gt;https://t.co/XrbouK0ihT&lt;/a&gt;&lt;/p&gt;&amp;mdash; CURS at UNC (@UNCCURS) &lt;a href=&#34;https://twitter.com/UNCCURS/status/1110529663506542593?ref_src=twsrc%5Etfw&#34;&gt;March 26, 2019&lt;/a&gt;&lt;/blockquote&gt;
+
+
+
+
+  &lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;How can digital technologies help with the implementation of direct&lt;br&gt;democracy?&lt;br&gt;&lt;br&gt;📽️&lt;a href=&#34;https://t.co/smHSRo6GDC&#34;&gt;https://t.co/smHSRo6GDC&lt;/a&gt;&lt;br&gt;&lt;br&gt;Xabier Barandiaran, Universidad del País Vasco • Marjatta Peltonen,&lt;br&gt;Helsinki City Council • Yu-Shan Tseng, Durham University&lt;br&gt;&lt;br&gt; &lt;a href=&#34;https://twitter.com/hashtag/Democracy?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#Democracy&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/OIDP2018?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#OIDP2018&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/CivicTech?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#CivicTech&lt;/a&gt;&lt;/p&gt;&amp;mdash; OIDP (@oidpoidp) &lt;a href=&#34;https://twitter.com/oidpoidp/status/1110637600744898560?ref_src=twsrc%5Etfw&#34;&gt;March 26, 2019&lt;/a&gt;&lt;/blockquote&gt;
+
+
+
+
+  &lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Are you using &lt;a href=&#34;https://twitter.com/hashtag/technology?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#technology&lt;/a&gt; to change the world for the better? Here are 5 ways to tell if you are part of the growing community of &lt;a href=&#34;https://twitter.com/hashtag/PublicInterestTech?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#PublicInterestTech&lt;/a&gt;. &lt;a href=&#34;https://twitter.com/hashtag/Morethancode?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#Morethancode&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/civictech?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#civictech&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/govtech?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#govtech&lt;/a&gt; &lt;a href=&#34;https://t.co/ANTFUnIraw&#34;&gt;https://t.co/ANTFUnIraw&lt;/a&gt;&lt;/p&gt;&amp;mdash; Ford Foundation (@FordFoundation) &lt;a href=&#34;https://twitter.com/FordFoundation/status/1110648665721450496?ref_src=twsrc%5Etfw&#34;&gt;March 26, 2019&lt;/a&gt;&lt;/blockquote&gt;
+
+
+
+
+  &lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;WOW! Beyond excited and humbled to have picked up a few awards last night at &lt;a href=&#34;https://twitter.com/hashtag/MAVTech19?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#MAVTech19&lt;/a&gt;. Well done to the incredible team involved and to &lt;a href=&#34;https://twitter.com/cityofmelbourne?ref_src=twsrc%5Etfw&#34;&gt;@cityofmelbourne&lt;/a&gt; team for trying new things with us! Onwards! 🎉&lt;a href=&#34;https://twitter.com/hashtag/CivicTech?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#CivicTech&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/GovCore?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#GovCore&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/OpenSource?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#OpenSource&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/LocalGovt?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#LocalGovt&lt;/a&gt; &lt;a href=&#34;https://t.co/xe5S1ZEBCi&#34;&gt;https://t.co/xe5S1ZEBCi&lt;/a&gt;&lt;/p&gt;&amp;mdash; Code for Australia (@CodeforAus) &lt;a href=&#34;https://twitter.com/CodeforAus/status/1110663057930256385?ref_src=twsrc%5Etfw&#34;&gt;March 26, 2019&lt;/a&gt;&lt;/blockquote&gt;
+
+
+
+
+  &lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;&amp;quot;People want a mapping solution that can tell a story.&amp;quot; - &lt;a href=&#34;https://twitter.com/AlexUlsh?ref_src=twsrc%5Etfw&#34;&gt;@AlexUlsh&lt;/a&gt; &lt;a href=&#34;https://twitter.com/Mapbox?ref_src=twsrc%5Etfw&#34;&gt;@Mapbox&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/GovSummitDC?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#GovSummitDC&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/digitalstorytelling?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#digitalstorytelling&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/communityengagement?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#communityengagement&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/civictech?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#civictech&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/assetmapping?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#assetmapping&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/opendata?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#opendata&lt;/a&gt; &lt;a href=&#34;https://t.co/ciSOGeJxEx&#34;&gt;pic.twitter.com/ciSOGeJxEx&lt;/a&gt;&lt;/p&gt;&amp;mdash; Justin Franks (@justin__franks) &lt;a href=&#34;https://twitter.com/justin__franks/status/1110698927274237953?ref_src=twsrc%5Etfw&#34;&gt;March 27, 2019&lt;/a&gt;&lt;/blockquote&gt;
+
+
+
+
+  &lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Still buzzing from yesterday’s event &amp;amp; conversations. Thanks to &lt;a href=&#34;https://twitter.com/jovialjoy?ref_src=twsrc%5Etfw&#34;&gt;@jovialjoy&lt;/a&gt; for reminding us that we have agency &amp;amp; choice in how AI develops. It’s on us— nothing is set. What future will we choose? Which biases will we rewrite? &lt;a href=&#34;https://twitter.com/hashtag/UnreasonableConversation?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#UnreasonableConversation&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/ethicaltech?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#ethicaltech&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/Civictech?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#Civictech&lt;/a&gt;&lt;/p&gt;&amp;mdash; Jackie Mahendra (@jaxsun) &lt;a href=&#34;https://twitter.com/jaxsun/status/1110702191843532801?ref_src=twsrc%5Etfw&#34;&gt;March 27, 2019&lt;/a&gt;&lt;/blockquote&gt;
+
+
+
+
+  &lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Good morning! Don’t you love this piece by Savannah folk-artist Panhandle Slim? &lt;a href=&#34;https://twitter.com/hashtag/publicparticipation?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#publicparticipation&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/civictech?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#civictech&lt;/a&gt; &lt;a href=&#34;https://t.co/RYRGkr7Sqd&#34;&gt;pic.twitter.com/RYRGkr7Sqd&lt;/a&gt;&lt;/p&gt;&amp;mdash; OpenSavannah (@opensavannah) &lt;a href=&#34;https://twitter.com/opensavannah/status/1110513323341238273?ref_src=twsrc%5Etfw&#34;&gt;March 26, 2019&lt;/a&gt;&lt;/blockquote&gt;
+
+
+
+
+  &lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;We are working on a tool to find civic info based on your Durham address (such as where to vote, closest post office, etc.).  What information would you like to be able to find based on address?&lt;/p&gt;&amp;mdash; Code for Durham (@codefordurham) &lt;a href=&#34;https://twitter.com/codefordurham/status/1110586296974667776?ref_src=twsrc%5Etfw&#34;&gt;March 26, 2019&lt;/a&gt;&lt;/blockquote&gt;
+
+
+
+
+ &lt;hr /&gt;&lt;/p&gt;
+</description><category domain="https://civicopendata.com/categories/this-week-in-civic-tech">This Week in Civic Tech</category>
+			
+		</item>
+    
 		<item>
 			<title>Volume 10: This Week in Civic Tech/Open Data</title>
 			<link>https://civicopendata.com/posts/this-week-in-civic-tech-open-data-wk12/</link>

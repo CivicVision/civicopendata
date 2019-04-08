@@ -6,10 +6,21 @@
     <description>Recent content in Posts on Civic Open Data</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 05 Apr 2019 18:12:47 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 08 Apr 2019 16:33:41 +0200</lastBuildDate>
     
 	<atom:link href="https://civicopendata.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Volume 11: This Week in Civic Tech/Open Data</title>
+      <link>https://civicopendata.com/posts/this-week-in-civic-tech-open-data-wk13/</link>
+      <pubDate>Mon, 08 Apr 2019 16:33:41 +0200</pubDate>
+      
+      <guid>https://civicopendata.com/posts/this-week-in-civic-tech-open-data-wk13/</guid>
+      <description>This week is a short one. A lot of tweets though :)
+Visualizations London Arts Map  The collated data on the capital&amp;rsquo;s cultural locations is hoped to support local authorities, property developers and associations develop existing clusters and build creative infrastructure
+ This map is a great start and typically for these kind of maps, where you throw a lot of data at the user. The clusters are a good way to convey the right amount of information.</description>
+    </item>
     
     <item>
       <title>Child Care Cost: Bay Area</title>

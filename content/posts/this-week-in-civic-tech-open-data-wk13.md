@@ -3,7 +3,6 @@ articles = []
 calendar_week_published = ""
 categories = ["This Week in Civic Tech"]
 date = "2019-04-08T16:33:41+02:00"
-draft = true
 hero = ""
 images = []
 tags = ["civic tech", "open data"]
